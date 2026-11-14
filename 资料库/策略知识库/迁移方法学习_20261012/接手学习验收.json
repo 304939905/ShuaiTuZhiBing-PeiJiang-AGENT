@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-12",
+  "status": "pass",
+  "full_text_documents": 57,
+  "daily_memories": 13,
+  "full_source_files": 10,
+  "data_structure_files": 10,
+  "registered_sources_hash_checked": 77,
+  "working_local_links": 132,
+  "previous_67_report_study_cards_unchanged": true,
+  "checks": [
+    {
+      "name": "配将服务",
+      "passed": true,
+      "test_count": 37
+    },
+    {
+      "name": "AA补充库",
+      "passed": true,
+      "mode": "source-retired"
+    },
+    {
+      "name": "武将版本解析",
+      "passed": true
+    },
+    {
+      "name": "旧版本证据兼容",
+      "passed": true
+    }
+  ],
+  "limits": [
+    "检查确认登记后源指纹、链接和现有测试行为；不证明线上参数、当前账号事实或强度。",
+    "源码与文档全文阅读由主智能体及阅读协作者完成，主智能体整合并交叉复核关键结论。",
+    "其他历史文档仅定位，不计入全文学习数；外部未随项目复制的记忆未核验。"
+  ]
+}

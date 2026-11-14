@@ -1,0 +1,57 @@
+# Local tools and generated runtimes
+/.tools/
+/.codex_tmp/
+/.release/
+_tmp_madai_review_*/
+
+# Bulk source media and scratch material are published as optional release assets
+/待蒸馏/
+/临时/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.mp3
+*.rar
+*.7z
+*.zip
+*.pdf
+*.psd
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Office temporary and lock files
+~$*
+.~lock.*
+
+# Secrets, raw account exports, and local environment files
+.env
+.env.*
+secrets/
+**/secrets/
+账号数据.json
+账号数据*.json
+account-profile.json
+*.token
+*.pem
+*.key
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+

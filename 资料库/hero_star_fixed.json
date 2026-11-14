@@ -1,0 +1,1799 @@
+{
+ "meta": {
+  "created": "2026-08-21",
+  "updated": "2026-08-22",
+  "purpose": "武将星级权威固化表（杜绝本地库启发式读取错误）",
+  "rule": "星级 = hero_extra.methodId -> hero.json.skill_init -> quality（同名多版本取众数；排除 quality=1 野怪记录；吕布辕门射戟=5星普通版）",
+  "note": "skill_init=200100 界限版通用码、200103 强攻(丁原/宋谦+山贼野怪) 等共用码已通过排除1星野怪+众数正确处理"
+ },
+ "stars": {
+  "梁兴": {
+   "star": "4",
+   "method_id": "200696",
+   "method_name": "迫近",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "司马徽": {
+   "star": "5",
+   "method_id": "200294",
+   "method_name": "徽言龙凤",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "蔡夫人": {
+   "star": "4",
+   "method_id": "200682",
+   "method_name": "猜忌",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张姬": {
+   "star": "5",
+   "method_id": "200094",
+   "method_name": "将门虎女",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "袁姬": {
+   "star": "4",
+   "method_id": "200775",
+   "method_name": "明妃",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "妲己": {
+   "star": "5",
+   "method_id": "200790",
+   "method_name": "青丘媚祸",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "妺喜": {
+   "star": "5",
+   "method_id": "200936",
+   "method_name": "酩酊不休",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "褒姒": {
+   "star": "5",
+   "method_id": "200887",
+   "method_name": "烽火覆周",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "骊姬": {
+   "star": "5",
+   "method_id": "200851",
+   "method_name": "陷储立齐",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "伏寿": {
+   "star": "4",
+   "method_id": "200604",
+   "method_name": "乱离中宫",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "杜氏": {
+   "star": "4",
+   "method_id": "200605",
+   "method_name": "飘零红颜",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "关兴＆张苞": {
+   "star": "5",
+   "method_id": "200933",
+   "method_name": "将门有将",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "少帝": {
+   "star": "3",
+   "method_id": "200185",
+   "method_name": "援军之策",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "夏侯渊": {
+   "star": "5",
+   "method_id": "200655",
+   "method_name": "虎步关右",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "徐晃": {
+   "star": "5",
+   "method_id": "200915",
+   "method_name": "统军畏慎",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "小乔＆大乔": {
+   "star": "5",
+   "method_id": "200652",
+   "method_name": "双艳",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "凌统": {
+   "star": "5",
+   "method_id": "200864",
+   "method_name": "国士无双",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张宝": {
+   "star": "5",
+   "method_id": "200796",
+   "method_name": "地公将军",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "黄盖": {
+   "star": "5",
+   "method_id": "200251",
+   "method_name": "烈火焚舟",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "黄忠": {
+   "star": "5",
+   "method_id": "200680",
+   "method_name": "定军扬威",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "陈宫": {
+   "star": "5",
+   "method_id": "200805",
+   "method_name": "迟智难酬",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "夏侯惇": {
+   "star": "5",
+   "method_id": "200770",
+   "method_name": "盲侯奋勇",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "孙策": {
+   "star": "5",
+   "method_id": "200771",
+   "method_name": "霸王渡江",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "关羽": {
+   "star": "5",
+   "method_id": "200769",
+   "method_name": "樊渊泅囚",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "木鹿大王": {
+   "star": "5",
+   "method_id": "200772",
+   "method_name": "夔吼象踏",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "曹节": {
+   "star": "4",
+   "method_id": "200631",
+   "method_name": "身佑废皇",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "司马懿": {
+   "star": "5",
+   "method_id": "200080",
+   "method_name": "破凰",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张宁": {
+   "star": "5",
+   "method_id": "200685",
+   "method_name": "黄天余音",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "郝昭": {
+   "star": "5",
+   "method_id": "200689",
+   "method_name": "不动如山",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "郭嘉": {
+   "star": "5",
+   "method_id": "200692",
+   "method_name": "奇佐鬼谋",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "庞统": {
+   "star": "5",
+   "method_id": "200693",
+   "method_name": "密谋定蜀",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "陆逊": {
+   "star": "5",
+   "method_id": "200694",
+   "method_name": "火势风威",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "吕布": {
+   "star": "5",
+   "method_id": "200012",
+   "method_name": "辕门射戟",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "董卓": {
+   "star": "5",
+   "method_id": "200014",
+   "method_name": "酒池肉林",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "丁奉": {
+   "star": "5",
+   "method_id": "200258",
+   "method_name": "雪奋短兵",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "韩遂": {
+   "star": "4",
+   "method_id": "200701",
+   "method_name": "据凉通叛",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "麴义": {
+   "star": "4",
+   "method_id": "200702",
+   "method_name": "先登死士",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "公孙瓒": {
+   "star": "5",
+   "method_id": "200955",
+   "method_name": "动如雷震",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "潘凤": {
+   "star": "5",
+   "method_id": "200719",
+   "method_name": "上将潘凤",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张鲁": {
+   "star": "4",
+   "method_id": "200720",
+   "method_name": "师君乐道",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "孟优": {
+   "star": "4",
+   "method_id": "200725",
+   "method_name": "愚勇",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "带来洞主": {
+   "star": "4",
+   "method_id": "200727",
+   "method_name": "伪刺",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "金环三结": {
+   "star": "4",
+   "method_id": "200726",
+   "method_name": "莽撞",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "阿会喃": {
+   "star": "3",
+   "method_id": "200729",
+   "method_name": "顽抗",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "董荼那": {
+   "star": "3",
+   "method_id": "200729",
+   "method_name": "顽抗",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "祝融夫人": {
+   "star": "5",
+   "method_id": "200730",
+   "method_name": "火兽冲锋",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "颜良＆文丑": {
+   "star": "5",
+   "method_id": "200736",
+   "method_name": "二夫之勇",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "诸葛亮": {
+   "star": "5",
+   "method_id": "200737",
+   "method_name": "明其虚实",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "步皇后": {
+   "star": "5",
+   "method_id": "200738",
+   "method_name": "中宫追玺",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "曹纯": {
+   "star": "5",
+   "method_id": "200739",
+   "method_name": "虎豹督军",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "蒯良＆蒯越": {
+   "star": "4",
+   "method_id": "200740",
+   "method_name": "望族不息",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "审配": {
+   "star": "4",
+   "method_id": "200741",
+   "method_name": "孤城死守",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "陈到": {
+   "star": "5",
+   "method_id": "200268",
+   "method_name": "忠克猛烈",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "曹植": {
+   "star": "5",
+   "method_id": "200950",
+   "method_name": "七步释嫌",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "戏志才": {
+   "star": "4",
+   "method_id": "200744",
+   "method_name": "奇士薄寿",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "潘璋": {
+   "star": "4",
+   "method_id": "200745",
+   "method_name": "固陵杀将",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张昭": {
+   "star": "5",
+   "method_id": "200928",
+   "method_name": "竭忠尽智",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "刘豹": {
+   "star": "4",
+   "method_id": "200748",
+   "method_name": "远射",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "楼班": {
+   "star": "4",
+   "method_id": "200748",
+   "method_name": "远射",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "严白虎": {
+   "star": "4",
+   "method_id": "200747",
+   "method_name": "近攻",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张让": {
+   "star": "3",
+   "method_id": "200236",
+   "method_name": "疑兵",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "赵忠": {
+   "star": "3",
+   "method_id": "200234",
+   "method_name": "陷阱",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "夏恽": {
+   "star": "3",
+   "method_id": "200227",
+   "method_name": "佯攻",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "郭胜": {
+   "star": "3",
+   "method_id": "200213",
+   "method_name": "反计",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "毕岚": {
+   "star": "3",
+   "method_id": "200227",
+   "method_name": "佯攻",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "段珪": {
+   "star": "3",
+   "method_id": "200227",
+   "method_name": "佯攻",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "高望": {
+   "star": "3",
+   "method_id": "200236",
+   "method_name": "疑兵",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张恭": {
+   "star": "3",
+   "method_id": "200234",
+   "method_name": "陷阱",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "韩悝": {
+   "star": "3",
+   "method_id": "200213",
+   "method_name": "反计",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "宋典": {
+   "star": "3",
+   "method_id": "200213",
+   "method_name": "反计",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "兀突骨": {
+   "star": "5",
+   "method_id": "200756",
+   "method_name": "藤甲突击",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "花鬘": {
+   "star": "4",
+   "method_id": "200760",
+   "method_name": "花中秀",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "文聘": {
+   "star": "4",
+   "method_id": "200761",
+   "method_name": "疑兵避战",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "诸葛恪": {
+   "star": "5",
+   "method_id": "200762",
+   "method_name": "计定山越",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "全琮": {
+   "star": "4",
+   "method_id": "200763",
+   "method_name": "辅臣应势",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "沙摩柯": {
+   "star": "5",
+   "method_id": "200764",
+   "method_name": "落首箭",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "赵统＆赵广": {
+   "star": "4",
+   "method_id": "200765",
+   "method_name": "虎贲牙将",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张机": {
+   "star": "5",
+   "method_id": "200773",
+   "method_name": "金匮要略",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "诸葛瑾": {
+   "star": "4",
+   "method_id": "200780",
+   "method_name": "斫方善辞",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "吾粲": {
+   "star": "4",
+   "method_id": "200776",
+   "method_name": "覆舟不弃",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "步度根": {
+   "star": "4",
+   "method_id": "200774",
+   "method_name": "北狄互伐",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "刘表": {
+   "star": "5",
+   "method_id": "200952",
+   "method_name": "抚民励德",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "于禁": {
+   "star": "5",
+   "method_id": "200272",
+   "method_name": "当敌制决",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "蜀三相": {
+   "star": "4",
+   "method_id": "200778",
+   "method_name": "衡众",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "徐庶": {
+   "star": "5",
+   "method_id": "200785",
+   "method_name": "破阵强袭",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "朱儁": {
+   "star": "5",
+   "method_id": "200791",
+   "method_name": "西乡武功",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张梁": {
+   "star": "5",
+   "method_id": "200795",
+   "method_name": "人公将军",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "何进": {
+   "star": "4",
+   "method_id": "200250",
+   "method_name": "龙骧虎步",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "陆抗": {
+   "star": "5",
+   "method_id": "200824",
+   "method_name": "西陵克晋",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "法正": {
+   "star": "5",
+   "method_id": "200828",
+   "method_name": "难知如阴",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "曹仁": {
+   "star": "5",
+   "method_id": "200836",
+   "method_name": "平壑拒吴",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "庞德": {
+   "star": "5",
+   "method_id": "200837",
+   "method_name": "令明负榇",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "周泰": {
+   "star": "5",
+   "method_id": "200843",
+   "method_name": "疮痍累身",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "董白": {
+   "star": "5",
+   "method_id": "200848",
+   "method_name": "未笄难言",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张郃": {
+   "star": "5",
+   "method_id": "200849",
+   "method_name": "兵行巧变",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "司马朗": {
+   "star": "3",
+   "method_id": "200121",
+   "method_name": "溃堤",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "司马孚": {
+   "star": "3",
+   "method_id": "200121",
+   "method_name": "溃堤",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "司马馗": {
+   "star": "3",
+   "method_id": "200123",
+   "method_name": "落石",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "司马恂": {
+   "star": "3",
+   "method_id": "200115",
+   "method_name": "夹攻",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "司马进": {
+   "star": "3",
+   "method_id": "200123",
+   "method_name": "落石",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "司马通": {
+   "star": "3",
+   "method_id": "200114",
+   "method_name": "伏兵",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "司马敏": {
+   "star": "3",
+   "method_id": "200115",
+   "method_name": "夹攻",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "卞夫人": {
+   "star": "5",
+   "method_id": "200852",
+   "method_name": "俭仪蹈和",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "李儒": {
+   "star": "5",
+   "method_id": "200857",
+   "method_name": "计谕废立",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "马岱": {
+   "star": "5",
+   "method_id": "200865",
+   "method_name": "奉令护蜀",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "贾诩": {
+   "star": "5",
+   "method_id": "200882",
+   "method_name": "谋谟帷幄",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "大乔": {
+   "star": "5",
+   "method_id": "200884",
+   "method_name": "巧音唤蝶",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张绣": {
+   "star": "5",
+   "method_id": "200885",
+   "method_name": "宣威再战",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "皇甫嵩": {
+   "star": "5",
+   "method_id": "200898",
+   "method_name": "京观垒冢",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "严颜": {
+   "star": "5",
+   "method_id": "200899",
+   "method_name": "断首何怒",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "吕姬": {
+   "star": "5",
+   "method_id": "200902",
+   "method_name": "缚父临危",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "丘力居": {
+   "star": "4",
+   "method_id": "200903",
+   "method_name": "寇略四州",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "迷当大王": {
+   "star": "4",
+   "method_id": "200904",
+   "method_name": "去缚犒军",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "俄何烧戈": {
+   "star": "4",
+   "method_id": "200905",
+   "method_name": "叛羌急袭",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "越吉": {
+   "star": "4",
+   "method_id": "200906",
+   "method_name": "羌帅衅敌",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "彻里吉": {
+   "star": "4",
+   "method_id": "200907",
+   "method_name": "岁贡固疆",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "朵思大王": {
+   "star": "4",
+   "method_id": "200908",
+   "method_name": "疫箭拦江",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "朱然": {
+   "star": "4",
+   "method_id": "200909",
+   "method_name": "名震敌国",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "关索": {
+   "star": "4",
+   "method_id": "200910",
+   "method_name": "月偃蛮平",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "文钦": {
+   "star": "4",
+   "method_id": "200911",
+   "method_name": "勇而无算",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "王双": {
+   "star": "4",
+   "method_id": "200912",
+   "method_name": "万夫之勇",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "华雄": {
+   "star": "5",
+   "method_id": "200927",
+   "method_name": "将出关西",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "魏延": {
+   "star": "5",
+   "method_id": "200930",
+   "method_name": "奇兵拒北",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "王朗": {
+   "star": "5",
+   "method_id": "200934",
+   "method_name": "言出必克",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "孙鲁班": {
+   "star": "5",
+   "method_id": "200937",
+   "method_name": "全主诿异",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "郭皇后": {
+   "star": "5",
+   "method_id": "200940",
+   "method_name": "文德椒房",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "高顺": {
+   "star": "5",
+   "method_id": "200939",
+   "method_name": "登锋陷阵",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "袁绍": {
+   "star": "5",
+   "method_id": "200947",
+   "method_name": "威震河朔",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "蒋钦": {
+   "star": "5",
+   "method_id": "200948",
+   "method_name": "怒浪伐敌",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "王昭君": {
+   "star": "5",
+   "method_id": "200954",
+   "method_name": "汉韵旷野",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "曹彰": {
+   "star": "5",
+   "method_id": "200957",
+   "method_name": "五兵之烈",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "程普": {
+   "star": "5",
+   "method_id": "200958",
+   "method_name": "鏖兵卫主",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "乐进": {
+   "star": "5",
+   "method_id": "200961",
+   "method_name": "奋疾先登",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "小乔": {
+   "star": "5",
+   "method_id": "200960",
+   "method_name": "鸾凤和鸣",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "刘禅": {
+   "star": "5",
+   "method_id": "200962",
+   "method_name": "赐剑长驱",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "西施": {
+   "star": "5",
+   "method_id": "200963",
+   "method_name": "绮阁飘香",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "周仓": {
+   "star": "5",
+   "method_id": "200965",
+   "method_name": "持刀从武",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "田丰": {
+   "star": "5",
+   "method_id": "200966",
+   "method_name": "尽言直谏",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "王允": {
+   "star": "5",
+   "method_id": "200968",
+   "method_name": "连环计",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张邈": {
+   "star": "4",
+   "method_id": "200969",
+   "method_name": "赈穷救急",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "刘岱": {
+   "star": "4",
+   "method_id": "200970",
+   "method_name": "勇追穷寇",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "孔融": {
+   "star": "4",
+   "method_id": "200971",
+   "method_name": "名士在朝",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "陶谦": {
+   "star": "4",
+   "method_id": "200972",
+   "method_name": "三让徐州",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "简雍": {
+   "star": "4",
+   "method_id": "200973",
+   "method_name": "游议定益",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "华歆": {
+   "star": "4",
+   "method_id": "200974",
+   "method_name": "登坛相仪",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "朱治": {
+   "star": "4",
+   "method_id": "200975",
+   "method_name": "忧勤王事",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "司马师": {
+   "star": "5",
+   "method_id": "200983",
+   "method_name": "运筹决胜",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "司马昭": {
+   "star": "5",
+   "method_id": "200984",
+   "method_name": "怀德畏威",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "司马炎": {
+   "star": "5",
+   "method_id": "200985",
+   "method_name": "谋议宏图",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "文鸯": {
+   "star": "5",
+   "method_id": "200986",
+   "method_name": "盛气横凌",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "杜预": {
+   "star": "5",
+   "method_id": "200987",
+   "method_name": "三军夺帅",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "王元姬": {
+   "star": "5",
+   "method_id": "200988",
+   "method_name": "明慧通透",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "卫瓘": {
+   "star": "5",
+   "method_id": "200989",
+   "method_name": "持节镇西",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "贾充": {
+   "star": "5",
+   "method_id": "200990",
+   "method_name": "赏顺伐逆",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "羊祜": {
+   "star": "5",
+   "method_id": "200991",
+   "method_name": "潜谋远计",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "嵇康": {
+   "star": "4",
+   "method_id": "200997",
+   "method_name": "广陵绝唱",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "刘伶": {
+   "star": "4",
+   "method_id": "200998",
+   "method_name": "幕天席地",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "阮籍": {
+   "star": "4",
+   "method_id": "200999",
+   "method_name": "青白分明",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "山涛": {
+   "star": "4",
+   "method_id": "201000",
+   "method_name": "缮甲厉兵",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "向秀": {
+   "star": "4",
+   "method_id": "201001",
+   "method_name": "推己及人",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "阮咸": {
+   "star": "4",
+   "method_id": "201002",
+   "method_name": "神解音律",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "王戎": {
+   "star": "4",
+   "method_id": "201003",
+   "method_name": "卿卿我我",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "司马攸": {
+   "star": "4",
+   "method_id": "201004",
+   "method_name": "明德至亲",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "文虎": {
+   "star": "4",
+   "method_id": "201005",
+   "method_name": "唯瞻父兄",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "曹爽": {
+   "star": "4",
+   "method_id": "200245",
+   "method_name": "强军猛进",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "成济": {
+   "star": "3",
+   "method_id": "200110",
+   "method_name": "浴血",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "冯紞": {
+   "star": "3",
+   "method_id": "200123",
+   "method_name": "落石",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "田续": {
+   "star": "4",
+   "method_id": "200108",
+   "method_name": "重伤",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "王业": {
+   "star": "3",
+   "method_id": "200128",
+   "method_name": "狼烟",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "鲁肃": {
+   "star": "5",
+   "method_id": "201006",
+   "method_name": "同仇敌忾",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "阴丽华": {
+   "star": "5",
+   "method_id": "201007",
+   "method_name": "辞后定朝",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "王子服": {
+   "star": "3",
+   "method_id": "200670",
+   "method_name": "谨言",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "曹豹": {
+   "star": "3",
+   "method_id": "200189",
+   "method_name": "投石轰击",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "郑泰": {
+   "star": "3",
+   "method_id": "200186",
+   "method_name": "援军秘策",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "杨彪": {
+   "star": "3",
+   "method_id": "200138",
+   "method_name": "包扎",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "朱灵": {
+   "star": "3",
+   "method_id": "200195",
+   "method_name": "奋起",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "牛金": {
+   "star": "3",
+   "method_id": "200178",
+   "method_name": "坚守突击",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "孙静": {
+   "star": "3",
+   "method_id": "200197",
+   "method_name": "犒劳",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "吕范": {
+   "star": "3",
+   "method_id": "200101",
+   "method_name": "齐射",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "孙瑜": {
+   "star": "3",
+   "method_id": "200129",
+   "method_name": "毒泉",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "骆统": {
+   "star": "3",
+   "method_id": "200118",
+   "method_name": "火辎",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "贺齐": {
+   "star": "4",
+   "method_id": "200108",
+   "method_name": "重伤",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "程远志": {
+   "star": "3",
+   "method_id": "200179",
+   "method_name": "疾风突击",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "裴元绍": {
+   "star": "3",
+   "method_id": "200104",
+   "method_name": "乱击",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "马元义": {
+   "star": "3",
+   "method_id": "200182",
+   "method_name": "文韬武略",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "波才": {
+   "star": "3",
+   "method_id": "200134",
+   "method_name": "休整",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "邓茂": {
+   "star": "3",
+   "method_id": "200178",
+   "method_name": "坚守突击",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "曹昂": {
+   "star": "3",
+   "method_id": "200098",
+   "method_name": "凿穿",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "许攸": {
+   "star": "4",
+   "method_id": "200247",
+   "method_name": "计焚乌巢",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "郭图": {
+   "star": "3",
+   "method_id": "200200",
+   "method_name": "乱阵",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "荣晦": {
+   "star": "3",
+   "method_id": "200666",
+   "method_name": "游击",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "王衍": {
+   "star": "3",
+   "method_id": "200180",
+   "method_name": "速战坚守",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "黄皓": {
+   "star": "3",
+   "method_id": "200203",
+   "method_name": "劫粮",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "麋芳": {
+   "star": "3",
+   "method_id": "200191",
+   "method_name": "坚守",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "士仁": {
+   "star": "3",
+   "method_id": "200192",
+   "method_name": "铁壁",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "廖立": {
+   "star": "3",
+   "method_id": "200193",
+   "method_name": "固阵",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "典韦": {
+   "star": "5",
+   "method_id": "200993",
+   "method_name": "舍身卫主",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "许劭": {
+   "star": "5",
+   "method_id": "200242",
+   "method_name": "举抑臧否",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "沮授": {
+   "star": "5",
+   "method_id": "200246",
+   "method_name": "缓师徐持",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "周瑜": {
+   "star": "5",
+   "method_id": "200254",
+   "method_name": "衔命建功",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "马腾": {
+   "star": "5",
+   "method_id": "200255",
+   "method_name": "伏波扬砂",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "卫子夫": {
+   "star": "5",
+   "method_id": "200256",
+   "method_name": "持玺兴兵",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "程昱": {
+   "star": "5",
+   "method_id": "200257",
+   "method_name": "审时定计",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "陆绩": {
+   "star": "5",
+   "method_id": "200266",
+   "method_name": "怀橘遗亲",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "袁术": {
+   "star": "5",
+   "method_id": "200262",
+   "method_name": "僭号天子",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "马良": {
+   "star": "5",
+   "method_id": "200265",
+   "method_name": "雅虑适时",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "荀彧": {
+   "star": "5",
+   "method_id": "200269",
+   "method_name": "举贤决机",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "献帝": {
+   "star": "5",
+   "method_id": "200270",
+   "method_name": "天子诏令",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "胡芳": {
+   "star": "5",
+   "method_id": "200273",
+   "method_name": "率尔方雅",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "马谡": {
+   "star": "5",
+   "method_id": "200275",
+   "method_name": "心战为上",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "蒋琬": {
+   "star": "5",
+   "method_id": "200277",
+   "method_name": "守静却敌",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "裴秀": {
+   "star": "5",
+   "method_id": "200278",
+   "method_name": "佐命晋武",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "左慈": {
+   "star": "5",
+   "method_id": "200279",
+   "method_name": "奇门遁甲",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "刘备": {
+   "star": "5",
+   "method_id": "200286",
+   "method_name": "知人待士",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "曹操": {
+   "star": "5",
+   "method_id": "200287",
+   "method_name": "举义诛暴",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "孙坚": {
+   "star": "5",
+   "method_id": "200288",
+   "method_name": "勇挚刚毅",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "姜维": {
+   "star": "5",
+   "method_id": "200290",
+   "method_name": "九伐中原",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "孙权": {
+   "star": "5",
+   "method_id": "200283",
+   "method_name": "自擅江表",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "冯嫽": {
+   "star": "5",
+   "method_id": "200295",
+   "method_name": "锦车持节",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "刘徽": {
+   "star": "5",
+   "method_id": "200296",
+   "method_name": "敛微穷极",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "孟获": {
+   "star": "5",
+   "method_id": "200297",
+   "method_name": "蛮王御众",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "赵云": {
+   "star": "5",
+   "method_id": "200704",
+   "method_name": "银龙孤胆",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "太史慈": {
+   "star": "5",
+   "method_id": "200706",
+   "method_name": "方阵掩杀",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "卢植": {
+   "star": "5",
+   "method_id": "200707",
+   "method_name": "中郎尽瘁",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "甄洛": {
+   "star": "5",
+   "method_id": "200708",
+   "method_name": "幽兰洛神",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "关平": {
+   "star": "4",
+   "method_id": "200709",
+   "method_name": "麦城追殇",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "吴夫人": {
+   "star": "4",
+   "method_id": "200711",
+   "method_name": "阻挠",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张奂": {
+   "star": "4",
+   "method_id": "200712",
+   "method_name": "智取仁守",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "蔡文姬": {
+   "star": "5",
+   "method_id": "200004",
+   "method_name": "胡笳离愁",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张角": {
+   "star": "5",
+   "method_id": "200008",
+   "method_name": "黄天当立",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "孙尚香": {
+   "star": "5",
+   "method_id": "200035",
+   "method_name": "枭姬",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "周姬": {
+   "star": "5",
+   "method_id": "200032",
+   "method_name": "复誓业火",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "十常侍": {
+   "star": "5",
+   "method_id": "200002",
+   "method_name": "乱政",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "貂蝉": {
+   "star": "5",
+   "method_id": "200005",
+   "method_name": "闭月",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "马超": {
+   "star": "5",
+   "method_id": "200013",
+   "method_name": "血溅黄砂",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "马云禄": {
+   "star": "5",
+   "method_id": "200019",
+   "method_name": "红颜铁骑",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "黄月英": {
+   "star": "5",
+   "method_id": "200020",
+   "method_name": "匠心不竭",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张飞": {
+   "star": "5",
+   "method_id": "200022",
+   "method_name": "长坂之吼",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "曹丕": {
+   "star": "5",
+   "method_id": "200025",
+   "method_name": "魏武之泽",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张辽": {
+   "star": "5",
+   "method_id": "200027",
+   "method_name": "其疾如风",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "王异": {
+   "star": "5",
+   "method_id": "200028",
+   "method_name": "世仇",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张春华": {
+   "star": "5",
+   "method_id": "200029",
+   "method_name": "强势",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "甘宁": {
+   "star": "5",
+   "method_id": "200034",
+   "method_name": "侵掠如火",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "吕蒙": {
+   "star": "5",
+   "method_id": "200648",
+   "method_name": "白衣渡江",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "何太后": {
+   "star": "5",
+   "method_id": "200037",
+   "method_name": "母仪浮梦",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "王美人": {
+   "star": "4",
+   "method_id": "200038",
+   "method_name": "饮鸩之怨",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "鲍信": {
+   "star": "4",
+   "method_id": "200679",
+   "method_name": "尽忠迎驾",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "董姬": {
+   "star": "4",
+   "method_id": "200046",
+   "method_name": "修罗姬返",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "严氏": {
+   "star": "4",
+   "method_id": "200649",
+   "method_name": "怯弱",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "邹氏": {
+   "star": "4",
+   "method_id": "200047",
+   "method_name": "枭雄所愿",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "管亥": {
+   "star": "4",
+   "method_id": "200051",
+   "method_name": "劫掠",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "徐荣": {
+   "star": "4",
+   "method_id": "200052",
+   "method_name": "坚盾阵",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张曼成": {
+   "star": "3",
+   "method_id": "200206",
+   "method_name": "追击",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "颜良": {
+   "star": "4",
+   "method_id": "200057",
+   "method_name": "骁勇",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "文丑": {
+   "star": "4",
+   "method_id": "200058",
+   "method_name": "奋威",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "甘皇后": {
+   "star": "4",
+   "method_id": "200062",
+   "method_name": "昭烈神思",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "麋夫人": {
+   "star": "4",
+   "method_id": "200650",
+   "method_name": "存嗣流愿",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "马姬": {
+   "star": "4",
+   "method_id": "200069",
+   "method_name": "神威将女",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "关银屏": {
+   "star": "5",
+   "method_id": "200070",
+   "method_name": "巾帼战阵",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "丁夫人": {
+   "star": "4",
+   "method_id": "200075",
+   "method_name": "决绝",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "徐盛": {
+   "star": "4",
+   "method_id": "200085",
+   "method_name": "炬石",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "徐夫人": {
+   "star": "4",
+   "method_id": "200651",
+   "method_name": "妒后",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "灵帝": {
+   "star": "5",
+   "method_id": "200607",
+   "method_name": "帝临回光",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "王烈": {
+   "star": "3",
+   "method_id": "200114",
+   "method_name": "伏兵",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "刘虞": {
+   "star": "3",
+   "method_id": "200137",
+   "method_name": "急救",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "李肃": {
+   "star": "4",
+   "method_id": "200100",
+   "method_name": "飞虹",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "高览": {
+   "star": "3",
+   "method_id": "200110",
+   "method_name": "浴血",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "祢衡": {
+   "star": "3",
+   "method_id": "200663",
+   "method_name": "云梯",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "吴兰": {
+   "star": "3",
+   "method_id": "200199",
+   "method_name": "威压",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "雷铜": {
+   "star": "3",
+   "method_id": "200238",
+   "method_name": "援护",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "邓忠": {
+   "star": "3",
+   "method_id": "200225",
+   "method_name": "横扫",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "曹洪": {
+   "star": "3",
+   "method_id": "200207",
+   "method_name": "攻其要害",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "荀攸": {
+   "star": "4",
+   "method_id": "200634",
+   "method_name": "十二奇策",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "韩当": {
+   "star": "4",
+   "method_id": "200656",
+   "method_name": "经久善战",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "李通": {
+   "star": "3",
+   "method_id": "200229",
+   "method_name": "奇袭",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "宋谦": {
+   "star": "3",
+   "method_id": "200103",
+   "method_name": "强攻",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "孙桓": {
+   "star": "4",
+   "method_id": "200662",
+   "method_name": "困守",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "董袭": {
+   "star": "4",
+   "method_id": "200660",
+   "method_name": "殉战",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "侯成": {
+   "star": "3",
+   "method_id": "200206",
+   "method_name": "追击",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "魏续": {
+   "star": "4",
+   "method_id": "200100",
+   "method_name": "飞虹",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "袁氏兄弟": {
+   "star": "3",
+   "method_id": "200123",
+   "method_name": "落石",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "刘焉": {
+   "star": "3",
+   "method_id": "200214",
+   "method_name": "规避",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "邓艾": {
+   "star": "5",
+   "method_id": "200677",
+   "method_name": "险途暗渡",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "辛宪英": {
+   "star": "4",
+   "method_id": "200777",
+   "method_name": "预识",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "夏侯月姬": {
+   "star": "4",
+   "method_id": "200733",
+   "method_name": "行樵偶遇",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "敬哀皇后": {
+   "star": "4",
+   "method_id": "200071",
+   "method_name": "默守贤义",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "霍弋": {
+   "star": "4",
+   "method_id": "200653",
+   "method_name": "南中平蛮",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "黄权": {
+   "star": "4",
+   "method_id": "200654",
+   "method_name": "安途若素",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "宋宪": {
+   "star": "3",
+   "method_id": "200097",
+   "method_name": "突进",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "于吉": {
+   "star": "4",
+   "method_id": "200686",
+   "method_name": "符医术毒",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张横": {
+   "star": "4",
+   "method_id": "200695",
+   "method_name": "拒盾",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "李堪": {
+   "star": "4",
+   "method_id": "200695",
+   "method_name": "拒盾",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "马玩": {
+   "star": "4",
+   "method_id": "200697",
+   "method_name": "退避",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "杨秋": {
+   "star": "4",
+   "method_id": "200698",
+   "method_name": "截断",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "侯选": {
+   "star": "4",
+   "method_id": "200696",
+   "method_name": "迫近",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "程银": {
+   "star": "4",
+   "method_id": "200665",
+   "method_name": "抢攻",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "成宜": {
+   "star": "4",
+   "method_id": "200697",
+   "method_name": "退避",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  },
+  "张任": {
+   "star": "4",
+   "method_id": "200630",
+   "method_name": "拔剑护主",
+   "source": "hero_extra.methodId -> hero.json.skill_init 众数(排除1星野怪, 2026-08-22)"
+  }
+ }
+}

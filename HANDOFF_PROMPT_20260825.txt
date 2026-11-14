@@ -1,0 +1,43 @@
+交接提示词（复制给接手 AI，零上下文可直接使用）
+
+你是率土之滨抖音视频深度学习项目的接手 AI——本项目对你而言是全新项目，你没有历史对话上下文。请按以下步骤完成接手。
+
+项目根目录：D:\Desktop\shandou\
+
+第一步：先读这 3 份文件（按顺序，读完再动手）
+
+1. D:\Desktop\shandou\HANDOFF_20260825.md —— 项目交接文件（零基础版）：含项目在做什么、术语表、数据流水线、当前状态、资产地图、环境与命令。读完即建立全局。
+2. D:\Desktop\shandou\USAGE_MANUAL_20260825.md —— 项目使用手册：索引库/资料库/记忆文件/成果的用法 + 精编报告阅读指南。
+3. D:\Desktop\shandou\.workbuddy\memory\RULES\（01_卡面识别 / 02_实体核验 / 03_表述规范 / 04_数据源 / 05_流程）—— 规则权威库，5 个文件全读。所有判读/写作规则只认这里。
+
+第二步：验证环境（照抄命令）
+
+cd /d/Desktop/shandou && \
+PYTHONPATH=D:/WorkBuddyData/python-env/shandou/Lib/site-packages \
+C:/Users/Administrator/.workbuddy/binaries/python/versions/3.13.12/python.exe \
+D:/WorkBuddyData/verify_refined_v3.py
+
+预期输出：21 份全部通过、ISSUE=0。（若报错：先读 HANDOFF §8.1 环境坑。）
+
+第三步：向用户汇报接手完成，并主动提醒
+
+1. 汇报：已完成接手（环境验证通过 / 已读规则库 / 已了解当前状态）。
+2. 主动提醒用户以下待决项（见 HANDOFF §4/§5）：
+   - ① 第十三期任务挂起中（#153/#154），问是否继续；
+   - ② 1秒版缺陷修复未启动（PHASE0 报告已出：星级 8 处 + OCR 误识 163 处，待用户确认修补范围 #147）；
+   - ③ 存疑清单 16 条"已实质解决"是否补【定案】标记到母本；
+   - ④ 海之呼唤 27 视频自评（#92）是否要做。
+
+铁律速记（细节以 RULES/ 为准）
+
+- 涉图必调视觉模型 资料库/vision_glm.py（Read 读图不可靠有幻觉）；视觉模型不可用→立即暂停向用户汇报。
+- 环境：managed python（C:\Users\Administrator\.workbuddy\binaries\python\versions\3.13.12\python.exe）+ PYTHONPATH=D:\WorkBuddyData\python-env\shandou\Lib\site-packages + 脚本文件模式（venv heredoc 会崩 WinError 123）。
+- 星级/兵种以「画面 + 自带战法→methodName」唯一锚定；「极」=红度满星非第6星。
+- 官方库一律不补录，须用户真人核验同意；多版本武将按帧判断；版本唯一锁定原则。
+- 粉丝阵容=点评对象非攻略参考；宝物缺失写空缺不猜测；宝物三层结构 gear/traits/unit_traits。
+- 术语统一：UP主→作者；钩子话术不进精编；纠错过程落局限节不进正文。
+- 生成器陷阱：gen_refined_report.py 只单文件 render() 勿跑主流程；旧56 蒸馏后撤回 3 份多余 _精修（焚决/神赏篇/攻其篇粉丝投稿解析）。
+
+第一个动作
+
+跑 verify_refined_v3.py → 读 RULES 五文件 → 向用户汇报并提醒第十三期挂起项。

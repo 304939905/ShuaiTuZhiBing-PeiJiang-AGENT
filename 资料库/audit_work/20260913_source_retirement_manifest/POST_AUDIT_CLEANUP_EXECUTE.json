@@ -1,0 +1,435 @@
+﻿{
+    "mode":  "execute",
+    "completed_at":  "2026-09-14T01:03:03",
+    "deletion_performed":  true,
+    "high_confidence_files":  7,
+    "old_output_files":  63,
+    "total_files":  70,
+    "bytes":  16860931,
+    "mib":  16.08,
+    "protected_active_reports":  66,
+    "remaining_targets":  0,
+    "validation_passed":  true,
+    "items":  [
+                  {
+                      "path":  "D:\\Desktop\\shandou\\--output_dir",
+                      "bytes":  591121,
+                      "sha256":  "4dd29c0c2df582db033bfcf28aed57813141ff0b72969eaadff006b6553aa84e",
+                      "class":  "high_confidence_historical_artifact"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_1sref.log",
+                      "bytes":  8597,
+                      "sha256":  "966c14cf2c1c48a550667d305b03672796a9e0333777c087e2d6f6714ff2b622",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_active_scan_miswrite.json",
+                      "bytes":  695634,
+                      "sha256":  "9d077aa7d195a8639cd3510a8594098364626e3b265b0cf20f06376a16034122",
+                      "class":  "high_confidence_historical_artifact"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_active_scan_unknown.json",
+                      "bytes":  610607,
+                      "sha256":  "66caf56e2d27fd193cc419ae006f3c97867c03862be6bdea0104d626255dece7",
+                      "class":  "high_confidence_historical_artifact"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_check_zr2_result.txt",
+                      "bytes":  158,
+                      "sha256":  "d8b876c48d2f59dc04e9767c0393750f6a89439b4a69018741373ab9389be2ab",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_deep.log",
+                      "bytes":  8430,
+                      "sha256":  "37a977452a078cd326ec0cbc42037f47d3f9bfd7b77be5aed6ba0ca4ce274164",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_final_test.log",
+                      "bytes":  2415,
+                      "sha256":  "74c5eaad5ab8fdff616e90be161c9388f9b135c4442e378a087dc04875c3899a",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_finalize.log",
+                      "bytes":  690,
+                      "sha256":  "f5b50311f977b0ae3bcab97cc696e01ea3cd88ec412ae54a46e8ed11c36203a3",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_frame_check_out.txt",
+                      "bytes":  2186,
+                      "sha256":  "03bf2cc4df6714348a374f14e3ac7fe0451941a078bf5fbb9da98e7afa8cdad0",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_framecheck.log",
+                      "bytes":  7998,
+                      "sha256":  "66f06130b06c804dfead57250f55dc554baf0201f29f3f0db61cc64790e89cf9",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_framecheck2.log",
+                      "bytes":  7998,
+                      "sha256":  "66f06130b06c804dfead57250f55dc554baf0201f29f3f0db61cc64790e89cf9",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_gongqi_batch_00.txt",
+                      "bytes":  294,
+                      "sha256":  "32fc5b6554cb5ed7af2659b2b028bd413d0d1464e700d8020abff96db78f08d2",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_gongqi_batch_01.txt",
+                      "bytes":  294,
+                      "sha256":  "d83b7192e0d52f174b87ef23e3889b48bfbb233b20585ab267dc50007ea1770d",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_gongqi_batch_02.txt",
+                      "bytes":  294,
+                      "sha256":  "c5b29d7e3f39c83c1727da2e321211bc20b464999cc945de7666656eff941dc2",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_gongqi_batch_03.txt",
+                      "bytes":  294,
+                      "sha256":  "d0f7fe49883c8266944e9e187db252a98475deab15ef27da4d5750c5c17171f0",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_gongqi_batch_04.txt",
+                      "bytes":  294,
+                      "sha256":  "5f7869bc548da8863c6a7642f6b8cf12ffdcd1dac194c6bbbb9cd5a56fae4a88",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_gongqi_batch_05.txt",
+                      "bytes":  294,
+                      "sha256":  "583eedefceb29c5e5c3eb27783e0bf9594368e348b86aad5f1e1bebac81da6a5",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_gongqi_batch_06.txt",
+                      "bytes":  294,
+                      "sha256":  "80df02491a5e39330b117e4c3dd8c30178027505bc2e158c000d78117ddf8c59",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_gongqi_batch_07.txt",
+                      "bytes":  273,
+                      "sha256":  "c12664c7d4846025de15ae00f9e04d9cd86547c8b5a5754771d5649cb1958de4",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_phaseA_apply_err.log",
+                      "bytes":  0,
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_phaseA_docx_err.log",
+                      "bytes":  0,
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_phaseA_docx_err2.log",
+                      "bytes":  0,
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_phaseA_docx_scan.txt",
+                      "bytes":  93877,
+                      "sha256":  "47025ad73fcce0f377950c3bd5ca3260bbb2858977989b24aa69fb0159368cbc",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_phaseA_docx_scan2.txt",
+                      "bytes":  45,
+                      "sha256":  "2907c4970377336fe005864b88bb84520cab7a70586f6cc094431ca6ef0cd2fa",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_phaseA_gate_err.log",
+                      "bytes":  0,
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_phaseA_gate_report.txt",
+                      "bytes":  73012,
+                      "sha256":  "f228e5b9f504971e870ec9687a9798da32895ab1414d119e2794a93ddfa1e029",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_phaseA_verify_err.log",
+                      "bytes":  0,
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_randcheck.log",
+                      "bytes":  8756,
+                      "sha256":  "47bf0d5c5b80ce637a49d116175703755500dd1e04ca8534b31ab1294523bbad",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_randcheck2.log",
+                      "bytes":  11324,
+                      "sha256":  "cfc42b7c4040b0f815cfa9ca3c4505f3720c9d2c20d6365919591a9cdf414ac4",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_regen.log",
+                      "bytes":  12952,
+                      "sha256":  "b740d1178c255495769d9f13f3ff220a4391b38aa1316a5289e06f0fcb71dc08",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_regen2.log",
+                      "bytes":  12952,
+                      "sha256":  "ac16876ad7af5047c8de40f49eb0ac5c47eba15b766f775b7b85d0ac600850ad",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_regen3.log",
+                      "bytes":  12994,
+                      "sha256":  "0fe0a15039d595d65b52aa8c45412af7f52b77f45d3da3380b161677951d586d",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_rename.log",
+                      "bytes":  2079,
+                      "sha256":  "b872d5f1a03151d66caa8aa11b53c2cd80cbc1735b27c82aeae5c414a7a7769e",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_render2.log",
+                      "bytes":  552,
+                      "sha256":  "7803e7530a0e35f45dd722109e9ecd7dd76f6b7d66057e131dbd142692e14f6a",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_rescan.log",
+                      "bytes":  5496,
+                      "sha256":  "4c48511b7e8cd6c3bde6113fba55216b4a537cbab31156e597e3736cc4fc3873",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_scnet_test.log",
+                      "bytes":  2440,
+                      "sha256":  "80a0d10786a40eb252a76b28f411a45e0998d71ef62e13f2151e2076145f1710",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_season.log",
+                      "bytes":  66,
+                      "sha256":  "9150c9e7cd14140d5705c64df677abe4dd892c9777f9642992ded37df1d1e66c",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_spot3.log",
+                      "bytes":  8096,
+                      "sha256":  "2440442f6616bc7ec9f9fe8c4f4a5ab32aed7621c5cf96e84530e4837ad9c477",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_test.docx",
+                      "bytes":  36954,
+                      "sha256":  "5fee8b02d0b4a1d91927bcdfe010b0031344cb1beb087923d44b67dce5acb3ea",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_test.json",
+                      "bytes":  350,
+                      "sha256":  "9473b071fc02137c60febc2bc800afa07c1215113180d08957ceab9fba699414",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_tr_lutie.log",
+                      "bytes":  239,
+                      "sha256":  "ce1d71a10c007c1dfa8537f764f14e0326677963ec38f0d75bf65b53f5a99b52",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_tr_pingdian.log",
+                      "bytes":  235,
+                      "sha256":  "97215a5206cd425d2cbf4fa4d3978b209f0dd746f87c7adc096da43a6f28ad73",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_tracetest.log",
+                      "bytes":  8203,
+                      "sha256":  "facd7e91c8c9a72d0ae4f538c864cb2836fd90a45c815d3c6e283815a03dae37",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_v.txt",
+                      "bytes":  2390,
+                      "sha256":  "9278d84778d4ef5262a0b8eaac1b39efa8ca40dd33c7f92a329680192260d5e4",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_verify_residuals.txt",
+                      "bytes":  73078,
+                      "sha256":  "d790b45f0d5f1250415af0dc4364634c5f2474071282f8c4e7317ae2ad4243b0",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_vision_full.log",
+                      "bytes":  24601,
+                      "sha256":  "d0abfdbf1fe04121af7defb9122728f5d168a617ebed77e7ce93831076b145a5",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_vision_full3.log",
+                      "bytes":  10818,
+                      "sha256":  "7b05c9106ee54896f8970df0d832a470e76a7f282a324deb40b17157c714224e",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_vision_full4.log",
+                      "bytes":  10372,
+                      "sha256":  "e626a17cb3953b9c1857d6d7fcbc18dd18c0ec9035837bc70355a26844740302",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_vision_full5.log",
+                      "bytes":  740,
+                      "sha256":  "2507cc305e45c383aaf19f35a40dbcb7d36aee257f5e0456a0a3966533331348",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_vision_pilot.log",
+                      "bytes":  721,
+                      "sha256":  "fbcb974329102f0571a45280dd60bdf7e220f5e1f89a9d9fe0f026520ca83248",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_vision_pilot2.log",
+                      "bytes":  2665,
+                      "sha256":  "67999691ad1ca1a694c18e99cf54d3e63b5814ba924d6e42f71218c38a7222ca",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_vision_test.log",
+                      "bytes":  101,
+                      "sha256":  "ae23fa87046eb10d4adc50303746324f1c026c387ba083725146ea59ab57a90b",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_vision_test2.log",
+                      "bytes":  34,
+                      "sha256":  "4e914bb53eef2067ecd0efb376e3f345d644c3f43f1eb5b4741147c59fd2e94b",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_vision_test3.log",
+                      "bytes":  43,
+                      "sha256":  "5ea14586c2b69eba1abcc57751dc8af8cfd27b4fe5091f42d31cfc0bcf83314c",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_vision_test4.log",
+                      "bytes":  334,
+                      "sha256":  "048b37e3b3dc9f675bd6e3180f4756ddc9bec9d730ac97f86e323c1d35a45ca2",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\_vision_test5.log",
+                      "bytes":  2903,
+                      "sha256":  "75626bee8ec2f583cb73527dcac29459247fa274cb3c0721fb738a1a6df32a6a",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\5X5_RANDOM_AUDIT_LOCAL_EVIDENCE_20260825.json",
+                      "bytes":  608534,
+                      "sha256":  "5a100285fb25df4ad1dc4be8120127a4a0b73ffe8c3de04d9054627516250c4c",
+                      "class":  "high_confidence_historical_artifact"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\batch_gen.log",
+                      "bytes":  13915,
+                      "sha256":  "2cf3ffdc5b8d09b7347ef60ee66b8127a10f60d2bf1eeb90f88606715d301eb4",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\clean_impurity_log.txt",
+                      "bytes":  4929,
+                      "sha256":  "ab60d1a9db4423c1c351f87d7b330fd8e95cf11d20b9418b546162863a731f69",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\extract_frames_saiji.log",
+                      "bytes":  480,
+                      "sha256":  "e71bdacd7ef8598cc9fceda292b5525b62cead1c5feb47b2bb6c000cf20952b5",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\FINAL_AUDIT_RAW.txt",
+                      "bytes":  73083,
+                      "sha256":  "e04a89397df1ede2179d58f4933744e09b15b5fab05815eab83008cf33ad7776",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\inventory_report.txt",
+                      "bytes":  7742,
+                      "sha256":  "73b2da81eaac8a9ea64e937da490a9f9261207aecba6b2adbe358ffa9330febb",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\organize_log.txt",
+                      "bytes":  60303,
+                      "sha256":  "3e5cbd6c0f29381272f99cc9568d21ccc26f6c11a7a219cf6137aabefbbcb1bf",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\--png_dir",
+                      "bytes":  6309781,
+                      "sha256":  "ec7d61972582596a9297abbf7e3c29a9ea34f237488f471212be8c675e564cc6",
+                      "class":  "high_confidence_historical_artifact"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\scan_baowu_digest.txt",
+                      "bytes":  100487,
+                      "sha256":  "d5b7cd1fe07b12bb89cd26341c71eedf6f6b3f1431a56125ce5c34d86ff03386",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\scan_herojineng_full.json",
+                      "bytes":  835399,
+                      "sha256":  "ae0bc478c31886899356c68d98a7791b8d6aa953b4b38bcef7faf5e489ce87f4",
+                      "class":  "high_confidence_historical_artifact"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\threshold_db.json.bak_2026-08-20",
+                      "bytes":  22827,
+                      "sha256":  "6ec397b2014ed831ea5b44eb115c532d364655bbc85a399857da88b84209ac81",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\transcribe_saiji.log",
+                      "bytes":  1751,
+                      "sha256":  "2c20300ef0d69f7e330e22e5671f2d40de564a49d3b10a701e2aff339ab74104",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\zhenrong_index_rows.json.bak_idx_20260823",
+                      "bytes":  14914,
+                      "sha256":  "8eb7ab67ec747d05b0a0b6121c8dd2decdc0dea90bf7d5e08d21a2ccfd5c091c",
+                      "class":  "old_log_test_or_backup_output"
+                  },
+                  {
+                      "path":  "D:\\Desktop\\shandou\\资料库\\非标标签裁决_20260823.html",
+                      "bytes":  6449199,
+                      "sha256":  "14cfbd42ef032126fbe2ed1bf7f5a3e3a42bd070dd7ab0ecdc7918462030954b",
+                      "class":  "high_confidence_historical_artifact"
+                  }
+              ]
+}

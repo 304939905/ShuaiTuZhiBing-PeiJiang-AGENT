@@ -1,0 +1,102 @@
+{
+  "accepted_at": "2026-09-13",
+  "method": "fixed-seed stratified sample after full P0 adjudication and full cross-report acceptance",
+  "seed": 20260913,
+  "library_scope": 66,
+  "sample_size": 8,
+  "rendered_pages_inspected": 20,
+  "passed": 8,
+  "review": 0,
+  "overall_passed": true,
+  "results": [
+    {
+      "no": "026",
+      "report_heading": "平民账号只配三队的决策",
+      "stratum": "本轮版本正文修订",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/09_平民账号只配三队的决策_重蒸馏学习报告.docx",
+      "rendered_pages": 2,
+      "visual_layout": "pass",
+      "independent_learning_structure": "pass",
+      "mechanism_condition_boundary": "pass",
+      "issues": []
+    },
+    {
+      "no": "042",
+      "report_heading": "有战法但缺核心武将时如何止损",
+      "stratum": "本轮版本正文修订",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/06_有战法但缺核心武将时如何止损_重蒸馏学习报告.docx",
+      "rendered_pages": 2,
+      "visual_layout": "pass",
+      "independent_learning_structure": "pass",
+      "mechanism_condition_boundary": "pass",
+      "issues": []
+    },
+    {
+      "no": "022",
+      "report_heading": "垒实投稿的常见配队错误",
+      "stratum": "P0候选较多报告",
+      "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—垒实篇投稿讲解 来了!多多留言，后续会定期抽取评论解析队伍。_精修学习报告.docx",
+      "rendered_pages": 2,
+      "visual_layout": "pass",
+      "independent_learning_structure": "pass",
+      "mechanism_condition_boundary": "pass",
+      "issues": []
+    },
+    {
+      "no": "034",
+      "report_heading": "战磐投稿的克制与失败模式",
+      "stratum": "P0候选较多报告",
+      "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—战磐篇粉丝答疑 战磐篇粉丝答疑来了，看看有没有你的队伍？ 跟北冥多多互动，留言下期想看主五哪个体系？_精修学习报告.docx",
+      "rendered_pages": 2,
+      "visual_layout": "pass",
+      "independent_learning_structure": "pass",
+      "mechanism_condition_boundary": "pass",
+      "issues": []
+    },
+    {
+      "no": "035",
+      "report_heading": "攻其不备体系投稿解析与配队判断",
+      "stratum": "P0候选较多报告",
+      "rel": "报告库/标杆/攻其不备体系投稿解析与配队判断_当前标杆_20260907.docx",
+      "rendered_pages": 4,
+      "visual_layout": "pass",
+      "independent_learning_structure": "pass",
+      "mechanism_condition_boundary": "pass",
+      "issues": []
+    },
+    {
+      "no": "045",
+      "report_heading": "核心战法单份时的三队资源分配",
+      "stratum": "P0自动通过报告",
+      "rel": "报告库/阵容新批/精编/video_免费粉丝配将第十一期，继续配将。..._top_0_2_精编学习报告.docx",
+      "rendered_pages": 2,
+      "visual_layout": "pass",
+      "independent_learning_structure": "pass",
+      "mechanism_condition_boundary": "pass",
+      "issues": []
+    },
+    {
+      "no": "039",
+      "report_heading": "无孙权账号的替代开荒与四队分配",
+      "stratum": "P0自动通过报告",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/07_无孙权账号的替代开荒与四队分配_重蒸馏学习报告.docx",
+      "rendered_pages": 2,
+      "visual_layout": "pass",
+      "independent_learning_structure": "pass",
+      "mechanism_condition_boundary": "pass",
+      "issues": []
+    },
+    {
+      "no": "031",
+      "report_heading": "战法属性阈值与参数速查",
+      "stratum": "机制参数参考",
+      "rel": "报告库/战法阈值精简学习报告.docx",
+      "rendered_pages": 4,
+      "visual_layout": "pass",
+      "independent_learning_structure": "pass",
+      "mechanism_condition_boundary": "pass",
+      "issues": []
+    }
+  ],
+  "retirement_gate_meaning": "eligible for an exact cleanup candidate manifest; no files are deleted by this gate"
+}

@@ -1,0 +1,18 @@
+{
+  "mode": "dry-run",
+  "started_at": "2026-09-13T19:57:53",
+  "completed_at": "2026-09-13T19:57:54",
+  "workspace_root": "D:\\Desktop\\shandou",
+  "plan_sha256": "7cbbf27557d8c1caf13cc1f3b863c2b60db5c9602bfa0cbd88fc1d953e70dfce",
+  "candidate_directory_roots": 38,
+  "candidate_explicit_files": 2017,
+  "estimated_bytes": 10793267837,
+  "estimated_gib": 10.052,
+  "protected_active_reports": 66,
+  "protected_files": 90,
+  "protected_roots": 3,
+  "deletion_performed": false,
+  "remaining_candidate_roots": 38,
+  "remaining_candidate_files": 2017,
+  "validation_passed": true
+}

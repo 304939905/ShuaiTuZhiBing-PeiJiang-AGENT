@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "purpose": "收录已由官方图片明确发布、但官方结构化接口尚未完成可靠关联的新内容；只补缺，不复制整库。",
+    "updated_at": "2026-09-16",
+    "priority": "当前官方图片；具体数值仍服从游戏内最终文本",
+    "merge_rule": "ID未确认前禁止写入hero_extra.json、skill_extra.json或official_skill_db.json，禁止与同名旧版本自动合并。"
+  },
+  "heroes": [
+    {
+      "identity": "五星·魏·许褚·步",
+      "hero_id": null,
+      "hero_id_status": "unresolved",
+      "name": "许褚",
+      "faction": "魏",
+      "stars": 5,
+      "troop_type": "步",
+      "convertible_troops": [
+        "重步兵",
+        "禁卫"
+      ],
+      "cost": 3.5,
+      "attack_distance": 2,
+      "attributes": {
+        "attack": 97,
+        "attack_growth": 2.2,
+        "defense": 88,
+        "defense_growth": 1.95,
+        "strategy": 53,
+        "strategy_growth": 0.48,
+        "speed": 51,
+        "speed_growth": 0.46,
+        "siege": 17,
+        "siege_growth": 1.2
+      },
+      "builtin_skill": {
+        "id": null,
+        "id_status": "unresolved",
+        "name": "裸衣鏖战",
+        "quality": "S",
+        "type": "被动",
+        "distance": 5,
+        "target": "敌军单体",
+        "desc": "每回合开始时，挑衅敌军攻击属性最高的敌军单体，并在受到其伤害时有50%几率（受攻击属性影响）对其发动1~2次攻击（伤害率70%）；自身行动时对该单体造成1~2次攻击伤害（伤害率70%），并使其攻击属性下降15%，可叠加，持续至战斗结束"
+      },
+      "dismantle_skill": {
+        "id": null,
+        "id_status": "unresolved",
+        "name": "未雨绸缪",
+        "quality": "A",
+        "type": "主动",
+        "probability": "45%",
+        "distance": 1,
+        "target": "自己",
+        "desc": "下回合开始后，2回合内自身下一次造成策略伤害的主动战法发动后可再次发动一次（跳过准备回合），造成原战法50%伤害和恢复效果，该战法造成的伤害无视目标30%的谋略属性（受谋略属性影响）"
+      },
+      "policy": {
+        "id": null,
+        "id_status": "unresolved",
+        "name": "警戒护主",
+        "target": "军事设施",
+        "type": "军务",
+        "level": "A级",
+        "desc": "担任军事设施参军并获得警戒护主计略；消耗3政令，令该军事设施视野提升4，持续30分钟"
+      },
+      "availability": {
+        "release_statement": "用户确认于2026-09-16更新上线",
+        "season_or_card_pool": null,
+        "season_status": "unresolved"
+      },
+      "evidence": {
+        "type": "official_image",
+        "file_name": "6aa91aa9b68f0859bd214d6c2E3Whqgi07.png",
+        "sha256": "1F40C5510D960903B768EF29E42D4DDC74A912A84F2294D1FB289A59FA7A696F",
+        "provided_by_user_at": "2026-09-16",
+        "user_source_judgement": "官方权威资料，今日更新上线",
+        "image_caveat": "图片注明以上内容均为测试阶段信息，实际内容以游戏内最终更新为准",
+        "structured_api_check": "2026-09-16检查官方hero_extra、hero、skill_extra接口，尚无可与本图稳定关联的武将及战法ID；同名接口记录与图片属性和战法明显不符，不采用。"
+      }
+    }
+  ]
+}

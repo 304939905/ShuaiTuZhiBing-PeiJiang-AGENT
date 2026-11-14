@@ -1,0 +1,1395 @@
+{
+  "group": "02_机制与养成",
+  "report_ids": [
+    "003",
+    "010",
+    "014",
+    "015",
+    "019",
+    "025",
+    "027",
+    "029",
+    "031",
+    "032",
+    "037",
+    "038",
+    "040",
+    "046",
+    "058",
+    "062",
+    "066"
+  ],
+  "scope": "正文与表格逐篇全文阅读；保存库交叉核对，未重新验证线上参数或退役源视频。",
+  "records": [
+    {
+      "no": "003",
+      "title": "七擒七纵与磐阵善守的替换条件",
+      "rel": "报告库/旧56项目/精编/七擒七纵就是高配磐阵 ，战磐体系迎来全面加强，七擒七纵强度不错。_精修学习报告.docx",
+      "source_sha256": "8bf9574687262fc4c19365438cf78cc1a3ef3143c1de6aef18f13bfac751fa52",
+      "reading_status": "full_text_read",
+      "paragraph_count": 41,
+      "tags": [
+        "按次保护",
+        "窗口替换"
+      ],
+      "transferable_rules": [
+        {
+          "condition": "对手多段伤害和控制快速消耗事件池",
+          "decision": "比较七次判定消耗时点与磐阵每回合刷新",
+          "reason": "按事件消耗与按回合保护的窗口不同",
+          "failure_mode": "七次当七次成功规避或等四回合才生效",
+          "evidence_paragraphs": [
+            8,
+            9,
+            10,
+            34,
+            37
+          ]
+        },
+        {
+          "condition": "七擒后段锁定最高伤害者且蜀携带有附加",
+          "decision": "核对后段是否赶上关键回合及物理降防价值",
+          "reason": "快耗完可能早减伤也可能过早失去前段保护",
+          "failure_mode": "职责相似就无条件上位替换",
+          "evidence_paragraphs": [
+            26,
+            30,
+            35,
+            36,
+            39
+          ]
+        }
+      ],
+      "resource_dependencies": [
+        "典藏兑换成本",
+        "磐阵与战必占用"
+      ],
+      "version_and_season_limits": [
+        "七擒征服获取为暂定",
+        "概率、士气须当前文本"
+      ],
+      "non_transferable_claims": [
+        "固定七次成功保护",
+        "七擒永远胜磐阵"
+      ],
+      "local_checks": [
+        {
+          "claim": "保护窗口是否相同",
+          "source": "资料库/official_skill_db.json；补充本地核对证据.json:skills/七擒七纵,skills/磐阵善守",
+          "result": "supported_locally",
+          "evidence": "七擒200298前7次伤害或控制概率判定；磐阵200816前4回合刷新最低兵力减伤和随机单体规避。",
+          "impact": "替换须按事件密度和主C保护窗口。[战必间接阻断追击前提仍须拆行动链。]",
+          "evidence_paragraphs": [
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "application_questions": [
+        "前两回合有多少段伤害和控制？七次何时耗尽？"
+      ],
+      "related_report_ids": [
+        "019",
+        "033",
+        "034"
+      ]
+    },
+    {
+      "no": "010",
+      "title": "低星武将留卡的用途与取舍",
+      "rel": "报告库/赛季/精编/萌新这些四星卡千万别拆了，s赛季有大用！_精修学习报告.docx",
+      "source_sha256": "eba96ae23a3e6f4c8c060094bf9e33a0577016ec4a7d9f3930fcbaae49c96149",
+      "reading_status": "full_text_read",
+      "paragraph_count": 75,
+      "tags": [
+        "低星留卡",
+        "政策岗位"
+      ],
+      "transferable_rules": [
+        {
+          "condition": "低星卡可铺路、施政或战斗",
+          "decision": "按唯一用途、岗位和替代卡决定保留",
+          "reason": "功能短缺决定价值，重复留卡也占空间和岗位",
+          "failure_mode": "题名千万别拆当永久全留",
+          "evidence_paragraphs": [
+            8,
+            10,
+            65,
+            66,
+            67,
+            70
+          ]
+        },
+        {
+          "condition": "体力恢复政策同时减少设施耐久",
+          "decision": "确认设施、阵营、待命与抗拆风险",
+          "reason": "恢复速度倍数不是时间等比例下降，资源上限也不生产资源",
+          "failure_mode": "前线盲用张飞政策或把留战斗成员当成队已成型",
+          "evidence_paragraphs": [
+            31,
+            45,
+            46,
+            47,
+            71,
+            72
+          ]
+        }
+      ],
+      "resource_dependencies": [
+        "政策岗位与部署名额",
+        "唯一有用副本、拆法材料"
+      ],
+      "version_and_season_limits": [
+        "同名甘宁、朱儁先锁自带版本",
+        "等级及设施收益非固定"
+      ],
+      "non_transferable_claims": [
+        "所有重复四星永久保留",
+        "视频金币固定日收益"
+      ],
+      "local_checks": [
+        {
+          "claim": "体力政策是否带目标及代价",
+          "source": "资料库/official_skill_db.json；补充本地核对证据.json:policy/安定众心,policy/长坂风威",
+          "result": "supported_locally",
+          "evidence": "安定众心限制主城参军及蜀武将部队；长坂风威限制军事设施待命部队并降低耐久上限。",
+          "impact": "先核任职和待命场景，收益不直接等价时间下降。",
+          "evidence_paragraphs": [
+            29,
+            31,
+            45,
+            46
+          ]
+        }
+      ],
+      "application_questions": [
+        "是否唯一可用版本？岗位是否空缺、前线设施怕拆吗？"
+      ],
+      "related_report_ids": [
+        "004",
+        "017",
+        "024",
+        "062"
+      ]
+    },
+    {
+      "no": "014",
+      "title": "内政点分配顺序与重置止损",
+      "rel": "报告库/旧56项目/精编/内政点到底咋分配？ 分配的艺术，一篇看懂。_精修学习报告.docx",
+      "source_sha256": "7e48b5a7abb0d576fa2d177a2bc6276c10c4768756fb239ec7275b4d5bdf7846",
+      "reading_status": "full_text_read",
+      "paragraph_count": 92,
+      "tags": [
+        "内政预算",
+        "重置止损"
+      ],
+      "transferable_rules": [
+        {
+          "condition": "内政点预算有限且主力有明确瓶颈",
+          "decision": "先建立实得预算，再按战斗、征兵及实际经济体力缺口排政策",
+          "reason": "作用对象和瓶颈比固定名单重要",
+          "failure_mode": "沿用90/15点或2/4/6人数作永久上限",
+          "evidence_paragraphs": [
+            8,
+            9,
+            10,
+            11,
+            79,
+            84,
+            85,
+            86
+          ]
+        },
+        {
+          "condition": "准备换过渡文臣",
+          "decision": "读当前返还扣损与剩余赛季，比较未来净收益",
+          "reason": "反复重置有成本且短期收益需覆盖损失",
+          "failure_mode": "把一次扣2点当所有等级通则",
+          "evidence_paragraphs": [
+            12,
+            81,
+            82,
+            87
+          ]
+        }
+      ],
+      "resource_dependencies": [
+        "真实点数来源",
+        "政策等级、覆盖对象和重置损耗"
+      ],
+      "version_and_season_limits": [
+        "历史价格200玉符只是一笔报价",
+        "政策当前等级另验"
+      ],
+      "non_transferable_claims": [
+        "2/4/6系统上限",
+        "任何重置固定损失2点"
+      ],
+      "local_checks": [
+        {
+          "claim": "战斗与征兵政策是否有条件",
+          "source": "资料库/official_skill_db.json；补充本地核对证据.json:policy/功业垂史,policy/功成名就",
+          "result": "supported_locally",
+          "evidence": "功业垂史要求己方设施出征及单场2000武勋门槛；功成名就按最低兵力武将和其他将分别给时间、资源收益。",
+          "impact": "不能把战斗政策给所有队无条件生效，部署需匹配征兵安排。",
+          "evidence_paragraphs": [
+            57,
+            66,
+            77,
+            86
+          ]
+        }
+      ],
+      "application_questions": [
+        "当前点数多少？主力瓶颈在哪，重置弹窗实际损耗几何？"
+      ],
+      "related_report_ids": [
+        "058",
+        "062",
+        "057"
+      ]
+    },
+    {
+      "no": "015",
+      "title": "分城开发循环与势力值转型",
+      "rel": "报告库/旧56项目/精编/平民种地焚决来了 10天必过两万五势力，无限套娃开分法，全赛季稳定过势力值任务，丝滑过渡金币期，稳扎稳打步步为营。_精修学习报告.docx",
+      "source_sha256": "8e2f2a136a759a3f376790cbbf842feac4c0e4c83ba902bda6a3ed33faa27a9d",
+      "reading_status": "full_text_read",
+      "paragraph_count": 40,
+      "tags": [
+        "分城空间",
+        "经济转型"
+      ],
+      "transferable_rules": [
+        {
+          "condition": "主城开发范围已有可稳占土地",
+          "decision": "比较候选分城覆盖、建造成本和保留时间",
+          "reason": "扩张借用已占空间但建设与铺路都占机会成本",
+          "failure_mode": "按十天两万五承诺普遍达成",
+          "evidence_paragraphs": [
+            8,
+            17,
+            20,
+            29,
+            30,
+            32,
+            38
+          ]
+        },
+        {
+          "condition": "势力任务完成准备回收城体转金币",
+          "decision": "同时核势力、产量、税收、土地格和征兵需求",
+          "reason": "阶段结束应改变结构而非只追势力",
+          "failure_mode": "未经当前规则拆城或牺牲征兵资源",
+          "evidence_paragraphs": [
+            9,
+            10,
+            11,
+            23,
+            26,
+            31,
+            35,
+            36
+          ]
+        }
+      ],
+      "resource_dependencies": [
+        "土地格、名望和在线时间",
+        "建设与拆除成本"
+      ],
+      "version_and_season_limits": [
+        "剧本开发建拆规则本地未覆盖",
+        "固定天数和势力目标留历史"
+      ],
+      "non_transferable_claims": [
+        "十天必达两万五",
+        "旧建拆操作可直接执行"
+      ],
+      "local_checks": [
+        {
+          "claim": "经济转型是否受城池与任职限制",
+          "source": "资料库/official_skill_db.json；补充本地核对证据.json:policy/雄略安邦",
+          "result": "conditional",
+          "evidence": "雄略安邦保存描述分别关联主城税收、吴文臣任职分城产量、戍城预备兵。",
+          "impact": "支持城池与任职收益需分开；不能据此证明当前开发半径或拆城规则。",
+          "evidence_paragraphs": [
+            9,
+            11,
+            26,
+            29
+          ]
+        }
+      ],
+      "application_questions": [
+        "当前剧本建拆规则是什么？释放城体损失多少税收与产量？"
+      ],
+      "related_report_ids": [
+        "058",
+        "062",
+        "014"
+      ]
+    },
+    {
+      "no": "019",
+      "title": "四类前期保护战法的选择框架",
+      "rel": "报告库/旧56项目/精编/空城 一夫 单骑 反计应该如何选择？ 一篇内容讲清楚，让你不再迷茫!_精修学习报告.docx",
+      "source_sha256": "e79e0878ca75767a116a3295149b96e05ccd5ebe3ac48e37b94ad34dfe5cd3b1",
+      "reading_status": "full_text_read",
+      "paragraph_count": 47,
+      "tags": [
+        "前期保护",
+        "承伤对象"
+      ],
+      "transferable_rules": [
+        {
+          "condition": "高速爆头来源尚未拆清",
+          "decision": "按主动、普攻、追击和其他事件选保护",
+          "reason": "反计压主动，一夫转移承伤，空城偏自身，单骑有条件援护",
+          "failure_mode": "四法排固定强弱或犹豫当封普攻",
+          "evidence_paragraphs": [
+            8,
+            9,
+            10,
+            11,
+            34,
+            35,
+            36
+          ]
+        },
+        {
+          "condition": "队内已有规避来源",
+          "decision": "逐效果评估援护、减伤及削弱的独立收益",
+          "reason": "规避不可叠加但复合法还有其他部分",
+          "failure_mode": "局部冲突整法判废或忽略前锋、阵营回合要求",
+          "evidence_paragraphs": [
+            27,
+            31,
+            37,
+            45
+          ]
+        }
+      ],
+      "resource_dependencies": [
+        "关键战法位和单份保护",
+        "实际防御、站位和阵营"
+      ],
+      "version_and_season_limits": [
+        "宝物援护另读文本",
+        "占位数值不固定"
+      ],
+      "non_transferable_claims": [
+        "单骑始终优于一夫",
+        "一夫任何站位生效"
+      ],
+      "local_checks": [
+        {
+          "claim": "四类保护触发是否等价",
+          "source": "资料库/official_skill_db.json；补充本地核对证据.json:skills/空城,skills/一夫当关,skills/单骑救主,skills/反计之策",
+          "result": "supported_locally",
+          "evidence": "保存描述分别有自身受伤规避、前锋援护、受伤后判定及第三回合异阵营援护、主动减伤和首轮犹豫。",
+          "impact": "选择按承伤结构和伤害来源；概率规避不视作稳定全队保护。",
+          "evidence_paragraphs": [
+            8,
+            9,
+            10,
+            36
+          ]
+        }
+      ],
+      "application_questions": [
+        "谁承伤、哪类伤害致命？异阵营条件满足吗？"
+      ],
+      "related_report_ids": [
+        "003",
+        "020",
+        "033"
+      ]
+    },
+    {
+      "no": "025",
+      "title": "宝物养成的账号适配与锻造止损",
+      "rel": "报告库/旧56项目/精编/从零开始，宝物养成焚决，来了！ 刚进征服看见宝物系统，摸不着头脑？老是乱打一堆毫不适配的残品？别着急，北冥让你一篇看懂！_精编学习报告.docx",
+      "source_sha256": "6df07c00c01003195f7bb76d004236ca5ece769957af8040580b3b2950ad5a89",
+      "reading_status": "full_text_read",
+      "paragraph_count": 40,
+      "tags": [
+        "宝物适配",
+        "锻造止损"
+      ],
+      "transferable_rules": [
+        {
+          "condition": "宝物只有理想稀有词条才有用",
+          "decision": "先确定长期主力缺口与可接受词条的其他使用者",
+          "reason": "基础可用且多成员消化降低打歪闲置风险",
+          "failure_mode": "先锻造后配将或所有账号同件优先",
+          "evidence_paragraphs": [
+            8,
+            10,
+            17,
+            20,
+            23,
+            29,
+            30,
+            38
+          ]
+        },
+        {
+          "condition": "连续消耗锤数但已有可用成品",
+          "decision": "按预设预算和缺口达成条件停止",
+          "reason": "沉没成本不能增加未来收益概率",
+          "failure_mode": "28锤经验作成功率保证",
+          "evidence_paragraphs": [
+            9,
+            11,
+            26,
+            31,
+            35,
+            40
+          ]
+        }
+      ],
+      "resource_dependencies": [
+        "锤数、成品库存和替代使用者",
+        "长期将法规划"
+      ],
+      "version_and_season_limits": [
+        "词条概率与数值区间未知",
+        "宝物归属需当次账号"
+      ],
+      "non_transferable_claims": [
+        "28锤概率保证",
+        "通用宝物排名"
+      ],
+      "local_checks": [
+        {
+          "claim": "宝物词条需与具体宝物定义匹配",
+          "source": "资料库/official_skill_db.json；补充本地核对证据.json:gear/博浪,gear/彤素",
+          "result": "conditional",
+          "evidence": "规范库gear分别保存独立skillName/skillDesc，博浪与彤素不能按同宝物类推词条。",
+          "impact": "可查保存属性和词条；不证明当前锻造概率或账号成品所有权。",
+          "evidence_paragraphs": [
+            10,
+            23,
+            30,
+            40
+          ]
+        }
+      ],
+      "application_questions": [
+        "目标和次优成品分别给谁？何种结果或锤数即停止？"
+      ],
+      "related_report_ids": [
+        "046",
+        "057",
+        "063"
+      ]
+    },
+    {
+      "no": "027",
+      "title": "开荒专题：从配队到翻车补救的决策框架",
+      "rel": "报告库/开荒/精编/开荒专题（5视频合并）_精修学习报告.docx",
+      "source_sha256": "63c94bf2b48ab73cde604581bd51a6f4da886e7ce5be356d78c5926e95b1821a",
+      "reading_status": "full_text_read",
+      "paragraph_count": 67,
+      "tags": [
+        "开荒闭环",
+        "翻车止损"
+      ],
+      "transferable_rules": [
+        {
+          "condition": "准备向未知守军开地",
+          "decision": "先核统帅、版本、距离、触发和预备兵并划风险档",
+          "reason": "能够启动与可承受守军是不同约束",
+          "failure_mode": "按7级开四或旧8统帅机械执行",
+          "evidence_paragraphs": [
+            8,
+            9,
+            18,
+            21,
+            33,
+            34,
+            35,
+            59,
+            60
+          ]
+        },
+        {
+          "condition": "连续翻车造成兵损和资源链失衡",
+          "decision": "先降目标止损恢复稳定经验，再按瓶颈补兵转型",
+          "reason": "同一次上下集不是独立对照，失利可能多因",
+          "failure_mode": "预备兵全部用完必优或一次失败即全队归因",
+          "evidence_paragraphs": [
+            11,
+            12,
+            27,
+            36,
+            37,
+            38,
+            61,
+            62
+          ]
+        }
+      ],
+      "resource_dependencies": [
+        "预备兵与资源现金流",
+        "当前守军、士气和在线时间"
+      ],
+      "version_and_season_limits": [
+        "五段素材其中两段为同次翻车",
+        "土地、统帅、剧本均当前确认"
+      ],
+      "non_transferable_claims": [
+        "固定三次上线成绩",
+        "旧开地等级硬线"
+      ],
+      "local_checks": [
+        {
+          "claim": "前期保护可否不看伤害通道",
+          "source": "资料库/official_skill_db.json；补充本地核对证据.json:skills/战必断金,skills/磐阵善守",
+          "result": "conditional",
+          "evidence": "战必保存描述限制前3回合普攻；磐阵前4回合定向首伤减免及随机规避。",
+          "impact": "结构框架要求逐效果选保护，不能推出任何守军等级或开荒阈值。",
+          "evidence_paragraphs": [
+            8,
+            9,
+            24,
+            34,
+            36
+          ]
+        }
+      ],
+      "application_questions": [
+        "守军看清了吗？资源能支持一次失败后的征兵吗？"
+      ],
+      "related_report_ids": [
+        "014",
+        "039",
+        "058"
+      ]
+    },
+    {
+      "no": "029",
+      "title": "张机恢复稳定性与士气检查",
+      "rel": "报告库/旧56项目/精编/张机如何显著降低败率？ 首先要理解张机这个武将最需要的是什么。_精修学习报告.docx",
+      "source_sha256": "05a513ab29ab5123c91fa95a77c7466635e199b7c2f3cb7b2249caa0a6dd49b7",
+      "reading_status": "full_text_read",
+      "paragraph_count": 44,
+      "tags": [
+        "受伤恢复概率",
+        "士气归因"
+      ],
+      "transferable_rules": [
+        {
+          "condition": "金匮是指挥但奶量波动",
+          "decision": "区分战前部署、受伤机会、概率触发及恢复量",
+          "reason": "稳定施加不等于每次受伤恢复",
+          "failure_mode": "连续不奶就断言指挥未部署",
+          "evidence_paragraphs": [
+            3,
+            8,
+            9,
+            18,
+            26,
+            38,
+            42
+          ]
+        },
+        {
+          "condition": "低士气败局同时伴随其他条件变化",
+          "decision": "记录士气和每次受伤恢复，并排除首轮保护、兵力与对手差异",
+          "reason": "单场12261和不完整反例不能隔离士气因果",
+          "failure_mode": "固定奶量或士气决定一切",
+          "evidence_paragraphs": [
+            10,
+            11,
+            30,
+            34,
+            35,
+            37,
+            39,
+            40
+          ]
+        }
+      ],
+      "resource_dependencies": [
+        "士气面板、受伤事件和当前恢复文本",
+        "首轮保护与主C兵力"
+      ],
+      "version_and_season_limits": [
+        "士气修正公式未独立当前核验",
+        "流浪军规则另验"
+      ],
+      "non_transferable_claims": [
+        "一红固定救援12261",
+        "低士气唯一败因"
+      ],
+      "local_checks": [
+        {
+          "claim": "金匮部署与内部概率能否混同",
+          "source": "资料库/official_skill_db.json；补充本地核对证据.json:skills/金匮要略",
+          "result": "supported_locally",
+          "evidence": "金匮200773为指挥，前三回合减伤且受伤时50%概率恢复，恢复受谋略影响。",
+          "impact": "本地支持两层区分，不能从描述推出当前士气换算公式。",
+          "evidence_paragraphs": [
+            8,
+            9,
+            18,
+            42
+          ]
+        }
+      ],
+      "application_questions": [
+        "受伤次数多少、触发多少？第一个失兵异常发生何时？"
+      ],
+      "related_report_ids": [
+        "023",
+        "021",
+        "047"
+      ]
+    },
+    {
+      "no": "031",
+      "title": "战法属性阈值与参数速查",
+      "rel": "报告库/战法阈值精简学习报告.docx",
+      "source_sha256": "8b191c243a16a0079e15424c12b3065eeb5470dc19981ddef1832457e228cff1",
+      "reading_status": "full_text_read",
+      "paragraph_count": 534,
+      "tags": [
+        "显示跨档",
+        "多效参数来源"
+      ],
+      "transferable_rules": [
+        {
+          "condition": "属性提高但面板整数未变化",
+          "decision": "把显示跨档与底层结算分开，并算主属性对其他效果收益",
+          "reason": "未跨取整不证明所有小数与其他联动都失效",
+          "failure_mode": "档间全无效或过线后固定全速度",
+          "evidence_paragraphs": [
+            8,
+            10,
+            11,
+            34,
+            38,
+            39,
+            40,
+            532
+          ]
+        },
+        {
+          "condition": "要用63行表做单点加点",
+          "decision": "先锁具体分项、最终属性和该行B/g/取整，缺增长率保持未知",
+          "reason": "多效有不同关联属性、9999是回满占位",
+          "failure_mode": "所有战法套大赏公式或遗志9999代入",
+          "evidence_paragraphs": [
+            9,
+            36,
+            37,
+            90,
+            304,
+            526,
+            527,
+            528,
+            531
+          ]
+        }
+      ],
+      "resource_dependencies": [
+        "最终面板、宝物、兵种和速度代价",
+        "参考参数表逐行版本"
+      ],
+      "version_and_season_limits": [
+        "隐藏增长率是玩家表来源",
+        "久战表8%与保存描述5%存在差异"
+      ],
+      "non_transferable_claims": [
+        "面板阈值证明底层全取整",
+        "所有参数已获官方认证"
+      ],
+      "local_checks": [
+        {
+          "claim": "久战基础值是否与保存描述一致",
+          "source": "资料库/official_skill_db.json；补充本地核对证据.json:skills/久战熟谋,skills/大赏三军",
+          "result": "conflict",
+          "evidence": "031 P079-085久战行基础8%、增长0.025%；保存200959描述每次策略伤害后提高5.0%。大赏176算44.4取整44是参考公式算例。",
+          "impact": "需核等级、版本和参数基准，不把两来源相互印证，也不自行废弃用户要求保留的表。",
+          "evidence_paragraphs": [
+            25,
+            27,
+            35,
+            79,
+            82,
+            83,
+            534
+          ]
+        }
+      ],
+      "application_questions": [
+        "当前最终属性与该行版本是什么？跨档会不会破坏关键速度？"
+      ],
+      "related_report_ids": [
+        "046",
+        "051",
+        "061"
+      ]
+    },
+    {
+      "no": "032",
+      "title": "战法搭配的冲突、攻防与顺序",
+      "rel": "报告库/旧56项目/精编/全率土最全攻略，战法篇! 重磅来袭!_精修学习报告.docx",
+      "source_sha256": "9009a5fb1b0e09f2572c2bd401e09c771e9d60495af52f1a3c1aed94d1543ef3",
+      "reading_status": "full_text_read",
+      "paragraph_count": 48,
+      "tags": [
+        "逐效果冲突",
+        "攻防节奏"
+      ],
+      "transferable_rules": [
+        {
+          "condition": "复合战法有同类相同效果",
+          "decision": "按持续/属性数值替换与增益控制后释放失效分别检查",
+          "reason": "冲突对象是效果不是颜色或整张法",
+          "failure_mode": "同类型全冲突、局部失效整张判废",
+          "evidence_paragraphs": [
+            8,
+            9,
+            10,
+            20,
+            24,
+            28,
+            37
+          ]
+        },
+        {
+          "condition": "全输出或全防御堆九格",
+          "decision": "围绕胜利阶段检查保护先于失兵、增伤覆盖输出和收口",
+          "reason": "有收益还需正确目标和时间",
+          "failure_mode": "固定攻防数量比例或先有控制却给敌人触发保护",
+          "evidence_paragraphs": [
+            11,
+            34,
+            35,
+            36,
+            38,
+            42,
+            43,
+            46
+          ]
+        }
+      ],
+      "resource_dependencies": [
+        "九格机会成本与全局唯一份数",
+        "双方控制及行动顺序"
+      ],
+      "version_and_season_limits": [
+        "底层规则稳定，具体相同效果须重读",
+        "敌方铁骑、宝物触发另查"
+      ],
+      "non_transferable_claims": [
+        "全防御必稳",
+        "同类战法整张互废"
+      ],
+      "local_checks": [
+        {
+          "claim": "不攻大赏为何需逐效果及先后判断",
+          "source": "资料库/official_skill_db.json；补充本地核对证据.json:skills/不攻,skills/大赏三军",
+          "result": "supported_locally",
+          "evidence": "不攻200622与大赏200198均指挥且含造成策略伤害提高；不攻还有无法普攻与每回合策略攻击。",
+          "impact": "增伤冲突不抹掉其独立伤害或普攻限制；另按目标和释放顺序检验。",
+          "evidence_paragraphs": [
+            10,
+            37,
+            40,
+            43
+          ]
+        }
+      ],
+      "application_questions": [
+        "冲突是哪一分项、谁先施加、其他分项还值战法位吗？"
+      ],
+      "related_report_ids": [
+        "061",
+        "050",
+        "023"
+      ]
+    },
+    {
+      "no": "037",
+      "title": "攻击距离与战法距离的落点控制",
+      "rel": "报告库/旧56项目/精编/距离思路究极细节 ，普攻距离和战法距离，真的是越远越好吗？_精修学习报告.docx",
+      "source_sha256": "184ac31e06d689d364ed1ae293fd781dd19918a77581e31fb62d0af1549ee193",
+      "reading_status": "full_text_read",
+      "paragraph_count": 47,
+      "tags": [
+        "目标池",
+        "分兵落点"
+      ],
+      "transferable_rules": [
+        {
+          "condition": "增距扩大普攻可选目标",
+          "decision": "先指定定点目标，再比较被稀释的命中与分兵邻接收益",
+          "reason": "更远不自动提高关键位置期望伤害",
+          "failure_mode": "四五距离历史概率脱离阵位照抄",
+          "evidence_paragraphs": [
+            8,
+            10,
+            11,
+            20,
+            24,
+            35,
+            41,
+            44
+          ]
+        },
+        {
+          "condition": "多段主动与普攻同时输出",
+          "decision": "逐法标有效距离、随机选择、援护与按次保护",
+          "reason": "多段独立选目标可集中亦可分散",
+          "failure_mode": "普攻可达即认定主动可达或多段锁定",
+          "evidence_paragraphs": [
+            9,
+            26,
+            28,
+            36,
+            39,
+            40,
+            42
+          ]
+        }
+      ],
+      "resource_dependencies": [
+        "增距宝物及战法位",
+        "主目标保护和阵位"
+      ],
+      "version_and_season_limits": [
+        "历史落点比例有随机与站位前提",
+        "将出关西保存描述2-4/2-5拼接"
+      ],
+      "non_transferable_claims": [
+        "距离最大最优",
+        "单次集中证明稳定爆头"
+      ],
+      "local_checks": [
+        {
+          "claim": "主动距离与多段目标如何定义",
+          "source": "资料库/official_skill_db.json；补充本地核对证据.json:skills/河内世泽,skills/将出关西",
+          "result": "conditional",
+          "evidence": "河内200847独立指定子法距离4；将出200927随机单体多次攻击，描述混存2-4与2-5次。",
+          "impact": "支持分别算目标池，不据拼接取当前段数。",
+          "evidence_paragraphs": [
+            9,
+            10,
+            36,
+            40
+          ]
+        }
+      ],
+      "application_questions": [
+        "想打哪一位置？新增覆盖撞到什么保护？"
+      ],
+      "related_report_ids": [
+        "040",
+        "049",
+        "063"
+      ]
+    },
+    {
+      "no": "038",
+      "title": "文鸯与程昱的武将价值和拆解取舍",
+      "rel": "报告库/旧56项目/精编/率土武将志—文鸯、程昱 文鸯程昱武将详解来了!_精修学习报告.docx",
+      "source_sha256": "94c301628c9ad4e5e6c6cf9275cb89a45aa77e640d9cc90b103666b7c24c57f3",
+      "reading_status": "full_text_read",
+      "paragraph_count": 49,
+      "tags": [
+        "普攻士气分支",
+        "负面响应",
+        "拆卡成本"
+      ],
+      "transferable_rules": [
+        {
+          "condition": "文鸯普攻后输出且目标士气不同",
+          "decision": "检查怯战、规避、士气分支与增伤覆盖",
+          "reason": "速度不能保证普攻通道成立",
+          "failure_mode": "无保护旧案例当所有环境无需保护",
+          "evidence_paragraphs": [
+            21,
+            23,
+            30,
+            31,
+            32,
+            46
+          ]
+        },
+        {
+          "condition": "程昱与拆解法需要事件供给",
+          "decision": "列敌方负面和我方状态压力，再比较本体与其他拆解来源",
+          "reason": "审时响应与乘间主动主战法叠层各有前提",
+          "failure_mode": "固定全军免控或拆掉唯一程昱",
+          "evidence_paragraphs": [
+            22,
+            34,
+            35,
+            36,
+            39,
+            40,
+            44
+          ]
+        }
+      ],
+      "resource_dependencies": [
+        "唯一核心与替代拆解来源",
+        "队友主动/控制事件"
+      ],
+      "version_and_season_limits": [
+        "历史评级不迁移",
+        "拆解来源和赛季当前确认"
+      ],
+      "non_transferable_claims": [
+        "程昱无条件免控",
+        "乘胜固定多段"
+      ],
+      "local_checks": [
+        {
+          "claim": "触发和分支是否为硬前提",
+          "source": "资料库/official_skill_db.json；补充本地核对证据.json:skills/盛气横凌,skills/审时定计,skills/乘间击隙",
+          "result": "supported_locally",
+          "evidence": "盛气200986依普攻及目标士气分支；审时200257敌我负面事件概率响应；乘间200259只自身主动主战法叠3次后攻击并清层。",
+          "impact": "先核事件供给和版本，来源能力不自动等价。",
+          "evidence_paragraphs": [
+            21,
+            22,
+            39
+          ]
+        }
+      ],
+      "application_questions": [
+        "谁供负面、谁需要抵御？拆法能立刻补哪队？"
+      ],
+      "related_report_ids": [
+        "052",
+        "066",
+        "044"
+      ]
+    },
+    {
+      "no": "040",
+      "title": "普攻距离与战法距离的配将方法",
+      "rel": "报告库/旧56项目/精编/全率土最全入门攻略合集!  来了!_精修学习报告.docx",
+      "source_sha256": "ab9df29a1bac19c5fbf90b97be25088213e6a0ea97ac7134b06cf904f59a0f53",
+      "reading_status": "full_text_read",
+      "paragraph_count": 40,
+      "tags": [
+        "双距离",
+        "覆盖与定点"
+      ],
+      "transferable_rules": [
+        {
+          "condition": "给普攻追击队增加攻击距离",
+          "decision": "只重算普攻目标与依赖普攻链，其他法单独查",
+          "reason": "攻击距离和法有效距离是不同字段",
+          "failure_mode": "攻击+1当全法距离+1",
+          "evidence_paragraphs": [
+            8,
+            9,
+            17,
+            20,
+            23,
+            29,
+            30,
+            35
+          ]
+        },
+        {
+          "condition": "覆盖与定点目标不同",
+          "decision": "比较随机稀释、援护并核增距持续和冲突",
+          "reason": "范围优化服务目标而非统一求远",
+          "failure_mode": "只看能打大营就加距离破坏定点",
+          "evidence_paragraphs": [
+            10,
+            11,
+            26,
+            31,
+            32,
+            36
+          ]
+        }
+      ],
+      "resource_dependencies": [
+        "增距来源及原定点配置",
+        "队伍站位、前锋保护"
+      ],
+      "version_and_season_limits": [
+        "距离当前版本另查",
+        "增距对象与持续时间不可省"
+      ],
+      "non_transferable_claims": [
+        "所有法继承普攻距离",
+        "最远必强"
+      ],
+      "local_checks": [
+        {
+          "claim": "远攻是否增加所有战法距离",
+          "source": "资料库/official_skill_db.json；补充本地核对证据.json:skills/远攻秘策",
+          "result": "supported_locally",
+          "evidence": "远攻200210描述提高攻击属性、谋略、攻击距离+1，自身和前3回合友军共享；未写所有战法有效距离增加。",
+          "impact": "需逐法查有效距离，友军增距并非无限持续。",
+          "evidence_paragraphs": [
+            9,
+            11,
+            32,
+            35
+          ]
+        }
+      ],
+      "application_questions": [
+        "增距实际作用谁、多久？哪个动作需跨前锋？"
+      ],
+      "related_report_ids": [
+        "037",
+        "024",
+        "063"
+      ]
+    },
+    {
+      "no": "046",
+      "title": "武将加点与队内速度排序",
+      "rel": "报告库/旧56项目/精编/武将咋加点？ 一篇看明白!_精修学习报告.docx",
+      "source_sha256": "e85fa98ce8a9bcdb8dd838a37965840ff04a5f91a4f79d8f407b6a53120945e4",
+      "reading_status": "full_text_read",
+      "paragraph_count": 52,
+      "tags": [
+        "相对卡速",
+        "行动前置"
+      ],
+      "transferable_rules": [
+        {
+          "condition": "解控、增益、恢复需先于主C",
+          "decision": "先写关键事件并用最终面板确定相对顺序，再补主属性",
+          "reason": "裸成长、旧五十点都不能保证实际先后",
+          "failure_mode": "固定点数或工具人无限加速度",
+          "evidence_paragraphs": [
+            8,
+            9,
+            10,
+            11,
+            38,
+            39,
+            40,
+            41,
+            42
+          ]
+        },
+        {
+          "condition": "普遍慢于高速环境或想散射破保护",
+          "decision": "比较抢速、首轮保护、承伤位和短准备路径",
+          "reason": "额外攻击未必打同目标，成本也挤主属性",
+          "failure_mode": "全员加速或散射必破保护",
+          "evidence_paragraphs": [
+            33,
+            35,
+            36,
+            47,
+            49,
+            50
+          ]
+        }
+      ],
+      "resource_dependencies": [
+        "最终面板、兵种、宝物、战斗内加速",
+        "牺牲输出与生存的代价"
+      ],
+      "version_and_season_limits": [
+        "没有通用速度线",
+        "张机受伤恢复并不等于自身行动治疗"
+      ],
+      "non_transferable_claims": [
+        "固定5-10点通用",
+        "辅助先动一定兑现恢复"
+      ],
+      "local_checks": [
+        {
+          "claim": "解控与受伤恢复是否同一时点",
+          "source": "资料库/official_skill_db.json；补充本地核对证据.json:skills/九锡黄龙,skills/金匮要略",
+          "result": "conditional",
+          "evidence": "九锡为主动移除有害并规避，可设计主C前发动；金匮为受伤时概率恢复，不按张机自己行动施加。",
+          "impact": "046张机快过主C的示例需结合实际携带主动恢复，不能把金匮奶归于先行动。",
+          "evidence_paragraphs": [
+            11,
+            29,
+            38,
+            45
+          ]
+        }
+      ],
+      "application_questions": [
+        "哪一个效果在谁行动前生效？是否受伤触发而非主动行动？"
+      ],
+      "related_report_ids": [
+        "029",
+        "031",
+        "067"
+      ]
+    },
+    {
+      "no": "058",
+      "title": "资源产量的六维增长与阶段配比",
+      "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—全赛季发育思路 资源产量篇，来了，产量突破十五万不在困难，资源见底窘境不再出现，焚决速看!_精修学习报告.docx",
+      "source_sha256": "82a5f1e40c939c62be8adc7795b8255b6d961479c93fe0bc374410e32af5f256",
+      "reading_status": "full_text_read",
+      "paragraph_count": 83,
+      "tags": [
+        "净资源",
+        "建设机会成本"
+      ],
+      "transferable_rules": [
+        {
+          "condition": "高级地、采垦、分城都增产",
+          "decision": "统一比较边际增量、战损、建设值和使用时长",
+          "reason": "名义产量不能忽略取得成本与资源错配",
+          "failure_mode": "看到十五万目标即照抄路线",
+          "evidence_paragraphs": [
+            8,
+            9,
+            19,
+            22,
+            28,
+            36,
+            37,
+            53,
+            75,
+            76
+          ]
+        },
+        {
+          "condition": "由建设期转连续征兵期",
+          "decision": "按木铁石粮净收支调配地块和政策",
+          "reason": "减耗也增加净资源，供养队数需扣持续支出",
+          "failure_mode": "固定四维比例或高产就加队",
+          "evidence_paragraphs": [
+            10,
+            11,
+            12,
+            34,
+            74,
+            77,
+            78,
+            81
+          ]
+        }
+      ],
+      "resource_dependencies": [
+        "建设值、土地格、战损与征兵消耗",
+        "政策任职、等级和赛季余时"
+      ],
+      "version_and_season_limits": [
+        "5.6小时仅静态算例",
+        "旧收益与保存政策不可混写"
+      ],
+      "non_transferable_claims": [
+        "每号必须十五万",
+        "蒋琬当前固定加94921"
+      ],
+      "local_checks": [
+        {
+          "claim": "政策收益是否固定旧数值",
+          "source": "资料库/official_skill_db.json；补充本地核对证据.json:policy/足食足兵,policy/建功平川,policy/扶义致才",
+          "result": "supported_locally",
+          "evidence": "足食按城池历史最大兵力每10000提升设施产量5%；建功区别征兵粮草与称号维持消耗；扶义分别关联汉魏文臣与献帝。",
+          "impact": "旧蒋琬94921不替当前条件式政策，须代入实际部队与任职。",
+          "evidence_paragraphs": [
+            65,
+            66,
+            69,
+            72,
+            77
+          ]
+        }
+      ],
+      "application_questions": [
+        "哪项净收支短缺？建设值投军事还是增产更划算？"
+      ],
+      "related_report_ids": [
+        "015",
+        "014",
+        "062"
+      ]
+    },
+    {
+      "no": "062",
+      "title": "金币获取的阶段切换与机会成本",
+      "rel": "报告库/旧56项目/精编/率土最全攻略合集 全赛季发育思路，金币获取篇，来了！_精修学习报告.docx",
+      "source_sha256": "ea78be06abe4f62451611d86bf257871a30d2e9bdf411faf2627df3b942f9958",
+      "reading_status": "full_text_read",
+      "paragraph_count": 86,
+      "tags": [
+        "铜钱阶段",
+        "稳定与机会收益"
+      ],
+      "transferable_rules": [
+        {
+          "condition": "主队和种地尚未成型却追税收",
+          "decision": "比较土地格、战法经验与税收的长期净收益，再按条件转型",
+          "reason": "固定天数及25000是历史坐标",
+          "failure_mode": "前十天或25000当硬命令",
+          "evidence_paragraphs": [
+            8,
+            9,
+            10,
+            11,
+            64,
+            67,
+            71,
+            73,
+            74
+          ]
+        },
+        {
+          "condition": "攻城榜、城区、山寨给高名义铜钱",
+          "decision": "扣战损、体力、行军、在线及主队延期，分别算稳定和机会收入",
+          "reason": "机会收入依同盟排名与刷新，不能做保底预算",
+          "failure_mode": "84000套所有城或周五六18点当当前日程",
+          "evidence_paragraphs": [
+            12,
+            19,
+            21,
+            25,
+            33,
+            75,
+            76,
+            80,
+            81
+          ]
+        }
+      ],
+      "resource_dependencies": [
+        "主队经验、土地格与战斗供给",
+        "同盟安排和岗位竞争"
+      ],
+      "version_and_season_limits": [
+        "金币口语对应铜钱",
+        "刷新、奖励和城区守军未当前验证"
+      ],
+      "non_transferable_claims": [
+        "固定每周刷新安排",
+        "第二队统一成型阈值"
+      ],
+      "local_checks": [
+        {
+          "claim": "税收政策是否直接覆盖所有收入",
+          "source": "资料库/official_skill_db.json；补充本地核对证据.json:policy/雄略安邦,policy/扶义致才",
+          "result": "conditional",
+          "evidence": "雄略主城税收加成与分城产量是分项；扶义只有献帝施政才额外税收3000，另有汉魏文臣恢复减耗条件。",
+          "impact": "记录现有税收分项和岗位，无法由政策推出攻城或山寨保底收益。",
+          "evidence_paragraphs": [
+            29,
+            40,
+            44,
+            78,
+            81
+          ]
+        }
+      ],
+      "application_questions": [
+        "现在是格子、经验还是铜钱瓶颈？机会目标净收益是否为正？"
+      ],
+      "related_report_ids": [
+        "010",
+        "014",
+        "058"
+      ]
+    },
+    {
+      "no": "066",
+      "title": "魏晋核心武将的保留与拆解框架",
+      "rel": "报告库/旧56项目/精编/率土武将志—魏晋篇，来了 率土最全武将志，所有武将该拆改留，有什么价值，全部讲清楚_精修学习报告.docx",
+      "source_sha256": "d1bb48087d98fe2c098b4f9a849355bafef4189f2c7740ba75f39a28dd82e356",
+      "reading_status": "full_text_read",
+      "paragraph_count": 64,
+      "tags": [
+        "本体与拆法",
+        "替代来源"
+      ],
+      "transferable_rules": [
+        {
+          "condition": "核心能拆稀缺法但仅一张",
+          "decision": "锁版本、未来两支确定携带者和替代来源，再算本体机会成本",
+          "reason": "可拆不等于值得拆，本体独特联动不能靠普通卡复现",
+          "failure_mode": "直接把能拆翻成建议拆",
+          "evidence_paragraphs": [
+            27,
+            31,
+            33,
+            34,
+            56,
+            57,
+            58,
+            61
+          ]
+        },
+        {
+          "condition": "杜预本体暂未成队且追击主队缺法",
+          "decision": "核可牺牲副本、普攻通道、赛季和全局法占用",
+          "reason": "拆法必须立即补真实队伍且不影响核心",
+          "failure_mode": "默认杜预可拆或追击固定连发",
+          "evidence_paragraphs": [
+            23,
+            35,
+            47,
+            48,
+            59,
+            61,
+            62
+          ]
+        }
+      ],
+      "resource_dependencies": [
+        "唯一可用版本、副卡和拆解来源",
+        "主队需求及可获取阶段"
+      ],
+      "version_and_season_limits": [
+        "作者星级评级无统一样本",
+        "不可逆拆解执行前本次证据必需"
+      ],
+      "non_transferable_claims": [
+        "核心默认可拆",
+        "本体战斗价值按作者五星评级"
+      ],
+      "local_checks": [
+        {
+          "claim": "不同自带与拆法需要什么触发",
+          "source": "资料库/official_skill_db.json；补充本地核对证据.json:skills/其徐如林,skills/三军夺帅,skills/乘胜追击,skills/及锋而试",
+          "result": "supported_locally",
+          "evidence": "其徐正式回合策略伤害邻接扩散；三军成功普攻/主动/追击触发；乘胜续攻概率逐次下降；及锋成功发动后提高后续伤害。",
+          "impact": "精确机制与队友供给决定本体价值；本检查不独立确认全部拆解来源。",
+          "evidence_paragraphs": [
+            25,
+            33,
+            35,
+            47,
+            53,
+            61
+          ]
+        }
+      ],
+      "application_questions": [
+        "拆后哪一队立即受益？是否有更低成本来源且已过赛季门禁？"
+      ],
+      "related_report_ids": [
+        "038",
+        "044",
+        "047",
+        "067"
+      ]
+    }
+  ],
+  "cross_report_lessons": [
+    "显示数值、真实触发和经济净收益要分层；面板改善只有进入关键事件才有价值。",
+    "距离服务目标池、速度服务事件先后；宝物和加点都在队伍设计之后。",
+    "养成资源按预算、瓶颈、覆盖条件、剩余赛季与退出成本排序。"
+  ],
+  "open_questions": [
+    "031久战表8%与保存描述5%须核版本等级基准。",
+    "046张机先行动的恢复例子须区分金匮受伤恢复与实际主动恢复法。",
+    "保存将出关西、奉令护蜀等文本有新旧拼接，不据此固定段数及伤害通道。"
+  ]
+}

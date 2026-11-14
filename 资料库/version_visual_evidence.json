@@ -1,0 +1,50 @@
+{
+  "schema_version": "2026-08-25",
+  "purpose": "旧批通用渲染器的版本证据。自带战法证据优先；无自带战法时，必须是同一帧已核验的阵营、总星数与 SP/XP/无标识的完整卡面证据。",
+  "records": [
+    {
+      "source_doc": "孙权完全不适配张机 ，来看看有哪些常见误区_逐帧深度学习报告_1秒版.docx",
+      "hero": "孙权",
+      "source_frame": "frame_000071_00h01m10s000ms.jpg",
+      "country": "吴",
+      "star": 5,
+      "variant": "normal",
+      "note": "01:10 卡面可见吴·孙权、5星，且未见 SP/XP 标识；本地 hero_extra/hero.json 匹配普通九锡黄龙版。"
+    },
+    {
+      "source_doc": "距离思路究极细节 ，普攻距离和战法距离，真的是越远越好吗？_逐帧深度学习报告_1秒版.docx",
+      "hero": "曹操",
+      "source_frame": "frame_000014_00h00m13s000ms.jpg",
+      "builtin_skill": "魏武之世",
+      "note": "2026-08-25 复核：斩龙刀阵容卡面可见曹操自带战法“魏武之世”；本地 hero_extra 唯一对应魏-骑-5星。原报告的汉-骑-5星为错误。"
+    },
+    {
+      "source_doc": "距离思路究极细节 ，普攻距离和战法距离，真的是越远越好吗？_逐帧深度学习报告_1秒版.docx",
+      "hero": "司马懿",
+      "source_frame": "frame_000074_00h01m13s000ms.jpg",
+      "builtin_skill": "其徐如林",
+      "note": "2026-08-25 复核：武将详情卡面可见晋、5星、步兵、COST 3.5、攻击距离2及自带战法“其徐如林”；本地 hero_extra 唯一对应晋-步-5星(XP)。原报告的魏-步-5星为错误。"
+    },
+    {
+      "source_doc": "南阳的一波进攻_逐帧深度学习报告_1秒版.docx",
+      "hero": "甘宁",
+      "source_frame": "frame_000620_00h10m19s000ms.jpg",
+      "builtin_skill": "侵掠如火",
+      "note": "2026-08-25 复核：战法统计中甘宁关联“侵掠如火”；本地 hero_extra 唯一对应吴-步-5星。"
+    },
+    {
+      "source_doc": "南阳的一波进攻_逐帧深度学习报告_1秒版.docx",
+      "hero": "刘备",
+      "source_frame": "frame_000620_00h10m19s000ms.jpg",
+      "builtin_skill": "皇裔流离",
+      "note": "2026-08-25 复核：战法统计中刘备关联“皇裔流离”；本地 hero_extra 唯一对应蜀-步-5星。原报告的汉-步-5星为错误。"
+    },
+    {
+      "source_doc": "南阳的一波进攻_逐帧深度学习报告_1秒版.docx",
+      "hero": "司马炎",
+      "source_frame": "frame_000620_00h10m19s000ms.jpg",
+      "builtin_skill": "谋议宏图",
+      "note": "2026-08-25 复核：战法统计中司马炎关联“谋议宏图”；本地 hero_extra 唯一对应晋-步-5星。"
+    }
+  ]
+}

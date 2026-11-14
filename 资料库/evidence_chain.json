@@ -1,0 +1,909 @@
+{
+  "generated_by": "build_evidence_chain.py",
+  "stats": {
+    "total_reports": 69,
+    "with_frames": 67,
+    "with_video": 67,
+    "with_transcript": 47,
+    "with_alt_version": 69
+  },
+  "records": [
+    {
+      "subproject": "抖音旧56",
+      "title": "七擒七纵就是高配磐阵 ，战磐体系迎来全面加强，七擒七纵强度不错。",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\七擒七纵就是高配磐阵 ，战磐体系迎来全面加强，七擒七纵强度不错。_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\七擒七纵就是高配磐阵 ，战磐体系迎来全面加强，七擒七纵强度不错。",
+      "frame_count": 135,
+      "video": "D:/Desktop/shandou\\抖音\\七擒七纵就是高配磐阵 ，战磐体系迎来全面加强，七擒七纵强度不错。.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\七擒七纵就是高配磐阵 ，战磐体系迎来全面加强，七擒七纵强度不错。.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\七擒七纵就是高配磐阵 ，战磐体系迎来全面加强，七擒七纵强度不错。_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\七擒七纵就是高配磐阵 ，战磐体系迎来全面加强，七擒七纵强度不错。\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "从零开始，宝物养成焚决，来了！ 刚进征服看见宝物系统，摸不着头脑？老是乱打一堆毫不适配的残品？别着急，北冥让你一篇看懂！",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\从零开始，宝物养成焚决，来了！ 刚进征服看见宝物系统，摸不着头脑？老是乱打一堆毫不适配的残品？别着急，北冥让你一篇看懂！_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\从零开始，宝物养成焚决，来了！ 刚进征服看见宝物系统，摸不着头脑？老是乱打一堆毫不适配的残品？别着急，北冥让你一篇看懂！",
+      "frame_count": 188,
+      "video": "D:/Desktop/shandou\\抖音\\从零开始，宝物养成焚决，来了！ 刚进征服看见宝物系统，摸不着头脑？老是乱打一堆毫不适配的残品？别着急，北冥让你一篇看懂！.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\从零开始，宝物养成焚决，来了！ 刚进征服看见宝物系统，摸不着头脑？老是乱打一堆毫不适配的残品？别着急，北冥让你一篇看懂！.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\从零开始，宝物养成焚决，来了！ 刚进征服看见宝物系统，摸不着头脑？老是乱打一堆毫不适配的残品？别着急，北冥让你一篇看懂！_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\从零开始，宝物养成焚决，来了！ 刚进征服看见宝物系统，摸不着头脑？老是乱打一堆毫不适配的残品？别着急，北冥让你一篇看懂！\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "低红大张鲁前期实战 ，队伍咋样，实战来看！",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\低红大张鲁前期实战 ，队伍咋样，实战来看！_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\低红大张鲁前期实战 ，队伍咋样，实战来看！",
+      "frame_count": 214,
+      "video": "D:/Desktop/shandou\\抖音\\低红大张鲁前期实战 ，队伍咋样，实战来看！.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\低红大张鲁前期实战 ，队伍咋样，实战来看！.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\低红大张鲁前期实战 ，队伍咋样，实战来看！_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\低红大张鲁前期实战 ，队伍咋样，实战来看！\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "全新垒实体系震撼来袭！ 杜垒司见过没，杜预也能走垒实？",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\全新垒实体系震撼来袭！ 杜垒司见过没，杜预也能走垒实？_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全新垒实体系震撼来袭！ 杜垒司见过没，杜预也能走垒实？",
+      "frame_count": 171,
+      "video": "D:/Desktop/shandou\\抖音\\全新垒实体系震撼来袭！ 杜垒司见过没，杜预也能走垒实？.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\全新垒实体系震撼来袭！ 杜垒司见过没，杜预也能走垒实？.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\全新垒实体系震撼来袭！ 杜垒司见过没，杜预也能走垒实？_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全新垒实体系震撼来袭！ 杜垒司见过没，杜预也能走垒实？\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "全率土最全入门攻略合集!  来了!",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\全率土最全入门攻略合集!  来了!_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最全入门攻略合集!  来了!",
+      "frame_count": 214,
+      "video": "D:/Desktop/shandou\\抖音\\全率土最全入门攻略合集!  来了!.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\全率土最全入门攻略合集!  来了!.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\全率土最全入门攻略合集!  来了!_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最全入门攻略合集!  来了!\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "全率土最全攻略合集—神赏篇 来了! 评论投稿，下期解析哦!",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\全率土最全攻略合集—神赏篇 来了! 评论投稿，下期解析哦!_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最全攻略合集—神赏篇 来了! 评论投稿，下期解析哦!",
+      "frame_count": 72,
+      "video": "D:/Desktop/shandou\\抖音\\全率土最全攻略合集—神赏篇 来了! 评论投稿，下期解析哦!.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\全率土最全攻略合集—神赏篇 来了! 评论投稿，下期解析哦!.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\全率土最全攻略合集—神赏篇 来了! 评论投稿，下期解析哦!_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最全攻略合集—神赏篇 来了! 评论投稿，下期解析哦!\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "全率土最全攻略合集！体系篇 ——战磐体系 来了！",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\全率土最全攻略合集！体系篇 ——战磐体系 来了！_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最全攻略合集！体系篇 ——战磐体系 来了！",
+      "frame_count": 202,
+      "video": "D:/Desktop/shandou\\抖音\\全率土最全攻略合集！体系篇 ——战磐体系 来了！.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\全率土最全攻略合集！体系篇 ——战磐体系 来了！.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\全率土最全攻略合集！体系篇 ——战磐体系 来了！_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最全攻略合集！体系篇 ——战磐体系 来了！\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "全率土最全攻略，战法篇! 重磅来袭!",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\全率土最全攻略，战法篇! 重磅来袭!_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最全攻略，战法篇! 重磅来袭!",
+      "frame_count": 269,
+      "video": "D:/Desktop/shandou\\抖音\\全率土最全攻略，战法篇! 重磅来袭!.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\全率土最全攻略，战法篇! 重磅来袭!.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\全率土最全攻略，战法篇! 重磅来袭!_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最全攻略，战法篇! 重磅来袭!\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "全率土最细最全攻略合集—全赛季发育思路 资源产量篇，来了，产量突破十五万不在困难，资源见底窘境不再出现，焚决速看!",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\全率土最细最全攻略合集—全赛季发育思路 资源产量篇，来了，产量突破十五万不在困难，资源见底窘境不再出现，焚决速看!_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最细最全攻略合集—全赛季发育思路 资源产量篇，来了，产量突破十五万不在困难，资源见底窘境不再出现，焚决速看!",
+      "frame_count": 278,
+      "video": "D:/Desktop/shandou\\抖音\\全率土最细最全攻略合集—全赛季发育思路 资源产量篇，来了，产量突破十五万不在困难，资源见底窘境不再出现，焚决速看!.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\全率土最细最全攻略合集—全赛季发育思路 资源产量篇，来了，产量突破十五万不在困难，资源见底窘境不再出现，焚决速看!.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\全率土最细最全攻略合集—全赛季发育思路 资源产量篇，来了，产量突破十五万不在困难，资源见底窘境不再出现，焚决速看!_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最细最全攻略合集—全赛季发育思路 资源产量篇，来了，产量突破十五万不在困难，资源见底窘境不再出现，焚决速看!\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "全率土最细最全攻略合集—垒实篇投稿讲解 来了!多多留言，后续会定期抽取评论解析队伍。",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\全率土最细最全攻略合集—垒实篇投稿讲解 来了!多多留言，后续会定期抽取评论解析队伍。_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最细最全攻略合集—垒实篇投稿讲解 来了!多多留言，后续会定期抽取评论解析队伍。",
+      "frame_count": 269,
+      "video": "D:/Desktop/shandou\\抖音\\全率土最细最全攻略合集—垒实篇投稿讲解 来了!多多留言，后续会定期抽取评论解析队伍。.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\全率土最细最全攻略合集—垒实篇投稿讲解 来了!多多留言，后续会定期抽取评论解析队伍。.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\全率土最细最全攻略合集—垒实篇投稿讲解 来了!多多留言，后续会定期抽取评论解析队伍。_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最细最全攻略合集—垒实篇投稿讲解 来了!多多留言，后续会定期抽取评论解析队伍。\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "全率土最细最全攻略合集—战磐篇粉丝答疑 战磐篇粉丝答疑来了，看看有没有你的队伍？ 跟北冥多多互动，留言下期想看主五哪个体系？",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\全率土最细最全攻略合集—战磐篇粉丝答疑 战磐篇粉丝答疑来了，看看有没有你的队伍？ 跟北冥多多互动，留言下期想看主五哪个体系？_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最细最全攻略合集—战磐篇粉丝答疑 战磐篇粉丝答疑来了，看看有没有你的队伍？ 跟北冥多多互动，留言下期想看主五哪个体系？",
+      "frame_count": 287,
+      "video": "D:/Desktop/shandou\\抖音\\全率土最细最全攻略合集—战磐篇粉丝答疑 战磐篇粉丝答疑来了，看看有没有你的队伍？ 跟北冥多多互动，留言下期想看主五哪个体系？.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\全率土最细最全攻略合集—战磐篇粉丝答疑 战磐篇粉丝答疑来了，看看有没有你的队伍？ 跟北冥多多互动，留言下期想看主五哪个体系？.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\全率土最细最全攻略合集—战磐篇粉丝答疑 战磐篇粉丝答疑来了，看看有没有你的队伍？ 跟北冥多多互动，留言下期想看主五哪个体系？_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最细最全攻略合集—战磐篇粉丝答疑 战磐篇粉丝答疑来了，看看有没有你的队伍？ 跟北冥多多互动，留言下期想看主五哪个体系？\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "全率土最细最全攻略合集—攻其篇 评论区投稿，下期点评队伍哦",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\全率土最细最全攻略合集—攻其篇 评论区投稿，下期点评队伍哦_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最细最全攻略合集—攻其篇 评论区投稿，下期点评队伍哦",
+      "frame_count": 126,
+      "video": "D:/Desktop/shandou\\抖音\\全率土最细最全攻略合集—攻其篇 评论区投稿，下期点评队伍哦.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\全率土最细最全攻略合集—攻其篇 评论区投稿，下期点评队伍哦.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\全率土最细最全攻略合集—攻其篇 评论区投稿，下期点评队伍哦_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最细最全攻略合集—攻其篇 评论区投稿，下期点评队伍哦\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "全率土最细最全攻略合集—百战篇 来了!一篇带你看懂百战体系原理!",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\全率土最细最全攻略合集—百战篇 来了!一篇带你看懂百战体系原理!_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最细最全攻略合集—百战篇 来了!一篇带你看懂百战体系原理!",
+      "frame_count": 102,
+      "video": "D:/Desktop/shandou\\抖音\\全率土最细最全攻略合集—百战篇 来了!一篇带你看懂百战体系原理!.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\全率土最细最全攻略合集—百战篇 来了!一篇带你看懂百战体系原理!.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\全率土最细最全攻略合集—百战篇 来了!一篇带你看懂百战体系原理!_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最细最全攻略合集—百战篇 来了!一篇带你看懂百战体系原理!\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "全率土最细最全攻略合集攻其篇—粉丝投稿解析 来了!看看粉丝们的奇思妙想吧",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\全率土最细最全攻略合集攻其篇—粉丝投稿解析 来了!看看粉丝们的奇思妙想吧_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最细最全攻略合集攻其篇—粉丝投稿解析 来了!看看粉丝们的奇思妙想吧",
+      "frame_count": 111,
+      "video": "D:/Desktop/shandou\\抖音\\全率土最细最全攻略合集攻其篇—粉丝投稿解析 来了!看看粉丝们的奇思妙想吧.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\全率土最细最全攻略合集攻其篇—粉丝投稿解析 来了!看看粉丝们的奇思妙想吧.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\全率土最细最全攻略合集攻其篇—粉丝投稿解析 来了!看看粉丝们的奇思妙想吧_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最细最全攻略合集攻其篇—粉丝投稿解析 来了!看看粉丝们的奇思妙想吧\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "全率土最细最强攻略合集 神赏体系粉丝投稿解析，来了",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\全率土最细最强攻略合集 神赏体系粉丝投稿解析，来了_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最细最强攻略合集 神赏体系粉丝投稿解析，来了",
+      "frame_count": 163,
+      "video": "D:/Desktop/shandou\\抖音\\全率土最细最强攻略合集 神赏体系粉丝投稿解析，来了.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\全率土最细最强攻略合集 神赏体系粉丝投稿解析，来了.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\全率土最细最强攻略合集 神赏体系粉丝投稿解析，来了_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\全率土最细最强攻略合集 神赏体系粉丝投稿解析，来了\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "内政点到底咋分配？ 分配的艺术，一篇看懂。",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\内政点到底咋分配？ 分配的艺术，一篇看懂。_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\内政点到底咋分配？ 分配的艺术，一篇看懂。",
+      "frame_count": 192,
+      "video": "D:/Desktop/shandou\\抖音\\内政点到底咋分配？ 分配的艺术，一篇看懂。.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\内政点到底咋分配？ 分配的艺术，一篇看懂。.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\内政点到底咋分配？ 分配的艺术，一篇看懂。_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\内政点到底咋分配？ 分配的艺术，一篇看懂。\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "史上最混乱的剧本，来了！ 简直不敢想象有多好玩！",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\史上最混乱的剧本，来了！ 简直不敢想象有多好玩！_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\史上最混乱的剧本，来了！ 简直不敢想象有多好玩！",
+      "frame_count": 135,
+      "video": "D:/Desktop/shandou\\抖音\\史上最混乱的剧本，来了！ 简直不敢想象有多好玩！.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\史上最混乱的剧本，来了！ 简直不敢想象有多好玩！.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\史上最混乱的剧本，来了！ 简直不敢想象有多好玩！_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\史上最混乱的剧本，来了！ 简直不敢想象有多好玩！\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "垒实体系克制关系，来了! 下期带来大量粉丝投稿解析，期待一下有没有你!",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\垒实体系克制关系，来了! 下期带来大量粉丝投稿解析，期待一下有没有你!_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\垒实体系克制关系，来了! 下期带来大量粉丝投稿解析，期待一下有没有你!",
+      "frame_count": 135,
+      "video": "D:/Desktop/shandou\\抖音\\垒实体系克制关系，来了! 下期带来大量粉丝投稿解析，期待一下有没有你!.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\垒实体系克制关系，来了! 下期带来大量粉丝投稿解析，期待一下有没有你!.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\垒实体系克制关系，来了! 下期带来大量粉丝投稿解析，期待一下有没有你!_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\垒实体系克制关系，来了! 下期带来大量粉丝投稿解析，期待一下有没有你!\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "太后大加强，平民也有光! 太后大加强，平民也有光!",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\太后大加强，平民也有光! 太后大加强，平民也有光!_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\太后大加强，平民也有光! 太后大加强，平民也有光!",
+      "frame_count": 66,
+      "video": "D:/Desktop/shandou\\抖音\\太后大加强，平民也有光! 太后大加强，平民也有光!.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\太后大加强，平民也有光! 太后大加强，平民也有光!.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\太后大加强，平民也有光! 太后大加强，平民也有光!_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\太后大加强，平民也有光! 太后大加强，平民也有光!\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "孙权完全不适配张机 ，来看看有哪些常见误区",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\孙权完全不适配张机 ，来看看有哪些常见误区_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\孙权完全不适配张机 ，来看看有哪些常见误区",
+      "frame_count": 271,
+      "video": "D:/Desktop/shandou\\抖音\\孙权完全不适配张机 ，来看看有哪些常见误区.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\孙权完全不适配张机 ，来看看有哪些常见误区.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\孙权完全不适配张机 ，来看看有哪些常见误区_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\孙权完全不适配张机 ，来看看有哪些常见误区\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "孟获就是南蛮版张机！ 这个新体系缔造者，你看懂了吗？",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\孟获就是南蛮版张机！ 这个新体系缔造者，你看懂了吗？_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\孟获就是南蛮版张机！ 这个新体系缔造者，你看懂了吗？",
+      "frame_count": 154,
+      "video": "D:/Desktop/shandou\\抖音\\孟获就是南蛮版张机！ 这个新体系缔造者，你看懂了吗？.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\孟获就是南蛮版张机！ 这个新体系缔造者，你看懂了吗？.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\孟获就是南蛮版张机！ 这个新体系缔造者，你看懂了吗？_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\孟获就是南蛮版张机！ 这个新体系缔造者，你看懂了吗？\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "平民怎么出法刀 北冥给你小妙招! 平民怎么出法刀 北冥给你小妙招!",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\平民怎么出法刀 北冥给你小妙招! 平民怎么出法刀 北冥给你小妙招!_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\平民怎么出法刀 北冥给你小妙招! 平民怎么出法刀 北冥给你小妙招!",
+      "frame_count": 66,
+      "video": "D:/Desktop/shandou\\抖音\\平民怎么出法刀 北冥给你小妙招! 平民怎么出法刀 北冥给你小妙招!.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\平民怎么出法刀 北冥给你小妙招! 平民怎么出法刀 北冥给你小妙招!.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\平民怎么出法刀 北冥给你小妙招! 平民怎么出法刀 北冥给你小妙招!_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\平民怎么出法刀 北冥给你小妙招! 平民怎么出法刀 北冥给你小妙招!\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "平民种地焚决来了 10天必过两万五势力，无限套娃开分法，全赛季稳定过势力值任务，丝滑过渡金币期，稳扎稳打步步为营。",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\平民种地焚决来了 10天必过两万五势力，无限套娃开分法，全赛季稳定过势力值任务，丝滑过渡金币期，稳扎稳打步步为营。_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\平民种地焚决来了 10天必过两万五势力，无限套娃开分法，全赛季稳定过势力值任务，丝滑过渡金币期，稳扎稳打步步为营。",
+      "frame_count": 170,
+      "video": "D:/Desktop/shandou\\抖音\\平民种地焚决来了 10天必过两万五势力，无限套娃开分法，全赛季稳定过势力值任务，丝滑过渡金币期，稳扎稳打步步为营。.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\平民种地焚决来了 10天必过两万五势力，无限套娃开分法，全赛季稳定过势力值任务，丝滑过渡金币期，稳扎稳打步步为营。.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\平民种地焚决来了 10天必过两万五势力，无限套娃开分法，全赛季稳定过势力值任务，丝滑过渡金币期，稳扎稳打步步为营。_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\平民种地焚决来了 10天必过两万五势力，无限套娃开分法，全赛季稳定过势力值任务，丝滑过渡金币期，稳扎稳打步步为营。\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "张机如何显著降低败率？ 首先要理解张机这个武将最需要的是什么。",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\张机如何显著降低败率？ 首先要理解张机这个武将最需要的是什么。_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\张机如何显著降低败率？ 首先要理解张机这个武将最需要的是什么。",
+      "frame_count": 121,
+      "video": "D:/Desktop/shandou\\抖音\\张机如何显著降低败率？ 首先要理解张机这个武将最需要的是什么。.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\张机如何显著降低败率？ 首先要理解张机这个武将最需要的是什么。.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\张机如何显著降低败率？ 首先要理解张机这个武将最需要的是什么。_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\张机如何显著降低败率？ 首先要理解张机这个武将最需要的是什么。\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "徐庶能玩吗？ 当然可以，平民极佳的战磐选择，来了！",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\徐庶能玩吗？ 当然可以，平民极佳的战磐选择，来了！_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\徐庶能玩吗？ 当然可以，平民极佳的战磐选择，来了！",
+      "frame_count": 136,
+      "video": "D:/Desktop/shandou\\抖音\\徐庶能玩吗？ 当然可以，平民极佳的战磐选择，来了！.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\徐庶能玩吗？ 当然可以，平民极佳的战磐选择，来了！.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\徐庶能玩吗？ 当然可以，平民极佳的战磐选择，来了！_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\徐庶能玩吗？ 当然可以，平民极佳的战磐选择，来了！\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "杜预垒实队，战报来了！ 一起来看看实战表现如何吧！",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\杜预垒实队，战报来了！ 一起来看看实战表现如何吧！_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\杜预垒实队，战报来了！ 一起来看看实战表现如何吧！",
+      "frame_count": 249,
+      "video": "D:/Desktop/shandou\\抖音\\杜预垒实队，战报来了！ 一起来看看实战表现如何吧！.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\杜预垒实队，战报来了！ 一起来看看实战表现如何吧！.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\杜预垒实队，战报来了！ 一起来看看实战表现如何吧！_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\杜预垒实队，战报来了！ 一起来看看实战表现如何吧！\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "武将咋加点？ 一篇看明白!",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\武将咋加点？ 一篇看明白!_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\武将咋加点？ 一篇看明白!",
+      "frame_count": 129,
+      "video": "D:/Desktop/shandou\\抖音\\武将咋加点？ 一篇看明白!.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\武将咋加点？ 一篇看明白!.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\武将咋加点？ 一篇看明白!_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\武将咋加点？ 一篇看明白!\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "率土可以钓鱼啦！ 率土可以钓鱼啦，钓鱼佬快来一起玩!",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\率土可以钓鱼啦！ 率土可以钓鱼啦，钓鱼佬快来一起玩!_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\率土可以钓鱼啦！ 率土可以钓鱼啦，钓鱼佬快来一起玩!",
+      "frame_count": 43,
+      "video": "D:/Desktop/shandou\\抖音\\率土可以钓鱼啦！ 率土可以钓鱼啦，钓鱼佬快来一起玩!.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\率土可以钓鱼啦！ 率土可以钓鱼啦，钓鱼佬快来一起玩!.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\率土可以钓鱼啦！ 率土可以钓鱼啦，钓鱼佬快来一起玩!_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\率土可以钓鱼啦！ 率土可以钓鱼啦，钓鱼佬快来一起玩!\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "率土最全攻略合集 全赛季发育思路，金币获取篇，来了！",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\率土最全攻略合集 全赛季发育思路，金币获取篇，来了！_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\率土最全攻略合集 全赛季发育思路，金币获取篇，来了！",
+      "frame_count": 199,
+      "video": "D:/Desktop/shandou\\抖音\\率土最全攻略合集 全赛季发育思路，金币获取篇，来了！.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\率土最全攻略合集 全赛季发育思路，金币获取篇，来了！.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\率土最全攻略合集 全赛季发育思路，金币获取篇，来了！_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\率土最全攻略合集 全赛季发育思路，金币获取篇，来了！\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "率土最细最全攻略合集—垒实篇 评论抢点评! 把你们的垒实配队放在评论区哦!下期抽取点评别错过!",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\率土最细最全攻略合集—垒实篇 评论抢点评! 把你们的垒实配队放在评论区哦!下期抽取点评别错过!_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\率土最细最全攻略合集—垒实篇 评论抢点评! 把你们的垒实配队放在评论区哦!下期抽取点评别错过!",
+      "frame_count": 208,
+      "video": "D:/Desktop/shandou\\抖音\\率土最细最全攻略合集—垒实篇 评论抢点评! 把你们的垒实配队放在评论区哦!下期抽取点评别错过!.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\率土最细最全攻略合集—垒实篇 评论抢点评! 把你们的垒实配队放在评论区哦!下期抽取点评别错过!.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\率土最细最全攻略合集—垒实篇 评论抢点评! 把你们的垒实配队放在评论区哦!下期抽取点评别错过!_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\率土最细最全攻略合集—垒实篇 评论抢点评! 把你们的垒实配队放在评论区哦!下期抽取点评别错过!\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "率土武将志—文鸯、程昱 文鸯程昱武将详解来了!",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\率土武将志—文鸯、程昱 文鸯程昱武将详解来了!_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\率土武将志—文鸯、程昱 文鸯程昱武将详解来了!",
+      "frame_count": 135,
+      "video": "D:/Desktop/shandou\\抖音\\率土武将志—文鸯、程昱 文鸯程昱武将详解来了!.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\率土武将志—文鸯、程昱 文鸯程昱武将详解来了!.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\率土武将志—文鸯、程昱 文鸯程昱武将详解来了!_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\率土武将志—文鸯、程昱 文鸯程昱武将详解来了!\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "率土武将志—贾诩 使用手册来了!一篇全看懂!",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\率土武将志—贾诩 使用手册来了!一篇全看懂!_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\率土武将志—贾诩 使用手册来了!一篇全看懂!",
+      "frame_count": 214,
+      "video": "D:/Desktop/shandou\\抖音\\率土武将志—贾诩 使用手册来了!一篇全看懂!.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\率土武将志—贾诩 使用手册来了!一篇全看懂!.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\率土武将志—贾诩 使用手册来了!一篇全看懂!_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\率土武将志—贾诩 使用手册来了!一篇全看懂!\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "率土武将志—魏晋篇，来了 率土最全武将志，所有武将该拆改留，有什么价值，全部讲清楚",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\率土武将志—魏晋篇，来了 率土最全武将志，所有武将该拆改留，有什么价值，全部讲清楚_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\率土武将志—魏晋篇，来了 率土最全武将志，所有武将该拆改留，有什么价值，全部讲清楚",
+      "frame_count": 255,
+      "video": "D:/Desktop/shandou\\抖音\\率土武将志—魏晋篇，来了 率土最全武将志，所有武将该拆改留，有什么价值，全部讲清楚.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\率土武将志—魏晋篇，来了 率土最全武将志，所有武将该拆改留，有什么价值，全部讲清楚.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\率土武将志—魏晋篇，来了 率土最全武将志，所有武将该拆改留，有什么价值，全部讲清楚_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\率土武将志—魏晋篇，来了 率土最全武将志，所有武将该拆改留，有什么价值，全部讲清楚\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "程昱魏智最强搭配—所有细节一篇看懂 魏智的宝物你真的带对了吗？",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\程昱魏智最强搭配—所有细节一篇看懂 魏智的宝物你真的带对了吗？_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\程昱魏智最强搭配—所有细节一篇看懂 魏智的宝物你真的带对了吗？",
+      "frame_count": 157,
+      "video": "D:/Desktop/shandou\\抖音\\程昱魏智最强搭配—所有细节一篇看懂 魏智的宝物你真的带对了吗？.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\程昱魏智最强搭配—所有细节一篇看懂 魏智的宝物你真的带对了吗？.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\程昱魏智最强搭配—所有细节一篇看懂 魏智的宝物你真的带对了吗？_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\程昱魏智最强搭配—所有细节一篇看懂 魏智的宝物你真的带对了吗？\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "空城 一夫 单骑 反计应该如何选择？ 一篇内容讲清楚，让你不再迷茫!",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\空城 一夫 单骑 反计应该如何选择？ 一篇内容讲清楚，让你不再迷茫!_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\空城 一夫 单骑 反计应该如何选择？ 一篇内容讲清楚，让你不再迷茫!",
+      "frame_count": 117,
+      "video": "D:/Desktop/shandou\\抖音\\空城 一夫 单骑 反计应该如何选择？ 一篇内容讲清楚，让你不再迷茫!.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\空城 一夫 单骑 反计应该如何选择？ 一篇内容讲清楚，让你不再迷茫!.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\空城 一夫 单骑 反计应该如何选择？ 一篇内容讲清楚，让你不再迷茫!_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\空城 一夫 单骑 反计应该如何选择？ 一篇内容讲清楚，让你不再迷茫!\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "粉丝赞不绝口的队伍来咯！ 感谢粉丝分享！",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\粉丝赞不绝口的队伍来咯！ 感谢粉丝分享！_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\粉丝赞不绝口的队伍来咯！ 感谢粉丝分享！",
+      "frame_count": 116,
+      "video": "D:/Desktop/shandou\\抖音\\粉丝赞不绝口的队伍来咯！ 感谢粉丝分享！.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\粉丝赞不绝口的队伍来咯！ 感谢粉丝分享！.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\粉丝赞不绝口的队伍来咯！ 感谢粉丝分享！_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\粉丝赞不绝口的队伍来咯！ 感谢粉丝分享！\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "纯刀居然还有上升空间？ 一个改动，拉高强度",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\纯刀居然还有上升空间？ 一个改动，拉高强度_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\纯刀居然还有上升空间？ 一个改动，拉高强度",
+      "frame_count": 160,
+      "video": "D:/Desktop/shandou\\抖音\\纯刀居然还有上升空间？ 一个改动，拉高强度.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\纯刀居然还有上升空间？ 一个改动，拉高强度.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\纯刀居然还有上升空间？ 一个改动，拉高强度_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\纯刀居然还有上升空间？ 一个改动，拉高强度\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "装糖队到底糖不糖 一支拉满细节的队伍，非常值得推敲。  原创队伍。",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\装糖队到底糖不糖 一支拉满细节的队伍，非常值得推敲。  原创队伍。_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\装糖队到底糖不糖 一支拉满细节的队伍，非常值得推敲。  原创队伍。",
+      "frame_count": 154,
+      "video": "D:/Desktop/shandou\\抖音\\装糖队到底糖不糖 一支拉满细节的队伍，非常值得推敲。  原创队伍。.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\装糖队到底糖不糖 一支拉满细节的队伍，非常值得推敲。  原创队伍。.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\装糖队到底糖不糖 一支拉满细节的队伍，非常值得推敲。  原创队伍。_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\装糖队到底糖不糖 一支拉满细节的队伍，非常值得推敲。  原创队伍。\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "距离思路究极细节 ，普攻距离和战法距离，真的是越远越好吗？",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\距离思路究极细节 ，普攻距离和战法距离，真的是越远越好吗？_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\距离思路究极细节 ，普攻距离和战法距离，真的是越远越好吗？",
+      "frame_count": 167,
+      "video": "D:/Desktop/shandou\\抖音\\距离思路究极细节 ，普攻距离和战法距离，真的是越远越好吗？.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\距离思路究极细节 ，普攻距离和战法距离，真的是越远越好吗？.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\距离思路究极细节 ，普攻距离和战法距离，真的是越远越好吗？_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\距离思路究极细节 ，普攻距离和战法距离，真的是越远越好吗？\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "这战法概率也太夸张了！ 也没人说甘宁带及锋概率能到80啊！",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\这战法概率也太夸张了！ 也没人说甘宁带及锋概率能到80啊！_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\这战法概率也太夸张了！ 也没人说甘宁带及锋概率能到80啊！",
+      "frame_count": 137,
+      "video": "D:/Desktop/shandou\\抖音\\这战法概率也太夸张了！ 也没人说甘宁带及锋概率能到80啊！.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\这战法概率也太夸张了！ 也没人说甘宁带及锋概率能到80啊！.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\这战法概率也太夸张了！ 也没人说甘宁带及锋概率能到80啊！_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\这战法概率也太夸张了！ 也没人说甘宁带及锋概率能到80啊！\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "这次调整受伤的只有周泰! 我们周泰是不美吗？",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\这次调整受伤的只有周泰! 我们周泰是不美吗？_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\这次调整受伤的只有周泰! 我们周泰是不美吗？",
+      "frame_count": 151,
+      "video": "D:/Desktop/shandou\\抖音\\这次调整受伤的只有周泰! 我们周泰是不美吗？.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\这次调整受伤的只有周泰! 我们周泰是不美吗？.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\这次调整受伤的只有周泰! 我们周泰是不美吗？_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\这次调整受伤的只有周泰! 我们周泰是不美吗？\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "配将焚决来了 全体系队伍搭建思路最后一期，真焚决—宏观配将法，来了! 跟合集内容全部融会贯通，你也能成配将大手子!",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\配将焚决来了 全体系队伍搭建思路最后一期，真焚决—宏观配将法，来了! 跟合集内容全部融会贯通，你也能成配将大手子!_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\配将焚决来了 全体系队伍搭建思路最后一期，真焚决—宏观配将法，来了! 跟合集内容全部融会贯通，你也能成配将大手子!",
+      "frame_count": 208,
+      "video": "D:/Desktop/shandou\\抖音\\配将焚决来了 全体系队伍搭建思路最后一期，真焚决—宏观配将法，来了! 跟合集内容全部融会贯通，你也能成配将大手子!.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\配将焚决来了 全体系队伍搭建思路最后一期，真焚决—宏观配将法，来了! 跟合集内容全部融会贯通，你也能成配将大手子!.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\配将焚决来了 全体系队伍搭建思路最后一期，真焚决—宏观配将法，来了! 跟合集内容全部融会贯通，你也能成配将大手子!_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\配将焚决来了 全体系队伍搭建思路最后一期，真焚决—宏观配将法，来了! 跟合集内容全部融会贯通，你也能成配将大手子!\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "马超纯刀最强配置卷土来袭! 单次进攻两万五武勋!两个细节带飞马超!",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\马超纯刀最强配置卷土来袭! 单次进攻两万五武勋!两个细节带飞马超!_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\马超纯刀最强配置卷土来袭! 单次进攻两万五武勋!两个细节带飞马超!",
+      "frame_count": 97,
+      "video": "D:/Desktop/shandou\\抖音\\马超纯刀最强配置卷土来袭! 单次进攻两万五武勋!两个细节带飞马超!.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\马超纯刀最强配置卷土来袭! 单次进攻两万五武勋!两个细节带飞马超!.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\马超纯刀最强配置卷土来袭! 单次进攻两万五武勋!两个细节带飞马超!_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\马超纯刀最强配置卷土来袭! 单次进攻两万五武勋!两个细节带飞马超!\\contact_sheets"
+    },
+    {
+      "subproject": "抖音旧56",
+      "title": "高顺领衔群骑，来了！ 8回合高频解控，四重增伤，非常均衡的一队。",
+      "report": "D:/Desktop/shandou\\报告库\\旧56项目\\精编\\高顺领衔群骑，来了！ 8回合高频解控，四重增伤，非常均衡的一队。_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\高顺领衔群骑，来了！ 8回合高频解控，四重增伤，非常均衡的一队。",
+      "frame_count": 169,
+      "video": "D:/Desktop/shandou\\抖音\\高顺领衔群骑，来了！ 8回合高频解控，四重增伤，非常均衡的一队。.mp4",
+      "transcript": "D:/Desktop/shandou\\抖音_transcripts\\高顺领衔群骑，来了！ 8回合高频解控，四重增伤，非常均衡的一队。.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\旧56项目\\逐帧1秒版\\高顺领衔群骑，来了！ 8回合高频解控，四重增伤，非常均衡的一队。_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\高顺领衔群骑，来了！ 8回合高频解控，四重增伤，非常均衡的一队。\\contact_sheets"
+    },
+    {
+      "subproject": "开荒",
+      "title": "开荒专题（6 视频合并）",
+      "report": "D:/Desktop/shandou\\报告库\\开荒\\精编\\开荒专题（6 视频合并）_精修学习报告.docx",
+      "frames_dir": null,
+      "frame_count": 0,
+      "video": null,
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\开荒\\逐帧1秒版\\开荒专题（6 视频合并）_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "赛季",
+      "title": "最强四星0氪蜀之智，萌新玩家必看",
+      "report": "D:/Desktop/shandou\\报告库\\赛季\\精编\\最强四星0氪蜀之智，萌新玩家必看_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\赛季_frames_dense_1s\\最强四星0氪蜀之智，萌新玩家必看",
+      "frame_count": 136,
+      "video": "D:/Desktop/shandou\\抖音\\赛季\\最强四星0氪蜀之智，萌新玩家必看.mp4",
+      "transcript": "D:/Desktop/shandou\\赛季_transcripts\\最强四星0氪蜀之智，萌新玩家必看.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\赛季\\逐帧1秒版\\最强四星0氪蜀之智，萌新玩家必看_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\赛季_frames_dense_1s\\最强四星0氪蜀之智，萌新玩家必看\\contact_sheets"
+    },
+    {
+      "subproject": "赛季",
+      "title": "盘点全网最强四星神队排名，从第八到第一，越往后越离谱，都有配置和战报！",
+      "report": "D:/Desktop/shandou\\报告库\\赛季\\精编\\盘点全网最强四星神队排名，从第八到第一，越往后越离谱，都有配置和战报！_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\赛季_frames_dense_1s\\盘点全网最强四星神队排名，从第八到第一，越往后越离谱，都有配置和战报！",
+      "frame_count": 142,
+      "video": "D:/Desktop/shandou\\抖音\\赛季\\盘点全网最强四星神队排名，从第八到第一，越往后越离谱，都有配置和战报！.mp4",
+      "transcript": "D:/Desktop/shandou\\赛季_transcripts\\盘点全网最强四星神队排名，从第八到第一，越往后越离谱，都有配置和战报！.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\赛季\\逐帧1秒版\\盘点全网最强四星神队排名，从第八到第一，越往后越离谱，都有配置和战报！_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\赛季_frames_dense_1s\\盘点全网最强四星神队排名，从第八到第一，越往后越离谱，都有配置和战报！\\contact_sheets"
+    },
+    {
+      "subproject": "赛季",
+      "title": "萌新这些四星卡千万别拆了，s赛季有大用！",
+      "report": "D:/Desktop/shandou\\报告库\\赛季\\精编\\萌新这些四星卡千万别拆了，s赛季有大用！_精修学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\赛季_frames_dense_1s\\萌新这些四星卡千万别拆了，s赛季有大用！",
+      "frame_count": 64,
+      "video": "D:/Desktop/shandou\\抖音\\赛季\\萌新这些四星卡千万别拆了，s赛季有大用！.mp4",
+      "transcript": "D:/Desktop/shandou\\赛季_transcripts\\萌新这些四星卡千万别拆了，s赛季有大用！.json",
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\赛季\\逐帧1秒版\\萌新这些四星卡千万别拆了，s赛季有大用！_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": "D:/Desktop/shandou\\赛季_frames_dense_1s\\萌新这些四星卡千万别拆了，s赛季有大用！\\contact_sheets"
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "video_免费粉丝配将第九期，平民专业配将..._top_0_2",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\video_免费粉丝配将第九期，平民专业配将..._top_0_2_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\video_免费粉丝配将第九期，平民专业配将..._top_0_2",
+      "frame_count": 71,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\video_免费粉丝配将第九期，平民专业配将..._top_0_2.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\video_免费粉丝配将第九期，平民专业配将..._top_0_2_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "video_免费粉丝配将第五期，配将思路讲解..._top_0_2",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\video_免费粉丝配将第五期，配将思路讲解..._top_0_2_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\video_免费粉丝配将第五期，配将思路讲解..._top_0_2",
+      "frame_count": 58,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\video_免费粉丝配将第五期，配将思路讲解..._top_0_2.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\video_免费粉丝配将第五期，配将思路讲解..._top_0_2_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "video_免费粉丝配将第六期 #率土之滨 ..._top_0_3",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\video_免费粉丝配将第六期 #率土之滨 ..._top_0_3_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\video_免费粉丝配将第六期 #率土之滨 ..._top_0_3",
+      "frame_count": 60,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\video_免费粉丝配将第六期 #率土之滨 ..._top_0_3.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\video_免费粉丝配将第六期 #率土之滨 ..._top_0_3_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "video_免费粉丝配将第十一期，继续配将。..._top_0_2",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\video_免费粉丝配将第十一期，继续配将。..._top_0_2_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\video_免费粉丝配将第十一期，继续配将。..._top_0_2",
+      "frame_count": 85,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\video_免费粉丝配将第十一期，继续配将。..._top_0_2.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\video_免费粉丝配将第十一期，继续配将。..._top_0_2_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "video_免费配将第八期，针对平民的配将 ..._top_0_2",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\video_免费配将第八期，针对平民的配将 ..._top_0_2_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\video_免费配将第八期，针对平民的配将 ..._top_0_2",
+      "frame_count": 73,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\video_免费配将第八期，针对平民的配将 ..._top_0_2.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\video_免费配将第八期，针对平民的配将 ..._top_0_2_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "video_在给大量粉丝配将以后的经验之谈。..._top_0_2",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\video_在给大量粉丝配将以后的经验之谈。..._top_0_2_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\video_在给大量粉丝配将以后的经验之谈。..._top_0_2",
+      "frame_count": 103,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\video_在给大量粉丝配将以后的经验之谈。..._top_0_2.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\video_在给大量粉丝配将以后的经验之谈。..._top_0_2_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "video_对自己队伍不确定的，发评论区大家..._top_0_3",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\video_对自己队伍不确定的，发评论区大家..._top_0_3_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\video_对自己队伍不确定的，发评论区大家..._top_0_3",
+      "frame_count": 99,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\video_对自己队伍不确定的，发评论区大家..._top_0_3.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\video_对自己队伍不确定的，发评论区大家..._top_0_3_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "video_月卡配将不一定配的就好，但是免费..._top_0_3",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\video_月卡配将不一定配的就好，但是免费..._top_0_3_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\video_月卡配将不一定配的就好，但是免费..._top_0_3",
+      "frame_count": 73,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\video_月卡配将不一定配的就好，但是免费..._top_0_3.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\video_月卡配将不一定配的就好，但是免费..._top_0_3_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "video_来人配将，先到先得，免费粉丝配将..._top_0_2",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\video_来人配将，先到先得，免费粉丝配将..._top_0_2_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\video_来人配将，先到先得，免费粉丝配将..._top_0_2",
+      "frame_count": 121,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\video_来人配将，先到先得，免费粉丝配将..._top_0_2.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\video_来人配将，先到先得，免费粉丝配将..._top_0_2_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "video_来人配将，免费粉丝配将第十三期 ..._top_0_3",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\video_来人配将，免费粉丝配将第十三期 ..._top_0_3_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\video_来人配将，免费粉丝配将第十三期 ..._top_0_3",
+      "frame_count": 66,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\video_来人配将，免费粉丝配将第十三期 ..._top_0_3.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\video_来人配将，免费粉丝配将第十三期 ..._top_0_3_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "video_来来来兄弟们，继续配将，免费粉丝..._top_0_3",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\video_来来来兄弟们，继续配将，免费粉丝..._top_0_3_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\video_来来来兄弟们，继续配将，免费粉丝..._top_0_3",
+      "frame_count": 75,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\video_来来来兄弟们，继续配将，免费粉丝..._top_0_3.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\video_来来来兄弟们，继续配将，免费粉丝..._top_0_3_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "video_来来来，上人配将，免费粉丝配将第..._top_0_1",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\video_来来来，上人配将，免费粉丝配将第..._top_0_1_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\video_来来来，上人配将，免费粉丝配将第..._top_0_1",
+      "frame_count": 69,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\video_来来来，上人配将，免费粉丝配将第..._top_0_1.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\video_来来来，上人配将，免费粉丝配将第..._top_0_1_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "video_配将配将，专心为粉丝配将是一种享..._top_0_3",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\video_配将配将，专心为粉丝配将是一种享..._top_0_3_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\video_配将配将，专心为粉丝配将是一种享..._top_0_3",
+      "frame_count": 129,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\video_配将配将，专心为粉丝配将是一种享..._top_0_3.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\video_配将配将，专心为粉丝配将是一种享..._top_0_3_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "video_配将配将，免费配将 #率土之滨 ..._top_0_3",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\video_配将配将，免费配将 #率土之滨 ..._top_0_3_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\video_配将配将，免费配将 #率土之滨 ..._top_0_3",
+      "frame_count": 57,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\video_配将配将，免费配将 #率土之滨 ..._top_0_3.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\video_配将配将，免费配将 #率土之滨 ..._top_0_3_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "五队并三队，三队并两队，样样通样...（抖音标题被文件名截断）",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\五队并三队，三队并两队，样样通样...（抖音标题被文件名截断）_精编学习报告.docx",
+      "frames_dir": null,
+      "frame_count": 0,
+      "video": null,
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\五队并三队，三队并两队，样样通样...（抖音标题被文件名截断）_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "四星称号神队晋步，竹林七贤",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\四星称号神队晋步，竹林七贤_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\四星称号神队晋步，竹林七贤",
+      "frame_count": 37,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\四星称号神队晋步，竹林七贤.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\四星称号神队晋步，竹林七贤_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "撸铁队详解",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\撸铁队详解_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\撸铁队详解",
+      "frame_count": 304,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\撸铁队详解.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\撸铁队详解_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "率土之滨队伍推荐第16队——宁元刀（黑科技）（碰瓷）",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\率土之滨队伍推荐第16队——宁元刀（黑科技）（碰瓷）_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\率土之滨队伍推荐第16队——宁元刀（黑科技）（碰瓷）",
+      "frame_count": 18,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\率土之滨队伍推荐第16队——宁元刀（黑科技）（碰瓷）.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\率土之滨队伍推荐第16队——宁元刀（黑科技）（碰瓷）_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "率土平民队伍之宁元刀",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\率土平民队伍之宁元刀_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\率土平民队伍之宁元刀",
+      "frame_count": 19,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\率土平民队伍之宁元刀.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\率土平民队伍之宁元刀_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "率土平民队伍之甘宁碰瓷队",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\率土平民队伍之甘宁碰瓷队_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\率土平民队伍之甘宁碰瓷队",
+      "frame_count": 17,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\率土平民队伍之甘宁碰瓷队.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\率土平民队伍之甘宁碰瓷队_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    },
+    {
+      "subproject": "阵容新批",
+      "title": "配将点评",
+      "report": "D:/Desktop/shandou\\报告库\\阵容新批\\精编\\配将点评_精编学习报告.docx",
+      "frames_dir": "D:/Desktop/shandou\\抖音_frames_dense_1s\\阵容\\配将点评",
+      "frame_count": 117,
+      "video": "D:/Desktop/shandou\\抖音\\阵容\\配将点评.mp4",
+      "transcript": null,
+      "alt_reports": [
+        "D:/Desktop/shandou\\报告库\\阵容新批\\逐帧1秒版\\配将点评_逐帧深度学习报告_1秒版.docx"
+      ],
+      "contact_sheet_dir": null
+    }
+  ]
+}

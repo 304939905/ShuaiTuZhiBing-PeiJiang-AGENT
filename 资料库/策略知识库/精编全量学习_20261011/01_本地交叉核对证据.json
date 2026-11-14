@@ -1,0 +1,706 @@
+{
+  "verified_date": "2026-10-12",
+  "verification_scope": "Saved local files only; not current online data",
+  "source_hashes": {
+    "资料库/official_skill_db.json": "eb9a4e21e4c7e0fb612c801d82907cc04d81d0272371e2cb6a99ffa7a98a322b",
+    "资料库/skill_extra.json": "99686796488ddc3e423e6789df9ae10463f3eda68790a21453d481e1523cda6e",
+    "资料库/hero_extra.json": "b69459592463198e03beaf18ccd13e5d90d176fa5ee88e9ecb95080097818fe2",
+    "资料库/hero.json": "d0c7362bd345da8f1a196ba4e4509002a5634ddeb5578113540aee947a4070c6",
+    ".workbuddy/memory/RULES/02_实体核验.md": "b3e023d0fcf13508a569100f6229569b309b8821807a1b8570472bd499a467ed",
+    ".workbuddy/memory/RULES/04_数据源.md": "a65b0c770285127729d6960761ecb6c528042a106ab9b5e29fa0bd571cce8c11",
+    "资料库/官方机制库/基础机制判断规则_20260901.md": "c2b588e978ee6eddf6d0532239cf960a7355c794632f54477a27e21bef3adcfe",
+    "资料库/官方机制库/战法冲突判定规则_20260901.md": "294513f69fe10050cf218eceb6a4bb1a82a98b2c8ec113f554059a93899fdd21"
+  },
+  "skills": {
+    "神兵天降": {
+      "saved_description": {
+        "id": 200204,
+        "probability": "--",
+        "quality": "S",
+        "type": "指挥",
+        "soldier": "弓步骑",
+        "target": "敌军群体（有效距离内2个目标）",
+        "distance": 4,
+        "effect": "受到攻击伤害提高;受到策略攻击伤害提高",
+        "desc": "战斗开始后前3回合，使敌军群体受到攻击和策略攻击时的伤害提高30.0%（受谋略属性影响）",
+        "desc1": "战斗开始后前3回合，使敌军群体受到攻击和策略攻击时的伤害提高15.0%（受谋略属性影响）",
+        "src": "skill_extra",
+        "season_code": 0,
+        "season_tag": "BASE",
+        "obtain_method": "拆解指定武将"
+      },
+      "copy_rows": [
+        {
+          "id": 200204,
+          "name": "神兵天降",
+          "skillCount": 1,
+          "notice": "战法研究成功后，可配置1个武将"
+        }
+      ]
+    },
+    "大赏三军": {
+      "saved_description": {
+        "id": 200198,
+        "probability": "--",
+        "quality": "S",
+        "type": "指挥",
+        "soldier": "弓步骑",
+        "target": "我军群体（有效距离内2个目标）",
+        "distance": 3,
+        "effect": "攻击伤害提高;策略攻击伤害提高",
+        "desc": "战斗开始后前3回合，使我军群体进行攻击和策略攻击时的伤害提高30.0%（受谋略属性影响）",
+        "desc1": "战斗开始后前3回合，使我军群体进行攻击和策略攻击时的伤害提高15.0%（受谋略属性影响）",
+        "src": "skill_extra",
+        "season_code": 0,
+        "season_tag": "BASE",
+        "obtain_method": "拆解指定武将"
+      },
+      "copy_rows": [
+        {
+          "id": 200198,
+          "name": "大赏三军",
+          "skillCount": 1,
+          "notice": "战法研究成功后，可配置1个武将"
+        }
+      ]
+    },
+    "反计之策": {
+      "saved_description": {
+        "id": 200220,
+        "probability": "--",
+        "quality": "S",
+        "type": "指挥",
+        "soldier": "弓步骑",
+        "target": "敌军群体（有效距离内2个目标）",
+        "distance": 4,
+        "effect": "犹豫(预备);主动战法伤害降低",
+        "desc": "战斗开始后前3回合，使敌军群体发动主动战法时造成的伤害大幅下降，并在首回合有100.0%的几率使其陷入犹豫状态，无法发动主动战法",
+        "desc1": "战斗开始后前3回合，使敌军群体发动主动战法时造成的伤害大幅下降，并在首回合有50.0%的几率使其陷入犹豫状态，无法发动主动战法",
+        "src": "skill_extra",
+        "season_code": 0,
+        "season_tag": "BASE",
+        "obtain_method": "拆解指定武将"
+      },
+      "copy_rows": [
+        {
+          "id": 200220,
+          "name": "反计之策",
+          "skillCount": 1,
+          "notice": "战法研究成功后，可配置1个武将"
+        }
+      ]
+    },
+    "攻其不备": {
+      "saved_description": {
+        "id": 200755,
+        "probability": "--",
+        "quality": "S",
+        "type": "指挥",
+        "soldier": "弓步骑",
+        "target": "敌军群体（有效距离内2个目标）",
+        "distance": 5,
+        "effect": "受到攻击伤害提高;受到策略攻击伤害提高",
+        "desc": "战斗中，使敌军群体在每受到一次攻击的伤害后，其所受到的所有伤害就提高11.6%（受速度属性影响），此效果最多叠加5次",
+        "desc1": "战斗中，使敌军群体在每受到一次攻击的伤害后，其所受到的所有伤害就提高5.8%（受速度属性影响），此效果最多叠加5次",
+        "src": "skill_extra",
+        "season_code": 3,
+        "season_tag": "S3",
+        "obtain_method": "拆解指定武将",
+        "acquisition_stage": "S3",
+        "acquisition_stage_source": "aa_rate_supplement.json：S3标签",
+        "acquisition_stage_status": "confirmed"
+      },
+      "copy_rows": [
+        {
+          "id": 200755,
+          "name": "攻其不备",
+          "skillCount": 1,
+          "notice": "战法研究成功后，可配置1个武将"
+        }
+      ]
+    },
+    "战必断金": {
+      "saved_description": {
+        "id": 200228,
+        "probability": "--",
+        "quality": "S",
+        "type": "指挥",
+        "soldier": "弓步骑",
+        "target": "敌军群体（有效距离内2个目标）",
+        "distance": 4,
+        "effect": "怯战(预备)",
+        "desc": "战斗开始后前3回合，使敌军群体每回合都有90.0%的几率陷入怯战状态，无法进行普通攻击",
+        "desc1": "战斗开始后前3回合，使敌军群体每回合都有45.0%的几率陷入怯战状态，无法进行普通攻击",
+        "src": "skill_extra",
+        "season_code": 0,
+        "season_tag": "BASE",
+        "obtain_method": "拆解指定武将"
+      },
+      "copy_rows": [
+        {
+          "id": 200228,
+          "name": "战必断金",
+          "skillCount": 1,
+          "notice": "战法研究成功后，可配置1个武将"
+        }
+      ]
+    },
+    "计险远近": {
+      "saved_description": {
+        "id": 200248,
+        "probability": "--",
+        "quality": "A",
+        "type": "指挥",
+        "soldier": "弓步骑",
+        "target": "我军全体",
+        "distance": 5,
+        "effect": "无视规避;攻击属性提高;防御属性提高;谋略属性提高;受到攻击伤害降低;受到策略攻击伤害降低;受到策略攻击伤害提高;受到攻击伤害提高",
+        "desc": "当我军3名武将基础攻击距离均不相同时，大营造成的伤害无视规避，中军攻击、防御、谋略属性增加20.0，前锋每回合受到的首次攻击或策略攻击伤害减少50.0%；且我军全体在发动普通攻击后，使攻击目标本回合受到的所有伤害提高15.0%，可叠加",
+        "desc1": "当我军3名武将基础攻击距离均不相同时，大营造成的伤害无视规避，中军攻击、防御、谋略属性增加10.0，前锋每回合受到的首次攻击或策略攻击伤害减少25.0%；且我军全体在发动普通攻击后，使攻击目标本回合受到的所有伤害提高7.5%，可叠加",
+        "src": "skill_extra",
+        "season_code": 40003,
+        "season_tag": "XP",
+        "obtain_method": "兑换",
+        "acquisition_stage": "征服赛季",
+        "acquisition_stage_source": "用户暂定规则：开放赛季未核实的XP兑换战法默认按征服赛季处理（2026-09-14）",
+        "acquisition_stage_status": "provisional_default"
+      },
+      "copy_rows": [
+        {
+          "id": 200248,
+          "name": "计险远近",
+          "skillCount": 1,
+          "notice": "无"
+        }
+      ]
+    },
+    "令无空悬": {
+      "saved_description": {
+        "id": 200280,
+        "probability": "--",
+        "quality": "A",
+        "type": "被动",
+        "soldier": "弓步骑",
+        "target": "自己",
+        "distance": 1,
+        "effect": "主动战法伤害提高;发动率提高",
+        "desc": "战斗中，自身每次试图发动主动战法时，使主动战法造成的下一次伤害提升30.0%，此效果最多叠加4次；第1、3、5、7回合自身行动时，本回合内造成攻击或策略攻击伤害的主动战法发动率提升10.0%",
+        "desc1": "战斗中，自身每次试图发动主动战法时，使主动战法造成的下一次伤害提升15.0%，此效果最多叠加4次；第1、3、5、7回合自身行动时，本回合内造成攻击或策略攻击伤害的主动战法发动率提升5.0%",
+        "src": "skill_extra",
+        "season_code": 4,
+        "season_tag": "XP",
+        "obtain_method": "拆解指定武将",
+        "acquisition_stage": "征服赛季",
+        "acquisition_stage_source": "用户暂定规则：未核实的XP战法拆解武将默认按征服赛季卡处理（2026-09-14）",
+        "acquisition_stage_status": "provisional_default"
+      },
+      "copy_rows": [
+        {
+          "id": 200280,
+          "name": "令无空悬",
+          "skillCount": 1,
+          "notice": "战法研究成功后，可配置1个武将"
+        }
+      ]
+    },
+    "及锋而试": {
+      "saved_description": {
+        "id": 200979,
+        "probability": "35%",
+        "quality": "S",
+        "type": "主动",
+        "soldier": "弓步骑",
+        "target": "敌军群体（有效距离内2个目标）",
+        "distance": 5,
+        "effect": "攻击伤害;士气降低",
+        "desc": "对敌军群体发动一次攻击（伤害率120.0%）并使其士气降低10.0，每次发动后伤害率增加40.0%",
+        "desc1": "对敌军群体发动一次攻击（伤害率60.0%）并使其士气降低5.0，每次发动后伤害率增加40.0%",
+        "src": "skill_extra",
+        "season_code": 0,
+        "season_tag": "BASE",
+        "obtain_method": "拆解指定武将"
+      },
+      "copy_rows": [
+        {
+          "id": 200979,
+          "name": "及锋而试",
+          "skillCount": 1,
+          "notice": "战法研究成功后，可配置1个武将"
+        }
+      ]
+    },
+    "磐阵善守": {
+      "saved_description": {
+        "id": 200816,
+        "probability": "--",
+        "quality": "A",
+        "type": "指挥",
+        "soldier": "弓步骑",
+        "target": "我军单体",
+        "distance": 2,
+        "effect": "受到攻击伤害降低;受到策略攻击伤害降低;规避(预备)",
+        "desc": "战斗开始后前4回合，每回合使我军单体兵力最低的武将受到首次攻击和策略攻击的伤害大幅度降低，并使我军随机单体受到下1次伤害时有100.0%几率进入规避状态，免疫该次伤害",
+        "desc1": "战斗开始后前4回合，每回合使我军单体兵力最低的武将受到首次攻击和策略攻击的伤害大幅度降低，并使我军随机单体受到下1次伤害时有50.0%几率进入规避状态，免疫该次伤害",
+        "src": "skill_extra",
+        "season_code": 40003,
+        "season_tag": "XP",
+        "obtain_method": "兑换",
+        "acquisition_stage": "S3",
+        "acquisition_stage_source": "用户确认：S3可以兑换（2026-09-14）",
+        "acquisition_stage_status": "confirmed"
+      },
+      "copy_rows": [
+        {
+          "id": 200816,
+          "name": "磐阵善守",
+          "skillCount": 1,
+          "notice": "无"
+        }
+      ]
+    },
+    "形兵之极": {
+      "saved_description": {
+        "id": 200813,
+        "probability": "--",
+        "quality": "B",
+        "type": "指挥",
+        "soldier": "弓步骑",
+        "target": "我军全体",
+        "distance": 2,
+        "effect": "发动率提高;攻击伤害提高;策略攻击伤害提高;受到攻击伤害降低;受到策略攻击伤害降低",
+        "desc": "战斗中，我方出战3名武将兵系均不相同时，大营主动、追击主战法发动率提升10.0%，并于战斗前4回合，前锋受到的所有伤害下降50.0%，中军每回合首次造成的所有伤害提高40.0%",
+        "desc1": "战斗中，我方出战3名武将兵系均不相同时，大营主动、追击主战法发动率提升5.0%，并于战斗前4回合，前锋受到的所有伤害下降25.0%，中军每回合首次造成的所有伤害提高20.0%",
+        "src": "skill_extra",
+        "season_code": 40003,
+        "season_tag": "XP",
+        "obtain_method": "兑换",
+        "acquisition_stage": "S3",
+        "acquisition_stage_source": "名词概念.md：S3赛季典藏战法",
+        "acquisition_stage_status": "confirmed"
+      },
+      "copy_rows": [
+        {
+          "id": 200813,
+          "name": "形兵之极",
+          "skillCount": 1,
+          "notice": "无"
+        }
+      ]
+    },
+    "夔吼象踏": {
+      "saved_description": {
+        "id": 200772,
+        "probability": "--",
+        "quality": "S",
+        "type": "被动",
+        "soldier": "骑",
+        "target": "自己",
+        "distance": 4,
+        "effect": "分兵;策略攻击伤害",
+        "desc": "战斗中，使自身进入分兵状态（伤害率60.0%），同时每回合对有效距离4以内的敌军单体发动一次策略攻击（伤害率70.2%，受谋略属性影响）战斗中，使自身进入分兵状态（伤害率60.0%，受谋略属性影响），同时每回合对有效距离4以内的敌军单体发动一次策略攻击（伤害率70.2%，受谋略属性影响）",
+        "desc1": "战斗中，使自身进入分兵状态（伤害率30.0%），同时每回合对有效距离4以内的敌军单体发动一次策略攻击（伤害率35.1%，受谋略属性影响）战斗中，使自身进入分兵状态（伤害率30.0%，受谋略属性影响），同时每回合对有效距离4以内的敌军单体发动一次策略攻击（伤害率35.1%，受谋略属性影响）",
+        "src": "skill_extra",
+        "season_code": 0,
+        "season_tag": "BASE"
+      },
+      "copy_rows": [
+        {
+          "id": 200772,
+          "name": "夔吼象踏",
+          "skillCount": 1,
+          "notice": "无"
+        }
+      ]
+    },
+    "九锡黄龙": {
+      "saved_description": {
+        "id": 200030,
+        "probability": "25%-35%",
+        "quality": "S",
+        "type": "主动",
+        "soldier": "弓",
+        "target": "我军群体（有效距离内3个目标）",
+        "distance": 3,
+        "effect": "（立即型镇静）镇静;规避(预备)",
+        "desc": "移除我军全体有害效果，并使其进入规避状态，免疫接下来受到的2次伤害",
+        "desc1": "移除我军全体有害效果，并使其进入规避状态，免疫接下来受到的2次伤害",
+        "src": "skill_extra",
+        "season_code": 0,
+        "season_tag": "BASE"
+      },
+      "copy_rows": [
+        {
+          "id": 200030,
+          "name": "九锡黄龙",
+          "skillCount": 1,
+          "notice": "无"
+        }
+      ]
+    },
+    "洛水佳人": {
+      "saved_description": {
+        "id": 200015,
+        "probability": "--",
+        "quality": "S",
+        "type": "指挥",
+        "soldier": "弓",
+        "target": "我军群体（有效距离内3个目标）",
+        "distance": 3,
+        "effect": "休整",
+        "desc": "本场战斗中，使我军全体每回合都有80.0%的几率恢复一定兵力（恢复率90.0%，受谋略属性影响）",
+        "desc1": "本场战斗中，使我军全体每回合都有80.0%的几率恢复一定兵力（恢复率45.0%，受谋略属性影响）",
+        "src": "skill_extra",
+        "season_code": 0,
+        "season_tag": "BASE"
+      },
+      "copy_rows": [
+        {
+          "id": 200015,
+          "name": "洛水佳人",
+          "skillCount": 1,
+          "notice": "无"
+        }
+      ]
+    },
+    "金匮要略": {
+      "saved_description": {
+        "id": 200773,
+        "probability": "--",
+        "quality": "S",
+        "type": "指挥",
+        "soldier": "弓",
+        "target": "我军群体（有效距离内3个目标）",
+        "distance": 3,
+        "effect": "受到攻击伤害降低;受到策略攻击伤害降低;持续型急救",
+        "desc": "战斗开始后前3回合，使我军全体受到的所有伤害降低20.4%（受谋略属性影响），同时使我军全体受到伤害时，有50.0%的几率能恢复一定兵力（恢复率80.0%，受谋略属性影响）",
+        "desc1": "战斗开始后前3回合，使我军全体受到的所有伤害降低10.2%（受谋略属性影响），同时使我军全体受到伤害时，有50.0%的几率能恢复一定兵力（恢复率40.0%，受谋略属性影响）",
+        "src": "skill_extra",
+        "season_code": 0,
+        "season_tag": "BASE"
+      },
+      "copy_rows": [
+        {
+          "id": 200773,
+          "name": "金匮要略",
+          "skillCount": 1,
+          "notice": "无"
+        }
+      ]
+    },
+    "闭月": {
+      "saved_description": {
+        "id": 200005,
+        "probability": "40%",
+        "quality": "B",
+        "type": "主动",
+        "soldier": "弓",
+        "target": "敌军群体（有效距离内2个目标）",
+        "distance": 4,
+        "effect": "暴走;防御属性降低",
+        "desc": "1回合准备，使敌军群体陷入暴走状态，进行无差别攻击，并使其防御属性降低29.0（受谋略属性影响），持续3回合1回合准备，使敌军群体陷入暴走状态，进行无差别攻击，并使其防御属性降低29.0（受谋略属性影响），持续4回合",
+        "desc1": "1回合准备，使敌军群体陷入暴走状态，进行无差别攻击，并使其防御属性降低14.5（受谋略属性影响），持续3回合1回合准备，使敌军群体陷入暴走状态，进行无差别攻击，并使其防御属性降低14.5（受谋略属性影响），持续4回合",
+        "src": "skill_extra",
+        "season_code": 0,
+        "season_tag": "BASE"
+      },
+      "copy_rows": [
+        {
+          "id": 200005,
+          "name": "闭月",
+          "skillCount": 1,
+          "notice": "无"
+        }
+      ]
+    },
+    "列营守险": {
+      "saved_description": {
+        "id": 200072,
+        "probability": "40%",
+        "quality": "A",
+        "type": "主动",
+        "soldier": "弓步",
+        "target": "我军群体（有效距离内3个目标）",
+        "distance": 4,
+        "effect": "攻击属性提高;防御属性提高;速度属性提高;谋略属性提高;规避(预备)",
+        "desc": "使我军全体攻击、防御、速度、谋略属性提高29.2（受谋略属性影响），持续2回合，同时友军全体受到下3次伤害时有50.0%几率进入规避状态，免疫该次伤害。若自身士气高昂时，规避状态的目标变为我军全体使我军全体攻击、防御、速度、谋略属性提高29.2（受谋略属性影响），持续2回合，同时我军全体受到下3次伤害时有50.0%几率进入规避状态，免疫该次伤害",
+        "desc1": "使我军全体攻击、防御、速度、谋略属性提高14.6（受谋略属性影响），持续2回合，同时友军全体受到下3次伤害时有50.0%几率进入规避状态，免疫该次伤害。若自身士气高昂时，规避状态的目标变为我军全体使我军全体攻击、防御、速度、谋略属性提高14.6（受谋略属性影响），持续2回合，同时我军全体受到下3次伤害时有50.0%几率进入规避状态，免疫该次伤害",
+        "src": "skill_extra",
+        "season_code": 0,
+        "season_tag": "BASE"
+      },
+      "copy_rows": [
+        {
+          "id": 200072,
+          "name": "列营守险",
+          "skillCount": 1,
+          "notice": "无"
+        }
+      ]
+    },
+    "方阵掩杀": {
+      "saved_description": {
+        "id": 200706,
+        "probability": "40%",
+        "quality": "A",
+        "type": "追击",
+        "soldier": "弓",
+        "target": "攻击目标",
+        "distance": "--",
+        "effect": "攻击伤害;攻击伤害降低",
+        "desc": "普通攻击后，对攻击目标再次发动猛攻（伤害率235.0%），并使其进行下一次攻击的伤害大幅度降低",
+        "desc1": "普通攻击后，对攻击目标再次发动猛攻（伤害率117.5%），并使其进行下一次攻击的伤害大幅度降低",
+        "src": "skill_extra",
+        "season_code": 0,
+        "season_tag": "BASE"
+      },
+      "copy_rows": [
+        {
+          "id": 200706,
+          "name": "方阵掩杀",
+          "skillCount": 1,
+          "notice": "无"
+        }
+      ]
+    },
+    "尽言直谏": {
+      "saved_description": {
+        "id": 200966,
+        "probability": "--",
+        "quality": "S",
+        "type": "指挥",
+        "soldier": "骑",
+        "target": "友军群体",
+        "distance": 3,
+        "effect": "主动战法伤害提高;发动率提高",
+        "desc": "自身每回合行动时，随机令友方群体2个主动战法在下次行动阶段发动率提升10.0%且造成的伤害增加30.0%，若持续时间内任一战法发动，则下回合可选择3个主动战法",
+        "desc1": "自身每回合行动时，随机令友方群体2个主动战法在下次行动阶段发动率提升5.0%且造成的伤害增加15.0%，若持续时间内任一战法发动，则下回合可选择3个主动战法",
+        "src": "skill_extra",
+        "season_code": 0,
+        "season_tag": "BASE"
+      },
+      "copy_rows": [
+        {
+          "id": 200966,
+          "name": "尽言直谏",
+          "skillCount": 1,
+          "notice": "无"
+        }
+      ]
+    },
+    "不攻": {
+      "saved_description": {
+        "id": 200622,
+        "probability": "--",
+        "quality": "S",
+        "type": "指挥",
+        "soldier": "弓步骑",
+        "target": "自己",
+        "distance": 1,
+        "effect": "怯战(自身);策略攻击伤害提高;策略攻击伤害",
+        "desc": "在战斗中无法进行普通攻击，使自身发动策略攻击时造成的伤害提高25.0%，并在每回合都会对有效距离5以内的敌军单体发动一次策略攻击（伤害率83.0%，受谋略属性影响）",
+        "desc1": "在战斗中无法进行普通攻击，使自身发动策略攻击时造成的伤害提高12.5%，并在每回合都会对有效距离5以内的敌军单体发动一次策略攻击（伤害率41.5%，受谋略属性影响）",
+        "src": "skill_extra",
+        "season_code": 0,
+        "season_tag": "BASE",
+        "obtain_method": "拆解指定武将"
+      },
+      "copy_rows": [
+        {
+          "id": 200622,
+          "name": "不攻",
+          "skillCount": 1,
+          "notice": "战法研究成功后，可配置1个武将"
+        }
+      ]
+    },
+    "久战熟谋": {
+      "saved_description": {
+        "id": 200959,
+        "probability": "--",
+        "quality": "A",
+        "type": "指挥",
+        "soldier": "弓步骑",
+        "target": "友军群体（有效距离内2个目标）",
+        "distance": 3,
+        "effect": "策略攻击伤害提高",
+        "desc": "战斗中，使友军群体每造成一次策略伤害后，其策略伤害就提高5.0%（受谋略属性影响），此效果最多叠加5次",
+        "desc1": "战斗中，使友军群体每造成一次策略伤害后，其策略伤害就提高2.5%（受谋略属性影响），此效果最多叠加5次",
+        "src": "skill_extra",
+        "season_code": 40003,
+        "season_tag": "XP",
+        "obtain_method": "拆解指定武将",
+        "acquisition_stage": "征服赛季",
+        "acquisition_stage_source": "用户暂定规则：未核实的XP战法拆解武将默认按征服赛季卡处理（2026-09-14）",
+        "acquisition_stage_status": "provisional_default"
+      },
+      "copy_rows": [
+        {
+          "id": 200959,
+          "name": "久战熟谋",
+          "skillCount": 1,
+          "notice": "战法研究成功后，可配置1个武将"
+        }
+      ]
+    },
+    "始计": {
+      "saved_description": {
+        "id": 200687,
+        "probability": "--",
+        "quality": "S",
+        "type": "指挥",
+        "soldier": "弓步骑",
+        "target": "自己",
+        "distance": 5,
+        "effect": "洞察;攻击伤害降低;策略攻击伤害降低;攻击伤害提高;策略攻击伤害提高",
+        "desc": "战斗前4回合，在自身行动前，使我军大营下一次攻击或策略攻击时的伤害提高20.0%（受谋略属性影响），敌方兵力最多单体下一次攻击或策略攻击时的伤害降低30.0%（受谋略属性影响），并在自身受到攻击或策略攻击伤害后，于本回合内进入洞察状态，免疫混乱、犹豫、怯战、暴走和挑衅效果",
+        "desc1": "战斗前4回合，在自身行动前，使我军大营下一次攻击或策略攻击时的伤害提高10.0%（受谋略属性影响），敌方兵力最多单体下一次攻击或策略攻击时的伤害降低15.0%（受谋略属性影响），并在自身受到攻击或策略攻击伤害后，于本回合内进入洞察状态，免疫混乱、犹豫、怯战、暴走和挑衅效果",
+        "src": "skill_extra",
+        "season_code": 0,
+        "season_tag": "BASE",
+        "obtain_method": "拆解指定武将"
+      },
+      "copy_rows": [
+        {
+          "id": 200687,
+          "name": "始计",
+          "skillCount": 1,
+          "notice": "战法研究成功后，可配置1个武将"
+        }
+      ]
+    }
+  },
+  "heroes": [
+    {
+      "id": 100452,
+      "name": "木鹿大王",
+      "uniqueName": "木鹿大王-群-骑",
+      "methodId": 200772,
+      "methodName": "夔吼象踏",
+      "country": "群",
+      "type": "骑",
+      "distance": 3,
+      "exact_id_builtin_match": true,
+      "exact_id_star": 5
+    },
+    {
+      "id": 100615,
+      "name": "马岱",
+      "uniqueName": "马岱-蜀-骑",
+      "methodId": 200865,
+      "methodName": "奉令护蜀",
+      "country": "蜀",
+      "type": "骑",
+      "distance": 3,
+      "exact_id_builtin_match": true,
+      "exact_id_star": 5
+    },
+    {
+      "id": 100799,
+      "name": "马谡",
+      "uniqueName": "马谡-蜀-骑",
+      "methodId": 200275,
+      "methodName": "心战为上",
+      "country": "蜀",
+      "type": "骑",
+      "distance": 2,
+      "exact_id_builtin_match": true,
+      "exact_id_star": 5
+    },
+    {
+      "id": 100806,
+      "name": "姜维",
+      "uniqueName": "姜维-蜀-骑",
+      "methodId": 200290,
+      "methodName": "九伐中原",
+      "country": "蜀",
+      "type": "骑",
+      "distance": 2,
+      "exact_id_builtin_match": true,
+      "exact_id_star": 5
+    },
+    {
+      "id": 100808,
+      "name": "孙权",
+      "uniqueName": "孙权-吴-弓",
+      "methodId": 200283,
+      "methodName": "自擅江表",
+      "country": "吴",
+      "type": "弓",
+      "distance": 4,
+      "exact_id_builtin_match": true,
+      "exact_id_star": 5
+    },
+    {
+      "id": 102003,
+      "name": "太史慈",
+      "uniqueName": "太史慈-吴-弓",
+      "methodId": 200706,
+      "methodName": "方阵掩杀",
+      "country": "吴",
+      "type": "弓",
+      "distance": 5,
+      "exact_id_builtin_match": true,
+      "exact_id_star": 5
+    },
+    {
+      "id": 102012,
+      "name": "姜维",
+      "uniqueName": "姜维-蜀-弓",
+      "methodId": 200072,
+      "methodName": "列营守险",
+      "country": "蜀",
+      "type": "弓",
+      "distance": 3,
+      "exact_id_builtin_match": true,
+      "exact_id_star": 5
+    },
+    {
+      "id": 100030,
+      "name": "孙权",
+      "uniqueName": "孙权-吴-弓",
+      "methodId": 200030,
+      "methodName": "九锡黄龙",
+      "country": "吴",
+      "type": "弓",
+      "distance": 4,
+      "exact_id_builtin_match": true,
+      "exact_id_star": 5
+    },
+    {
+      "id": 100074,
+      "name": "姜维",
+      "uniqueName": "姜维-蜀-步",
+      "methodId": 200072,
+      "methodName": "列营守险",
+      "country": "蜀",
+      "type": "步",
+      "distance": 2,
+      "exact_id_builtin_match": true,
+      "exact_id_star": 5
+    },
+    {
+      "id": 100090,
+      "name": "太史慈",
+      "uniqueName": "太史慈-吴-弓",
+      "methodId": 200088,
+      "methodName": "方阵突击",
+      "country": "吴",
+      "type": "弓",
+      "distance": 5,
+      "exact_id_builtin_match": true,
+      "exact_id_star": 5
+    },
+    {
+      "id": 100139,
+      "name": "马岱",
+      "uniqueName": "马岱-蜀-骑",
+      "methodId": 200642,
+      "methodName": "借刀斩叛",
+      "country": "蜀",
+      "type": "骑",
+      "distance": 2,
+      "exact_id_builtin_match": true,
+      "exact_id_star": 4
+    }
+  ]
+}

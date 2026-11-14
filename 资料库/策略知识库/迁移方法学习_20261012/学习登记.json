@@ -1,0 +1,1420 @@
+{
+  "study_date": "2026-10-12",
+  "full_text_documents": 57,
+  "full_source_files": 10,
+  "data_structures_reviewed": 10,
+  "inherited_daily_memories": 13,
+  "project_long_term_memory_read": true,
+  "records": [
+    {
+      "path": ".workbuddy/memory/RULES/01_卡面识别.md",
+      "group": "规则与项目记忆",
+      "reading_status": "full_text_read",
+      "lines": 38,
+      "characters": 2080,
+      "sha256": "07757853d209ce9c497ead0016eb8259c2664d11e91886bcd4f82fce50b36c44",
+      "use": "继承原规则与偏好；按明确后续定案处理内部旧句冲突，不把旧进度当现状。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/memory/RULES/02_实体核验.md",
+      "group": "规则与项目记忆",
+      "reading_status": "full_text_read",
+      "lines": 77,
+      "characters": 3649,
+      "sha256": "b3e023d0fcf13508a569100f6229569b309b8821807a1b8570472bd499a467ed",
+      "use": "继承原规则与偏好；按明确后续定案处理内部旧句冲突，不把旧进度当现状。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/memory/RULES/03_表述规范.md",
+      "group": "规则与项目记忆",
+      "reading_status": "full_text_read",
+      "lines": 57,
+      "characters": 2734,
+      "sha256": "1f7f16abd4ccfb114318aff533c5c4fe9d96ab4088aa9a562b82ec0d50c5da96",
+      "use": "继承原规则与偏好；按明确后续定案处理内部旧句冲突，不把旧进度当现状。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/memory/RULES/04_数据源.md",
+      "group": "规则与项目记忆",
+      "reading_status": "full_text_read",
+      "lines": 64,
+      "characters": 4329,
+      "sha256": "a65b0c770285127729d6960761ecb6c528042a106ab9b5e29fa0bd571cce8c11",
+      "use": "继承原规则与偏好；按明确后续定案处理内部旧句冲突，不把旧进度当现状。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/memory/RULES/05_流程.md",
+      "group": "规则与项目记忆",
+      "reading_status": "full_text_read",
+      "lines": 111,
+      "characters": 5049,
+      "sha256": "9ae9db7817d9504192df06f16d251c9d60697b749b4da0a0ad5fc2b17500659f",
+      "use": "继承原规则与偏好；按明确后续定案处理内部旧句冲突，不把旧进度当现状。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/memory/MEMORY.md",
+      "group": "规则与项目记忆",
+      "reading_status": "full_text_read",
+      "lines": 71,
+      "characters": 3679,
+      "sha256": "e34b269f17f0691a37997e03b26a71ad4bdf328a1eadf459b8930efec310bdd8",
+      "use": "继承原规则与偏好；按明确后续定案处理内部旧句冲突，不把旧进度当现状。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-07.md",
+      "group": "开发日志",
+      "reading_status": "full_text_read",
+      "lines": 122,
+      "characters": 6910,
+      "sha256": "2d7e5e1c980fd0200656da97848bf787f856d716865fb0a4d41a6a69a4477375",
+      "use": "全文学习事件、最终决策与失败经验；数量、旧账号、当年挂起任务不自动续作。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-08.md",
+      "group": "开发日志",
+      "reading_status": "full_text_read",
+      "lines": 57,
+      "characters": 2409,
+      "sha256": "08a7b35031ad63965e6145f2cc68bf5ba43ed93f07f1ce579e7d94ebb26cfc26",
+      "use": "全文学习事件、最终决策与失败经验；数量、旧账号、当年挂起任务不自动续作。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-09.md",
+      "group": "开发日志",
+      "reading_status": "full_text_read",
+      "lines": 320,
+      "characters": 14402,
+      "sha256": "fe2776652e366c29d8a3c5821d1cc4ffea8a4baed492149bbd5b58996095090e",
+      "use": "全文学习事件、最终决策与失败经验；数量、旧账号、当年挂起任务不自动续作。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-10.md",
+      "group": "开发日志",
+      "reading_status": "full_text_read",
+      "lines": 41,
+      "characters": 2736,
+      "sha256": "7950a94ad7068f9b90860d51a9a28df44f5a5a0d9084126e25b2014b32f44f93",
+      "use": "全文学习事件、最终决策与失败经验；数量、旧账号、当年挂起任务不自动续作。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-18.md",
+      "group": "开发日志",
+      "reading_status": "full_text_read",
+      "lines": 226,
+      "characters": 14712,
+      "sha256": "68fe230f85d6c6c723732f52a9483f12bdd51c8ed35387d371c022a635374732",
+      "use": "全文学习事件、最终决策与失败经验；数量、旧账号、当年挂起任务不自动续作。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-19.md",
+      "group": "开发日志",
+      "reading_status": "full_text_read",
+      "lines": 236,
+      "characters": 15526,
+      "sha256": "0fe470e03cd5daf00db5cff7f3af327c4d85ac4c0f2fc1739deefe8d63598e88",
+      "use": "全文学习事件、最终决策与失败经验；数量、旧账号、当年挂起任务不自动续作。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-20.md",
+      "group": "开发日志",
+      "reading_status": "full_text_read",
+      "lines": 318,
+      "characters": 22523,
+      "sha256": "897fef72394f10160c908d9e1dea3d0f6d1ddd7f4e3203f74ede1ca03f455143",
+      "use": "全文学习事件、最终决策与失败经验；数量、旧账号、当年挂起任务不自动续作。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-21.md",
+      "group": "开发日志",
+      "reading_status": "full_text_read",
+      "lines": 278,
+      "characters": 18449,
+      "sha256": "47660ae8d92fbfb0d0b81802d25e0ffded2ab922385b20b8428ece1893e6b375",
+      "use": "全文学习事件、最终决策与失败经验；数量、旧账号、当年挂起任务不自动续作。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-22.md",
+      "group": "开发日志",
+      "reading_status": "full_text_read",
+      "lines": 304,
+      "characters": 26623,
+      "sha256": "f5423b71306849b5e32154a657d779b350b598f18639abd2b63f2890636ea9e6",
+      "use": "全文学习事件、最终决策与失败经验；数量、旧账号、当年挂起任务不自动续作。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-23.md",
+      "group": "开发日志",
+      "reading_status": "full_text_read",
+      "lines": 92,
+      "characters": 6264,
+      "sha256": "92b1eec3878af09e95deee019acf53239eb0cc49db1fd5bb67261585de90048b",
+      "use": "全文学习事件、最终决策与失败经验；数量、旧账号、当年挂起任务不自动续作。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-24.md",
+      "group": "开发日志",
+      "reading_status": "full_text_read",
+      "lines": 120,
+      "characters": 10632,
+      "sha256": "b028ac534eae4447dc622a72a337a836095990a1b41a33aea0b751b329118a4a",
+      "use": "全文学习事件、最终决策与失败经验；数量、旧账号、当年挂起任务不自动续作。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-25.md",
+      "group": "开发日志",
+      "reading_status": "full_text_read",
+      "lines": 24,
+      "characters": 1702,
+      "sha256": "6a1a34df17b985110823fddc5b17aa59448081da4e74d3f2a3a316d6b7cdcfa4",
+      "use": "全文学习事件、最终决策与失败经验；数量、旧账号、当年挂起任务不自动续作。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/memory/2026-09-01.md",
+      "group": "开发日志",
+      "reading_status": "full_text_read",
+      "lines": 13,
+      "characters": 1044,
+      "sha256": "ff604641cdb2a2a320290b34442887a75cba11be215c08668413ddafad097264",
+      "use": "全文学习事件、最终决策与失败经验；数量、旧账号、当年挂起任务不自动续作。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "HANDOFF_20261004.md",
+      "group": "交接与使用手册",
+      "reading_status": "full_text_read",
+      "lines": 96,
+      "characters": 5017,
+      "sha256": "8c796bc76e408a56d3654d0e40cb82283d29e7b6748853cf2481758ce1781cb3",
+      "use": "学习零上下文接手和资产路由；旧路径、旧命令及旧格式只作历史记录。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "HANDOFF_轻量版_20260828.md",
+      "group": "交接与使用手册",
+      "reading_status": "full_text_read",
+      "lines": 78,
+      "characters": 3202,
+      "sha256": "8f2edf42aaaf040736f4d4315092670e27278a935a427f0e7c5c2dfcc1a8b256",
+      "use": "学习零上下文接手和资产路由；旧路径、旧命令及旧格式只作历史记录。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "迁移交接_20260928.md",
+      "group": "交接与使用手册",
+      "reading_status": "full_text_read",
+      "lines": 8,
+      "characters": 263,
+      "sha256": "eede1ff473429df18e4c348564eda15a68c8286570baca08daa38d0d5a0e12c6",
+      "use": "学习零上下文接手和资产路由；旧路径、旧命令及旧格式只作历史记录。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "USAGE_MANUAL_20260825.md",
+      "group": "交接与使用手册",
+      "reading_status": "full_text_read",
+      "lines": 184,
+      "characters": 6103,
+      "sha256": "7205e275bc29a1548bb8a08cf7dd8b15cd0fd6247fba1bc9cd73e669d9c06600",
+      "use": "学习零上下文接手和资产路由；旧路径、旧命令及旧格式只作历史记录。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "USAGE_GUIDE.md",
+      "group": "交接与使用手册",
+      "reading_status": "full_text_read",
+      "lines": 234,
+      "characters": 7975,
+      "sha256": "1493a3baafef602d7d7e6904b565563dfaaa6708833b92966c69b7da3e131968",
+      "use": "学习零上下文接手和资产路由；旧路径、旧命令及旧格式只作历史记录。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "HANDOFF_PROMPT_20260825.md",
+      "group": "交接与使用手册",
+      "reading_status": "full_text_read",
+      "lines": 44,
+      "characters": 1716,
+      "sha256": "06f4b8631aa8b7d6094139a8edd6511e65f4ed5d443d79daf2a2c09bc9f2a3a0",
+      "use": "学习零上下文接手和资产路由；旧路径、旧命令及旧格式只作历史记录。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/核验基准使用说明.md",
+      "group": "资料查询与概念",
+      "reading_status": "full_text_read",
+      "lines": 47,
+      "characters": 1909,
+      "sha256": "3be0d2f55f31fcaf2cf180aac56c2c6c61d79c3c8a12200b96aa0184fb1f9047",
+      "use": "学习字段结构、分层查询与唯一性；词库、阈值表及索引中的矛盾另查证据。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/AA率土补充库说明.md",
+      "group": "资料查询与概念",
+      "reading_status": "full_text_read",
+      "lines": 28,
+      "characters": 1218,
+      "sha256": "763aa30fbfe3d51da3d60ebf1b51af79276966df3659ad791230efb6d787cc6c",
+      "use": "学习字段结构、分层查询与唯一性；词库、阈值表及索引中的矛盾另查证据。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/official_db_index.md",
+      "group": "资料查询与概念",
+      "reading_status": "full_text_read",
+      "lines": 39,
+      "characters": 2732,
+      "sha256": "f70687aac478cf04f0d8c6a301039428b54354e0d96a7d067b9a210ee0adbede",
+      "use": "学习字段结构、分层查询与唯一性；词库、阈值表及索引中的矛盾另查证据。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/threshold_db_INDEX.md",
+      "group": "资料查询与概念",
+      "reading_status": "full_text_read",
+      "lines": 135,
+      "characters": 5011,
+      "sha256": "d4bf9dbfae0b5f474f9fc68613135e1e17db449587d9f872c33cb1e0afc329e0",
+      "use": "学习字段结构、分层查询与唯一性；词库、阈值表及索引中的矛盾另查证据。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/名词概念.md",
+      "group": "资料查询与概念",
+      "reading_status": "full_text_read",
+      "lines": 980,
+      "characters": 54965,
+      "sha256": "602997a5f4e1f693169caa47333d050286474c6d1404d867d3b4a44c5888f39b",
+      "use": "学习字段结构、分层查询与唯一性；词库、阈值表及索引中的矛盾另查证据。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/官方机制库/基础机制判断规则_20260901.md",
+      "group": "机制与战报方法",
+      "reading_status": "full_text_read",
+      "lines": 92,
+      "characters": 3811,
+      "sha256": "c2b588e978ee6eddf6d0532239cf960a7355c794632f54477a27e21bef3adcfe",
+      "use": "采用结构检查、逐效果判冲突和首次异常复盘；历史系数与同源实测不能升格。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/官方机制库/战法冲突判定规则_20260901.md",
+      "group": "机制与战报方法",
+      "reading_status": "full_text_read",
+      "lines": 49,
+      "characters": 1457,
+      "sha256": "294513f69fe10050cf218eceb6a4bb1a82a98b2c8ec113f554059a93899fdd21",
+      "use": "采用结构检查、逐效果判冲突和首次异常复盘；历史系数与同源实测不能升格。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/官方机制库/战报阅读与配将反馈规则_20260921.md",
+      "group": "机制与战报方法",
+      "reading_status": "full_text_read",
+      "lines": 146,
+      "characters": 3259,
+      "sha256": "51b41542ce50345d4b6f53e0aeb9fb845199720144d704b2f3ff4b53eeb1f554",
+      "use": "采用结构检查、逐效果判冲突和首次异常复盘；历史系数与同源实测不能升格。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/官方机制库/玩家实测机制参考_伤害恢复与战法阅读_20260921.md",
+      "group": "机制与战报方法",
+      "reading_status": "full_text_read",
+      "lines": 183,
+      "characters": 7450,
+      "sha256": "2ee2009ed8cfc7c65b8604e44a1f4c14a1a8240cca349f19dc8bbe4428611ce9",
+      "use": "采用结构检查、逐效果判冲突和首次异常复盘；历史系数与同源实测不能升格。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/官方机制库/网易官网策略目录_机制学习与目录索引_20260901.md",
+      "group": "机制与战报方法",
+      "reading_status": "full_text_read",
+      "lines": 116,
+      "characters": 7972,
+      "sha256": "57d72ee43174a50b5fab7da4fe77343192a03b6c5ca52c6cd81965e3eeeb14b0",
+      "use": "采用结构检查、逐效果判冲突和首次异常复盘；历史系数与同源实测不能升格。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "工具/配将服务/README.md",
+      "group": "账号咨询入口",
+      "reading_status": "full_text_read",
+      "lines": 131,
+      "characters": 6041,
+      "sha256": "605ce1de338b73b8c65cef3886024681bda7011aa0fc7020e2aea652b806d408",
+      "use": "按本次账号取证、前三主力、全局验收、施政、战报反馈执行；程序与人工职责分开。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/账号信息获取教程.md",
+      "group": "账号咨询入口",
+      "reading_status": "full_text_read",
+      "lines": 120,
+      "characters": 2786,
+      "sha256": "fbfc67b32edc6c61faab05a7166149012f056134757de280d2b5ef9aca36239e",
+      "use": "按本次账号取证、前三主力、全局验收、施政、战报反馈执行；程序与人工职责分开。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/当前精编报告标杆.md",
+      "group": "报告制作与取证规范",
+      "reading_status": "full_text_read",
+      "lines": 52,
+      "characters": 1101,
+      "sha256": "2ba91664d5698ddaad430deb34f48b366f4014af588ea9c1c4be5cedf4864546",
+      "use": "新标杆和制作闭环优先；旧取证格式、已退役输入及旧环境不可照抄执行。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/REPORT_CONVENTIONS.md",
+      "group": "报告制作与取证规范",
+      "reading_status": "full_text_read",
+      "lines": 105,
+      "characters": 4079,
+      "sha256": "0d92d1ab7ea7912c524a128722b66d27904f8cc409053d8cfddbddfe3e52ceff",
+      "use": "新标杆和制作闭环优先；旧取证格式、已退役输入及旧环境不可照抄执行。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/frame_report_schema.md",
+      "group": "报告制作与取证规范",
+      "reading_status": "full_text_read",
+      "lines": 150,
+      "characters": 4339,
+      "sha256": "3aa9f6c8c858bc23202eb55b65435dcf717eb974fc754f6d6411733b5f95a4f4",
+      "use": "新标杆和制作闭环优先；旧取证格式、已退役输入及旧环境不可照抄执行。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/report_schema.md",
+      "group": "报告制作与取证规范",
+      "reading_status": "full_text_read",
+      "lines": 72,
+      "characters": 2090,
+      "sha256": "3ceeea220832afe12f72cb434c0d333a6240f641b28874d69ab962e5eac6f0da",
+      "use": "新标杆和制作闭环优先；旧取证格式、已退役输入及旧环境不可照抄执行。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/FRAME_AGENT_BRIEF.md",
+      "group": "报告制作与取证规范",
+      "reading_status": "full_text_read",
+      "lines": 159,
+      "characters": 8262,
+      "sha256": "2aadb95e729fb2c6c88e4bfe1734c808dd9fce50331b605572b63d3eed8f88d8",
+      "use": "新标杆和制作闭环优先；旧取证格式、已退役输入及旧环境不可照抄执行。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/FRAME_AGENT_BRIEF_ZHENRONG.md",
+      "group": "报告制作与取证规范",
+      "reading_status": "full_text_read",
+      "lines": 159,
+      "characters": 8752,
+      "sha256": "2b54193fd5673b2a94d06228a583d85acef049c0748a10178be78f8dc2fdbb6e",
+      "use": "新标杆和制作闭环优先；旧取证格式、已退役输入及旧环境不可照抄执行。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/FRAME_AGENT_BRIEF_赛季.md",
+      "group": "报告制作与取证规范",
+      "reading_status": "full_text_read",
+      "lines": 84,
+      "characters": 2851,
+      "sha256": "bdb772045982108fdbfd40fde4404a4e5de12079954e5fe631fba7fa2bdeaf69",
+      "use": "新标杆和制作闭环优先；旧取证格式、已退役输入及旧环境不可照抄执行。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/赛季报告独立学习材料审查.md",
+      "group": "报告制作与取证规范",
+      "reading_status": "full_text_read",
+      "lines": 143,
+      "characters": 5577,
+      "sha256": "50edfd4e58ff682faa84373b1f378da247966d258c094983605989da118e81bc",
+      "use": "新标杆和制作闭环优先；旧取证格式、已退役输入及旧环境不可照抄执行。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/视觉复盘_PoC_攻其篇粉丝投稿.md",
+      "group": "报告制作与取证规范",
+      "reading_status": "full_text_read",
+      "lines": 64,
+      "characters": 2074,
+      "sha256": "da1b0e774ad514642cf04b8e9681bec3903dc7909b1e87c82376f6d7010ab7cb",
+      "use": "新标杆和制作闭环优先；旧取证格式、已退役输入及旧环境不可照抄执行。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": ".workbuddy/skills/rate-earth-report/SKILL.md",
+      "group": "报告制作与取证规范",
+      "reading_status": "full_text_read",
+      "lines": 55,
+      "characters": 2187,
+      "sha256": "96f100693e510bf2595d6abc434c85817baafba9b1f1a87380e5489749487195",
+      "use": "新标杆和制作闭环优先；旧取证格式、已退役输入及旧环境不可照抄执行。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/SOURCE_PROVENANCE_CHECK_20260826.md",
+      "group": "验收与退役记录",
+      "reading_status": "full_text_read",
+      "lines": 17,
+      "characters": 903,
+      "sha256": "a4e0424dac5580d252fa59a0330edb357d9a2371995c2368bb7feeb094d977e6",
+      "use": "学习范围、证据和完成状态核验；区分预演、实际执行与源退役模式测试。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/ZHENRONG_CORE_INTEGRITY_20260825.md",
+      "group": "验收与退役记录",
+      "reading_status": "full_text_read",
+      "lines": 35,
+      "characters": 1336,
+      "sha256": "6a7bd972158e316a7ad6e3b8f988333939a686d6340515327a218043ffee90d4",
+      "use": "学习范围、证据和完成状态核验；区分预演、实际执行与源退役模式测试。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/REVIEW_PLAN.md",
+      "group": "验收与退役记录",
+      "reading_status": "full_text_read",
+      "lines": 96,
+      "characters": 2343,
+      "sha256": "28f3796b0bf03ed798038cdc2ccdfec8a9d3e811f75759851384d7c008c40aa9",
+      "use": "学习范围、证据和完成状态核验；区分预演、实际执行与源退役模式测试。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/audit_work/20260913_source_retirement_manifest/SOURCE_RETIREMENT_MANIFEST.md",
+      "group": "验收与退役记录",
+      "reading_status": "full_text_read",
+      "lines": 86,
+      "characters": 2522,
+      "sha256": "ade42d4db4737f5efdad9cf698c6e648b4dcadac8ea9c25a607be4a51cf9b929",
+      "use": "学习范围、证据和完成状态核验；区分预演、实际执行与源退役模式测试。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/audit_work/20260913_source_retirement_manifest/DELETE_EXECUTION_RESULT.md",
+      "group": "验收与退役记录",
+      "reading_status": "full_text_read",
+      "lines": 13,
+      "characters": 363,
+      "sha256": "8093804c16eef33e4b227664333d9e822a0097488c2c07fd0d3a447c76a008ca",
+      "use": "学习范围、证据和完成状态核验；区分预演、实际执行与源退役模式测试。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/audit_work/20260913_source_retirement_manifest/清理执行验收.md",
+      "group": "验收与退役记录",
+      "reading_status": "full_text_read",
+      "lines": 19,
+      "characters": 452,
+      "sha256": "625cbbcad0bc03cb92e2562c24d266784a88cd7deeb03705383414a544eec05a",
+      "use": "学习范围、证据和完成状态核验；区分预演、实际执行与源退役模式测试。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/audit_work/20260913_source_retirement_manifest/二次精简执行验收.md",
+      "group": "验收与退役记录",
+      "reading_status": "full_text_read",
+      "lines": 26,
+      "characters": 716,
+      "sha256": "e9c03389795e7fbba23be440e0ea8d1f291064e86b84432159d2b065e2f252b3",
+      "use": "学习范围、证据和完成状态核验；区分预演、实际执行与源退役模式测试。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "接手审计_20261004/资料证据审计.md",
+      "group": "验收与退役记录",
+      "reading_status": "full_text_read",
+      "lines": 92,
+      "characters": 6860,
+      "sha256": "fde96d568a2fc49ea58703219309da04a692177821b82e227bb75c9d3d65d638",
+      "use": "学习范围、证据和完成状态核验；区分预演、实际执行与源退役模式测试。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "接手审计_20261004/工具服务审计.md",
+      "group": "验收与退役记录",
+      "reading_status": "full_text_read",
+      "lines": 108,
+      "characters": 5006,
+      "sha256": "9f140c3fb3e7b8e14f570e493716697585ed266f003fef1bb6ed264d98b277bf",
+      "use": "学习范围、证据和完成状态核验；区分预演、实际执行与源退役模式测试。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    },
+    {
+      "path": "资料库/README.md",
+      "group": "验收与退役记录",
+      "reading_status": "full_text_read",
+      "lines": 32,
+      "characters": 842,
+      "sha256": "ae7d117e5ce38be1677e1ff32fb05b92948690359f3335f03945cc656ca0b843",
+      "use": "学习范围、证据和完成状态核验；区分预演、实际执行与源退役模式测试。",
+      "scope": "学习保存文本；未重新认证线上参数或历史原图"
+    }
+  ],
+  "code_records": [
+    {
+      "path": "工具/配将服务/parse_account.py",
+      "reading_status": "full_source_read",
+      "lines": 349,
+      "sha256": "874a2008ae965f89fec9f1cc62926bdead596c963ed5b1b193095002d9e7c7f2"
+    },
+    {
+      "path": "工具/配将服务/validate_lineup.py",
+      "reading_status": "full_source_read",
+      "lines": 362,
+      "sha256": "63763a1438e79261d6b206e0330e5692e32986da0dba2621e8cc955aae201476"
+    },
+    {
+      "path": "工具/配将服务/audit_consultation.py",
+      "reading_status": "full_source_read",
+      "lines": 274,
+      "sha256": "fe5241001a52e86b16a8da1f71df700a5212799a73b099d168083fd4b5827bfe"
+    },
+    {
+      "path": "工具/配将服务/analyze_battle_reports.py",
+      "reading_status": "full_source_read",
+      "lines": 226,
+      "sha256": "2bfa0618ca9bcf6766b91067b396ac46c9c9d1b7cb99c02d82025e4c7eb2593b"
+    },
+    {
+      "path": "工具/配将服务/season_gate.py",
+      "reading_status": "full_source_read",
+      "lines": 143,
+      "sha256": "101f88925a3a41d26c1c121a03418ba8b3cfd10bff382c11f99e768480bd78ae"
+    },
+    {
+      "path": "工具/配将服务/test_service.py",
+      "reading_status": "full_source_read",
+      "lines": 501,
+      "sha256": "b332b66107b86807b2d6314fc5d4e43cbdd6b2a87903236e21bbf6c4e8b21c9d"
+    },
+    {
+      "path": "资料库/hero_version_resolver.py",
+      "reading_status": "full_source_read",
+      "lines": 234,
+      "sha256": "7f9ae90268ea78c4da85fb0f4696c5567c19c004e43b60d903a67931caa36d40"
+    },
+    {
+      "path": "资料库/legacy_version_evidence.py",
+      "reading_status": "full_source_read",
+      "lines": 162,
+      "sha256": "db0a3e03b49664e6017a9747c7244cd1a4f0501ae07a152a01dc532703658001"
+    },
+    {
+      "path": "资料库/source_provenance_check.py",
+      "reading_status": "full_source_read",
+      "lines": 159,
+      "sha256": "ca733c3bb9a430e71a1a5c16bfa834a6832f4a366a3dd29ea63733fa871ba27e"
+    },
+    {
+      "path": "资料库/zhenrong_core_integrity.py",
+      "reading_status": "full_source_read",
+      "lines": 78,
+      "sha256": "803d444786f7d3d5dff2c41f6dc7d995d26cc90b7a85654a4cd8d247140987e1"
+    }
+  ],
+  "data_records": [
+    {
+      "path": "资料库/hero.json",
+      "reading_status": "schema_and_selected_records_reviewed",
+      "sha256": "d0c7362bd345da8f1a196ba4e4509002a5634ddeb5578113540aee947a4070c6",
+      "shape": {
+        "type": "list",
+        "count": 946
+      },
+      "scope": "核对用途、结构、ID关联和选定记录；未逐条宣称数据当前有效"
+    },
+    {
+      "path": "资料库/hero_extra.json",
+      "reading_status": "schema_and_selected_records_reviewed",
+      "sha256": "b69459592463198e03beaf18ccd13e5d90d176fa5ee88e9ecb95080097818fe2",
+      "shape": {
+        "type": "list",
+        "count": 393
+      },
+      "scope": "核对用途、结构、ID关联和选定记录；未逐条宣称数据当前有效"
+    },
+    {
+      "path": "资料库/skill_extra.json",
+      "reading_status": "schema_and_selected_records_reviewed",
+      "sha256": "99686796488ddc3e423e6789df9ae10463f3eda68790a21453d481e1523cda6e",
+      "shape": {
+        "type": "list",
+        "count": 642
+      },
+      "scope": "核对用途、结构、ID关联和选定记录；未逐条宣称数据当前有效"
+    },
+    {
+      "path": "资料库/official_skill_db.json",
+      "reading_status": "schema_and_selected_records_reviewed",
+      "sha256": "eb9a4e21e4c7e0fb612c801d82907cc04d81d0272371e2cb6a99ffa7a98a322b",
+      "shape": {
+        "type": "dict",
+        "count": 4,
+        "sections": {
+          "skills": {
+            "type": "dict",
+            "count": 801
+          },
+          "policy": {
+            "type": "dict",
+            "count": 307
+          },
+          "gear": {
+            "type": "dict",
+            "count": 114
+          },
+          "counts": {
+            "type": "dict",
+            "count": 5
+          }
+        }
+      },
+      "scope": "核对用途、结构、ID关联和选定记录；未逐条宣称数据当前有效"
+    },
+    {
+      "path": "资料库/official_merged_whitelist.json",
+      "reading_status": "schema_and_selected_records_reviewed",
+      "sha256": "52ea8d640b3e49f7be1c9f4b75647e6638bfef5dc56ca7e958c7dafc34a49c47",
+      "shape": {
+        "type": "dict",
+        "count": 6,
+        "sections": {
+          "meta": {
+            "type": "dict",
+            "count": 5
+          },
+          "skills": {
+            "type": "list",
+            "count": 1135
+          },
+          "heroes": {
+            "type": "list",
+            "count": 428
+          },
+          "gears": {
+            "type": "list",
+            "count": 115
+          },
+          "forge_traits": {
+            "type": "list",
+            "count": 42
+          },
+          "unit_traits": {
+            "type": "list",
+            "count": 24
+          }
+        }
+      },
+      "scope": "核对用途、结构、ID关联和选定记录；未逐条宣称数据当前有效"
+    },
+    {
+      "path": "资料库/aa_rate_supplement.json",
+      "reading_status": "schema_and_selected_records_reviewed",
+      "sha256": "d5c8b84794c2902266617effb47189695e0f35e72dbe5eead7c939511b9c5036",
+      "shape": {
+        "type": "dict",
+        "count": 5,
+        "sections": {
+          "meta": {
+            "type": "dict",
+            "count": 7
+          },
+          "heroes": {
+            "type": "dict",
+            "count": 941
+          },
+          "skills": {
+            "type": "dict",
+            "count": 1666
+          },
+          "states": {
+            "type": "dict",
+            "count": 206
+          },
+          "coverage": {
+            "type": "dict",
+            "count": 11
+          }
+        }
+      },
+      "scope": "核对用途、结构、ID关联和选定记录；未逐条宣称数据当前有效"
+    },
+    {
+      "path": "资料库/gear_forge_pool.json",
+      "reading_status": "schema_and_selected_records_reviewed",
+      "sha256": "9a4fe630c00dd689f9457ad8e6a5dc31808b7e61ea5de4d8203988a0c81ddcc1",
+      "shape": {
+        "type": "dict",
+        "count": 4,
+        "sections": {
+          "source": {
+            "type": "str",
+            "count": null
+          },
+          "note": {
+            "type": "str",
+            "count": null
+          },
+          "pool": {
+            "type": "dict",
+            "count": 114
+          },
+          "count": {
+            "type": "int",
+            "count": null
+          }
+        }
+      },
+      "scope": "核对用途、结构、ID关联和选定记录；未逐条宣称数据当前有效"
+    },
+    {
+      "path": "资料库/ocr_misread_map.json",
+      "reading_status": "schema_and_selected_records_reviewed",
+      "sha256": "510dfa2f1cac0263b3a8e0720283d00103aad1c3b321f86a4e007037fc81db3b",
+      "shape": {
+        "type": "dict",
+        "count": 3,
+        "sections": {
+          "meta": {
+            "type": "dict",
+            "count": 4
+          },
+          "context_aliases": {
+            "type": "list",
+            "count": 1
+          },
+          "misreads": {
+            "type": "dict",
+            "count": 56
+          }
+        }
+      },
+      "scope": "核对用途、结构、ID关联和选定记录；未逐条宣称数据当前有效"
+    },
+    {
+      "path": "资料库/threshold_db.json",
+      "reading_status": "schema_and_selected_records_reviewed",
+      "sha256": "f8b7c73c35f50f52cf11db2d1df9192cb648ec4c4816bd5a989a0e349c2141ce",
+      "shape": {
+        "type": "dict",
+        "count": 4,
+        "sections": {
+          "_meta": {
+            "type": "dict",
+            "count": 9
+          },
+          "categories": {
+            "type": "list",
+            "count": 5
+          },
+          "cross_source_conflicts": {
+            "type": "list",
+            "count": 6
+          },
+          "uncertainties": {
+            "type": "list",
+            "count": 5
+          }
+        }
+      },
+      "scope": "核对用途、结构、ID关联和选定记录；未逐条宣称数据当前有效"
+    },
+    {
+      "path": "资料库/reports_index_rows.json",
+      "reading_status": "schema_and_selected_records_reviewed",
+      "sha256": "c0194c640dab04f9eeed9183c2aa2aca5abf222e4c41ae75122562b69c525717",
+      "shape": {
+        "type": "list",
+        "count": 67
+      },
+      "scope": "核对用途、结构、ID关联和选定记录；未逐条宣称数据当前有效"
+    }
+  ],
+  "other_markdown_inventory": [
+    {
+      "path": ".workbuddy/memory/2026-08-07.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-08.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-09.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-10.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-18.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-19.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-20.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-21.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-22.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-23.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-24.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/memory/2026-08-25.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/memory/2026-09-01.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/memory/MEMORY.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/memory/RULES/01_卡面识别.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/memory/RULES/02_实体核验.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/memory/RULES/03_表述规范.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/memory/RULES/04_数据源.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/memory/RULES/05_流程.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": ".workbuddy/skills/rate-earth-report/SKILL.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "HANDOFF.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "HANDOFF_20260820.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "HANDOFF_20260822.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "HANDOFF_20260825.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "HANDOFF_20261004.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "HANDOFF_DIALOG_20260822.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "HANDOFF_PROMPT_20260822.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "HANDOFF_PROMPT_20260825.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "HANDOFF_轻量版_20260828.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "README.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "USAGE_GUIDE.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "USAGE_MANUAL_20260825.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "工具/配将服务/README.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "待办清单_2026-08-26.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "接手审计_20261004/历史账号审计.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "接手审计_20261004/工具服务审计.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "接手审计_20261004/索引路径迁移验收.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "接手审计_20261004/资料证据审计.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "接手审计_20261004/配将服务_修复前证据.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "接手提示词.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/5X5_RANDOM_AUDIT_20260825.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/5X5_RANDOM_AUDIT_EXTERNAL_20260825.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/5X5_RANDOM_AUDIT_MANIFEST_20260825.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/5X5_RANDOM_AUDIT_REPAIR_LOG_20260825.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/5X5_RANDOM_AUDIT_TODO_20260825.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/AA率土补充库说明.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/AGENT_BRIEF.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/ASSESS_vs_benchmark.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/audit_work/20260913_p0_reliability_scan/CROSS_REPORT_ACCEPTANCE.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/audit_work/20260913_p0_reliability_scan/FINAL_SPOTCHECK_RESULT.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/audit_work/20260913_p0_reliability_scan/P0_ADJUDICATION.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/audit_work/20260913_source_retirement_manifest/DELETE_DRY_RUN_RESULT.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/audit_work/20260913_source_retirement_manifest/DELETE_EXECUTION_RESULT.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/audit_work/20260913_source_retirement_manifest/FINAL_CLEANUP_DRY_RUN.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/audit_work/20260913_source_retirement_manifest/INACTIVE_REPORT_AND_HOLD_AUDIT.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/audit_work/20260913_source_retirement_manifest/SOURCE_RETIREMENT_MANIFEST.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/audit_work/20260913_source_retirement_manifest/二次精简执行验收.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/audit_work/20260913_source_retirement_manifest/清理后冗余复查.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/audit_work/20260913_source_retirement_manifest/清理执行验收.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/CONFLICTS_REPORT.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/DB_VERIFY_REPORT.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/evidence_chain.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/FINAL_AUDIT.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/FRAME_AGENT_BRIEF.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/FRAME_AGENT_BRIEF_ZHENRONG.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/FRAME_AGENT_BRIEF_赛季.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/frame_report_schema.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/FULL_RISK_SCAN_20260825.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/GAP_ANALYSIS.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/official_db_index.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/PHASE0_DEFECT_REPORT.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/PHASE0_DEFECT_REPORT_v2.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/PHASE0_DEFECT_REPORT_v3.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/PHASE_A_VERIFY_REPORT.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/README.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/REPORT_CONVENTIONS.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/report_schema.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/reports_index.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/REVIEW_PLAN.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/REVIEW_QUESTIONS_ARRANGED.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/REVIEW_QUESTIONS_RESOLVED.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/REVIEW_SAIJI_QUESTIONS.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/SOURCE_PROVENANCE_CHECK_20260826.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/threshold_db_INDEX.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/VERIFY_REORG.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/VERIFY_REPORT.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/VERIFY_REPORT_2026-08-18.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/VERIFY_VISION.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/video_index.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/ZHENRONG_CORE_INTEGRITY_20260825.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/名词概念.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/存疑清单_母本核验_20260824.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/官方机制库/基础机制判断规则_20260901.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/官方机制库/战报阅读与配将反馈规则_20260921.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/官方机制库/战法冲突判定规则_20260901.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/官方机制库/玩家实测机制参考_伤害恢复与战法阅读_20260921.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/官方机制库/网易官网策略目录_机制学习与目录索引_20260901.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/当前精编报告标杆.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/核验基准使用说明.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/自检_精编冗余_20260824.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/视觉复盘_PoC_攻其篇粉丝投稿.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/视觉复盘_祝融人工核验单.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/账号信息获取教程.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "资料库/质量抽检_22视频阵容帧可读性_人工审核清单.md",
+      "status": "inventory_only",
+      "scope": "仅定位；按问题进一步阅读，不计入全文完成数"
+    },
+    {
+      "path": "资料库/赛季报告独立学习材料审查.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    },
+    {
+      "path": "迁移交接_20260928.md",
+      "status": "full_text_read",
+      "scope": "核心全文学习"
+    }
+  ],
+  "environment": {
+    "packages": {
+      "docx": true,
+      "PIL": true,
+      "numpy": true,
+      "cv2": false,
+      "fitz": false,
+      "faster_whisper": false,
+      "requests": false
+    },
+    "path_commands": {
+      "ffmpeg": null,
+      "ffprobe": null,
+      "soffice": null
+    },
+    "missing_source_directories": {
+      "抖音": true,
+      "抖音_frames_dense_1s": true,
+      "抖音_transcripts": true,
+      "资料库/frame_json": true,
+      "资料库/zhenrong_frame_json": true,
+      "资料库/zhenrong_recon": true,
+      "AA率土": true
+    },
+    "scope": "当前解释器与PATH；不代表整机无其他安装；未发起视觉/API调用"
+  },
+  "separate_completed_report_study": "资料库/策略知识库/精编全量学习_20261011/逐篇学习索引.md",
+  "scope": "迁移知识与成熟方法学习；不自动恢复历史任务或升级游戏事实/账号证据。"
+}

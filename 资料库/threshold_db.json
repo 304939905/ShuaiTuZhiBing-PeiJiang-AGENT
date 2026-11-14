@@ -1,0 +1,694 @@
+{
+ "_meta": {
+  "source": "抖音/机制/阈值表参考/天阶功法·新版阈值表（6张图片）",
+  "collected_at": "2026-08-20",
+  "formula": "最终数值 = 基础数值 + 增长率 × (对应属性 - 80)，按「取舍方式」四舍五入",
+  "formula_note": "对应属性：属性位置长按后的属性；基础数值：战法面板上写的数值；属性低于80时无额外增益（但不低于基础值）",
+  "total_entries": 63,
+  "formula_source": "阈值表 image_5《数值类的计算方法》备忘录原文：最终数值（四舍五入）=（对应属性-80）×增长率 + 基础数值",
+  "categories_note": "共5类数值战法阈值；image_5为公式说明备忘录，非数据表",
+  "name_corrections": "4处阈值表用字偏差已按 official_skill_db.json 校正：伏波扬沙→伏波扬砂、僭越天子→僭号天子、威镇河朔→威震河朔、缓师涂持→缓师徐持（原拼写保留在 table_spelling）",
+  "image_5_content": "数值类的计算方法：最终数值（四舍五入）=（对应属性-80）×增长率 + 基础数值。基础数值=战法面板数值（例：神赏基础30%）。对应属性=属性位置长按后的属性（含宝物/阵营/兵种特性加成）。"
+ },
+ "categories": [
+  {
+   "id": "damage_buff",
+   "name": "增伤类战法",
+   "image": "image_天阶功法。新版阈值表#率土之滨 ..._0.png",
+   "entries": [
+    {
+     "skill": "始计",
+     "effect": "我方增伤",
+     "main_attr": "谋略",
+     "base": "20.0%",
+     "growth": "0.150%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "统军畏慎",
+     "effect": "我方增伤",
+     "main_attr": "谋略",
+     "base": "25.0%",
+     "growth": "0.125%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "虎豹督军",
+     "effect": "我方增伤",
+     "main_attr": "攻击",
+     "base": "50.0%",
+     "growth": "0.250%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "大赏三军",
+     "effect": "我方增伤",
+     "main_attr": "谋略",
+     "base": "30.0%",
+     "growth": "0.150%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "久战熟谋",
+     "effect": "我方增伤",
+     "main_attr": "谋略",
+     "base": "8.0%",
+     "growth": "0.025%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "徽言龙凤",
+     "effect": "我方增伤",
+     "main_attr": "谋略",
+     "base": "7.0%",
+     "growth": "无数据",
+     "rounding": "四舍五入取整",
+     "growth_note": "官方描述仅说「受谋略属性影响」未给具体数值；2026-08-20 用户授权，按指示标'无数据'"
+    },
+    {
+     "skill": "攻其不备",
+     "effect": "敌方易伤",
+     "main_attr": "速度",
+     "base": "11.6%",
+     "growth": "0.020%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "审时定计",
+     "effect": "敌方易伤",
+     "main_attr": "谋略",
+     "base": "30.0%",
+     "growth": "0.150%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "当敌制决",
+     "effect": "敌方易伤",
+     "main_attr": "防御",
+     "base": "8.0%",
+     "growth": "0.025%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "神兵天降",
+     "effect": "敌方易伤",
+     "main_attr": "谋略",
+     "base": "30.0%",
+     "growth": "0.150%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "全军突击",
+     "effect": "我方增伤",
+     "main_attr": "谋略",
+     "base": "28.0%",
+     "growth": "0.100%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "鼎足江东",
+     "effect": "我方增伤",
+     "main_attr": "谋略",
+     "base": "17.0%",
+     "growth": "0.125%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "同仇敌忾",
+     "effect": "我方增伤",
+     "main_attr": "谋略",
+     "base": "2.0%",
+     "growth": "0.015%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "恃强淬锋",
+     "effect": "我方增伤",
+     "main_attr": "攻击",
+     "base": "3.4%",
+     "growth": "0.005%",
+     "rounding": "四舍五入取整"
+    }
+   ]
+  },
+  {
+   "id": "damage_reduce",
+   "name": "减伤类战法",
+   "image": "image_天阶功法。新版阈值表#率土之滨 ..._1.png",
+   "entries": [
+    {
+     "skill": "避其锋芒",
+     "effect": "我方减伤",
+     "main_attr": "谋略",
+     "base": "30.0%",
+     "growth": "0.150%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "酒池肉林",
+     "effect": "我方减伤",
+     "main_attr": "防御",
+     "base": "32.0%",
+     "growth": "0.250%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "金匮要略",
+     "effect": "我方减伤",
+     "main_attr": "谋略",
+     "base": "20.4%",
+     "growth": "0.130%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "谋议宏图",
+     "effect": "我方减伤",
+     "main_attr": "谋略",
+     "base": "30.0%",
+     "growth": "0.175%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "一夫当关",
+     "effect": "我方减伤",
+     "main_attr": "防御",
+     "base": "50.0%",
+     "growth": "0.375%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "无心恋战",
+     "effect": "敌方减伤",
+     "main_attr": "谋略",
+     "base": "30.0%",
+     "growth": "0.150%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "始计",
+     "effect": "敌方减伤",
+     "main_attr": "谋略",
+     "base": "30.0%",
+     "growth": "0.250%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "白楼独舞",
+     "effect": "敌方减伤",
+     "main_attr": "谋略",
+     "base": "26.0%",
+     "growth": "0.200%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "单骑救主",
+     "effect": "敌方减伤",
+     "main_attr": "防御",
+     "base": "25.0%",
+     "growth": "0.125%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "密谋定蜀",
+     "effect": "敌方减伤",
+     "main_attr": "谋略",
+     "base": "28.0%",
+     "growth": "0.250%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "强势",
+     "effect": "敌方减伤",
+     "main_attr": "谋略",
+     "base": "48.0%",
+     "growth": "0.225%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "万箭齐发",
+     "effect": "敌方减伤",
+     "main_attr": "攻击",
+     "base": "50.0%",
+     "growth": "0.175%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "同仇敌忾",
+     "effect": "我方减伤",
+     "main_attr": "谋略",
+     "base": "2.0%",
+     "growth": "0.015%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "奉令护蜀",
+     "effect": "我方减伤",
+     "main_attr": "防御",
+     "base": "20.0%",
+     "growth": "0.125%",
+     "rounding": "四舍五入取整",
+     "main_attr_note": "官方描述为'受到的所有伤害降低20.0%（受防御属性影响）'，2026-08-20 与 hero_extra 200865 交叉验证修正。原'攻击'为阈值表录入错误"
+    },
+    {
+     "skill": "逆谋",
+     "effect": "我方减伤",
+     "main_attr": "攻击",
+     "base": "30.0%",
+     "growth": "0.125%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "蛮王御众",
+     "effect": "我方减伤",
+     "main_attr": "防御",
+     "base": "30.0%",
+     "growth": "0.100%",
+     "rounding": "四舍五入取整"
+    }
+   ]
+  },
+  {
+   "id": "heal",
+   "name": "恢复类战法",
+   "image": "image_天阶功法。新版阈值表#率土之滨 ..._2.png",
+   "entries": [
+    {
+     "skill": "金匮要略",
+     "effect": "全体回血",
+     "main_attr": "谋略",
+     "base": "80%",
+     "growth": "0.750%",
+     "rounding": "四舍五入取整",
+     "heal_category": "1"
+    },
+    {
+     "skill": "皇裔流离",
+     "effect": "全体回血",
+     "main_attr": "谋略",
+     "base": "68%",
+     "growth": "0.600%",
+     "rounding": "四舍五入取整",
+     "heal_category": "1"
+    },
+    {
+     "skill": "潜谋远计",
+     "effect": "单体回血",
+     "main_attr": "谋略",
+     "base": "100%",
+     "growth": "0.800%",
+     "rounding": "四舍五入取整",
+     "heal_category": "2"
+    },
+    {
+     "skill": "遗志",
+     "effect": "单体回血",
+     "main_attr": null,
+     "base": "9999%",
+     "growth": null,
+     "rounding": "四舍五入取整",
+     "heal_category": "1",
+     "data_status": "full_heal_encoded",
+     "data_status_note": "image_2 基础 9999% 为『回复至满血』的编码方式（回满血无法用有限百分比表示，故以 9999% 占位），无增长率因不受属性影响（固定回合触发，非属性阈值公式）。2026-08-20 用户人工确认。",
+     "official_mechanism": {
+      "trigger": "战斗开始后第 3 回合（固定回合触发）",
+      "effect_A": "使我军前锋（步兵或弓兵）恢复至满血（官方『恢复极大量兵力』，用户确认=回复至满血）",
+      "effect_B": "此后受到普通攻击可反击（伤害率 85%）",
+      "limit": "同时无法恢复兵力，持续直到战斗结束",
+      "source": "hero_extra.json 孙坚 id=100033 methodId=200033 + jineng_list.json 200033"
+     },
+     "formula_excluded": true
+    },
+    {
+     "skill": "洛水佳人",
+     "effect": "全体回血",
+     "main_attr": "谋略",
+     "base": "90%",
+     "growth": "0.750%",
+     "rounding": "四舍五入取整",
+     "heal_category": "1"
+    },
+    {
+     "skill": "桃园结义",
+     "effect": "单体回血",
+     "main_attr": "谋略",
+     "base": "160%",
+     "growth": "0.925%",
+     "rounding": "四舍五入取整",
+     "heal_category": "2"
+    },
+    {
+     "skill": "审时定计",
+     "effect": "单体回血",
+     "main_attr": "谋略",
+     "base": "65%",
+     "growth": "0.450%",
+     "rounding": "四舍五入取整",
+     "heal_category": "2"
+    },
+    {
+     "skill": "举贤决机",
+     "effect": "单体回血",
+     "main_attr": "谋略",
+     "base": "60%",
+     "growth": "0.600%",
+     "rounding": "四舍五入取整",
+     "heal_category": "2"
+    },
+    {
+     "skill": "巧音唤蝶一",
+     "effect": "群体回血",
+     "main_attr": "谋略",
+     "base": "161%",
+     "growth": "1.325%",
+     "rounding": "四舍五入取整",
+     "heal_category": "2"
+    },
+    {
+     "skill": "巧音唤蝶二",
+     "effect": "群体回血",
+     "main_attr": "谋略",
+     "base": "82%",
+     "growth": "0.650%",
+     "rounding": "四舍五入取整",
+     "heal_category": "2"
+    },
+    {
+     "skill": "三军之众",
+     "effect": "单体回血",
+     "main_attr": "谋略",
+     "base": "151%",
+     "growth": "1.575%",
+     "rounding": "四舍五入取整",
+     "heal_category": "2"
+    },
+    {
+     "skill": "利兵谋胜",
+     "effect": "群体回血",
+     "main_attr": "谋略",
+     "base": "149%",
+     "growth": "1.175%",
+     "rounding": "四舍五入取整",
+     "heal_category": "2"
+    },
+    {
+     "skill": "鼎足江东",
+     "effect": "群体回血",
+     "main_attr": "谋略",
+     "base": "75%",
+     "growth": "0.750%",
+     "rounding": "四舍五入取整",
+     "heal_category": "2"
+    },
+    {
+     "skill": "敛众定气",
+     "effect": "全体回血",
+     "main_attr": "谋略",
+     "base": "85%",
+     "growth": "0.725%",
+     "rounding": "四舍五入取整",
+     "heal_category": "2"
+    },
+    {
+     "skill": "赏顺伐逆",
+     "effect": "群体回血",
+     "main_attr": "谋略",
+     "base": "65%",
+     "growth": "0.450%",
+     "rounding": "四舍五入取整",
+     "heal_category": "2"
+    },
+    {
+     "skill": "胜敌益强",
+     "effect": "单体回血",
+     "main_attr": "防御",
+     "base": "120%",
+     "growth": "0.300%",
+     "rounding": "四舍五入取整",
+     "heal_category": "1"
+    }
+   ]
+  },
+  {
+   "id": "attr",
+   "name": "属性类战法",
+   "image": "image_天阶功法。新版阈值表#率土之滨 ..._3.png",
+   "entries": [
+    {
+     "skill": "持节镇西",
+     "effect": "攻击增加",
+     "main_attr": "攻击",
+     "base": "22",
+     "growth": "0.15",
+     "rounding": "四舍五入保留一位小数"
+    },
+    {
+     "skill": "持节镇西",
+     "effect": "防御增加",
+     "main_attr": "防御",
+     "base": "22",
+     "growth": "0.15",
+     "rounding": "四舍五入保留一位小数"
+    },
+    {
+     "skill": "持节镇西",
+     "effect": "谋略增加",
+     "main_attr": "谋略",
+     "base": "22",
+     "growth": "0.15",
+     "rounding": "四舍五入保留一位小数"
+    },
+    {
+     "skill": "魏武之世",
+     "effect": "属性下降",
+     "main_attr": "谋略",
+     "base": "15%",
+     "growth": "0.045%",
+     "rounding": "四舍五入保留一位小数"
+    },
+    {
+     "skill": "列营守险",
+     "effect": "属性提升",
+     "main_attr": "谋略",
+     "base": "29.2",
+     "growth": "0.115",
+     "rounding": "四舍五入保留一位小数"
+    },
+    {
+     "skill": "黄天余音",
+     "effect": "吸属性",
+     "main_attr": "谋略",
+     "base": "26",
+     "growth": "0.2",
+     "rounding": "四舍五入保留一位小数"
+    }
+   ]
+  },
+  {
+   "id": "other_numeric",
+   "name": "其他数值类战法",
+   "image": "image_天阶功法。新版阈值表#率土之滨 ..._4.png",
+   "entries": [
+    {
+     "skill": "其徐如林",
+     "effect": "法伤分兵",
+     "main_attr": "谋略",
+     "base": "15.0%",
+     "growth": "0.075%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "其徐如林（增长）",
+     "effect": "法伤分兵",
+     "main_attr": "谋略",
+     "base": "5.0%",
+     "growth": "0.025%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "僭号天子",
+     "effect": "我方抗伤",
+     "main_attr": "防御",
+     "base": "32.0%",
+     "growth": "0.050%",
+     "rounding": "四舍五入取整",
+     "table_spelling": "僭越天子"
+    },
+    {
+     "skill": "心战为上",
+     "effect": "物伤吸血",
+     "main_attr": "谋略",
+     "base": "50.0%",
+     "growth": "0.500%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "其疾如风",
+     "effect": "全体加速",
+     "main_attr": "谋略",
+     "base": "41",
+     "growth": "0.075",
+     "rounding": "四舍五入留一位小数"
+    },
+    {
+     "skill": "徽言龙凤",
+     "effect": "士气提升",
+     "main_attr": "谋略",
+     "base": "10",
+     "growth": "0.05",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "伏波扬砂",
+     "effect": "普攻增伤",
+     "main_attr": "攻击",
+     "base": "25.0%",
+     "growth": "0.125%",
+     "rounding": "四舍五入取整",
+     "table_spelling": "伏波扬沙"
+    },
+    {
+     "skill": "缓师徐持",
+     "effect": "减属性",
+     "main_attr": "谋略",
+     "base": "50.0%",
+     "growth": "0.125%",
+     "rounding": "四舍五入取整",
+     "table_spelling": "缓师涂持"
+    },
+    {
+     "skill": "动如雷震",
+     "effect": "追击增伤",
+     "main_attr": "速度",
+     "base": "40.0%",
+     "growth": "0.250%",
+     "rounding": "四舍五入取整"
+    },
+    {
+     "skill": "威震河朔",
+     "effect": "主动增伤",
+     "main_attr": "攻击",
+     "base": "20.0%",
+     "growth": "0.125%",
+     "rounding": "四舍五入取整",
+     "table_spelling": "威镇河朔"
+    },
+    {
+     "skill": "奉令护蜀",
+     "effect": "普攻增伤",
+     "main_attr": "攻击",
+     "base": "35.0%",
+     "growth": "0.200%",
+     "rounding": "四舍五入取整"
+    }
+   ]
+  }
+ ],
+ "cross_source_conflicts": [
+  {
+   "id": "C1",
+   "type": "公式数值冲突",
+   "skill": "大赏三军（神兵天降/避其锋芒/无心恋战 同簇）",
+   "sources": [
+    {
+     "source": "阈值表 image_0 + image_5 公式备忘录",
+     "value": "基础30.0% + 0.150%×(谋略-80)，四舍五入取整"
+    },
+    {
+     "source": "视频1 旁白 00:28-01:22",
+     "value": "通用公式 20 + 属性×0.145"
+    }
+   ],
+   "quantified_example": "以谋略176为例：表→44%（30+0.15×96=44.4→44）；视频→46%（20+0.145×176=45.52→46）。绝对差约2%。",
+   "assessment": "视频2『6-7点谋略跳一档』与表 growth=0.15 一致；image_5 玩家公式备忘录亦写明『基础+增长率×(属性-80)』。视频1旁白疑似口误/简化（二十/零点一四五 vs 三十/零点一五），最终由用户确认采用阈值表公式。",
+   "resolution": "已确认结案（2026-08-20）：以阈值表公式 基础30%+0.15%×(谋略−80) 为准；视频1旁白20+0.145×属性为口误/简化，不采纳；视频00:16『伤害提高80%』为特例（原因未知），不代表公式错误。",
+   "status": "resolved"
+  },
+  {
+   "id": "C2",
+   "type": "同名异效",
+   "skill": "徽言龙凤",
+   "sources": [
+    {
+     "source": "image_0 增伤类",
+     "value": "我方增伤 / 谋略 / 7.0% / 待数据"
+    },
+    {
+     "source": "image_4 其他数值类",
+     "value": "士气提升 / 谋略 / 10 / 0.05"
+    }
+   ],
+   "assessment": "同一战法在两表效果不同（增伤 vs 士气提升）。可能为多效战法（同时增伤+提升士气），或其中一表有误。image_0 增长率标『待数据』无法计算。",
+   "resolution": "2026-08-20 用户授权 + 本地官方战法库(hero_extra 司马徽 200294)交叉验证：多效战法确认(士气+增伤+概率攻击三效并存)；增伤增长率改为'无数据'(官方无具体数值)。",
+   "status": "resolved"
+  },
+  {
+   "id": "C3",
+   "type": "同名异效/重复计数",
+   "skill": "奉令护蜀",
+   "sources": [
+    {
+     "source": "image_1 减伤类",
+     "value": "我方减伤 / 攻击 / 20.0% / 0.125%"
+    },
+    {
+     "source": "image_4 其他数值类",
+     "value": "普攻增伤 / 攻击 / 35.0% / 0.200%"
+    }
+   ],
+   "assessment": "同一战法在两表效果不同（减伤 vs 普攻增伤）。可能为多效战法；需确认配将时两者是否同时生效。",
+   "resolution": "2026-08-20 用户授权 + 本地官方战法库(hero_extra 马岱 200865)交叉验证：多效战法确认(普攻增伤+减伤同时生效可叠加5次)；阈值表 image_1 减伤属性'攻击'为录入错误，修正为'防御'(按官方'受防御属性影响')。增长率保留表格图参考值。",
+   "status": "resolved"
+  },
+  {
+   "id": "C4",
+   "type": "数据不可计算",
+   "skill": "遗志",
+   "sources": [
+    {
+     "source": "image_2 恢复类",
+     "value": "单体回血 / 主属性null / 基础9999% / growth null"
+    }
+   ],
+   "assessment": "基础9999%与空白主属性/增长率为占位符，说明该战法回血机制不按通用线性公式，需单独查机制。",
+   "resolution": "2026-08-20 用户确认：基础 9999% 非数据源错误，而是『回复至满血』的编码方式（回满血无法用有限百分比表示，以 9999% 占位）；无增长率因不受属性影响。遗志为第3回合触发的固定效果（恢复前锋至满血 + 反击85% + 无法恢复兵力），不适用通用线性公式，不纳入公式计算，机制按官方描述记录。",
+   "status": "resolved"
+  },
+  {
+   "id": "C5",
+   "type": "阈值表OCR/用字偏差（已校正）",
+   "skill": "伏波扬砂/僭号天子/威震河朔/缓师徐持",
+   "sources": [
+    {
+     "source": "阈值表 image_4 原文",
+     "value": "伏波扬沙 / 僭越天子 / 威镇河朔 / 缓师涂持"
+    },
+    {
+     "source": "官方资料库 official_skill_db.json",
+     "value": "伏波扬砂(200255)/僭号天子(200262)/威震河朔(200947)/缓师徐持(200246)"
+    }
+   ],
+   "assessment": "阈值表4处用字与官方战法名不符，经与官方库逐条比对，机制数据(属性/基础/增长率)完全吻合，判定为阈值表OCR/转写用字偏差。已在 threshold_db.json 中按官方名校正，并保留 table_spelling 原拼写。",
+   "resolution": "已自动校正"
+  },
+  {
+   "id": "C6",
+   "type": "多效战法跨表出现（非冲突，需标注）",
+   "skill": "始计/鼎足江东/审时定计/同仇敌忾",
+   "sources": [
+    {
+     "source": "image_0 + image_1 / image_2",
+     "value": "始计(增伤20/0.15+减伤30/0.25)；鼎足江东(增伤17/0.125+回血75/0.75)；审时定计(易伤30/0.15+回血65/0.45)；同仇敌忾(增伤2/0.015+减伤2/0.015)"
+    }
+   ],
+   "assessment": "这些战法本身具多重效果，故在多个阈值类别中各出现一次，属合法多效，非重复或矛盾。报告与索引中均已标注『多效』。",
+   "resolution": "已标注，非冲突"
+  }
+ ],
+ "uncertainties": [
+  "徽言龙凤 image_0 增伤增长率 → 已标'无数据'（官方仅'受谋略属性影响'无具体数值）",
+  "遗志 → 已结案：9999%=回复至满血编码（非错误），回合触发型，不纳入线性公式（2026-08-20 用户确认）",
+  "视频3《阈值表懒人版》无可用语音转写（base模型0段），其信息依赖原图，未额外补充数据行。",
+  "各战法『对应属性』取自阈值表标注，未逐条与游戏内实机核实，按表录入；如需100%精确请游戏内复核。",
+  "大赏三军簇公式以阈值表(基础30/增长0.15)为准，与视频1旁白(20+0.145×属性)不一致，见 C1。"
+ ]
+}

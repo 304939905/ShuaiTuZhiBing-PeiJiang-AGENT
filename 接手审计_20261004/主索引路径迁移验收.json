@@ -1,0 +1,481 @@
+{
+  "date": "2026-10-04",
+  "scope": "Only out rebased; relative path, content, order, dates and acceptance fields preserved",
+  "before_index_sha256": "c56622fa2d5e26fabd02ebd8c5a812b81637adac43886449bf01069c5e1709f1",
+  "after_index_sha256": "c0194c640dab04f9eeed9183c2aa2aca5abf222e4c41ae75122562b69c525717",
+  "rows": 67,
+  "all_out_readable": true,
+  "all_other_fields_equal": true,
+  "all_report_sha256_unchanged": true,
+  "records": [
+    {
+      "no": "001",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/10_S赛季资源受限的四队分配_重蒸馏学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/10_S赛季资源受限的四队分配_重蒸馏学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/10_S赛季资源受限的四队分配_重蒸馏学习报告.docx",
+      "content_sha256": "651d919b8622cab37baa60e866d4f280ece439a0ee470d9e4e4eb49bc4aee824"
+    },
+    {
+      "no": "002",
+      "rel": "报告库/旧56项目/精编/孟获就是南蛮版张机！ 这个新体系缔造者，你看懂了吗？_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/孟获就是南蛮版张机！ 这个新体系缔造者，你看懂了吗？_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/孟获就是南蛮版张机！ 这个新体系缔造者，你看懂了吗？_精修学习报告.docx",
+      "content_sha256": "022f920f26dbb407c342909d6886d3b0e71f4695f262e5d298e62ef46bb35881"
+    },
+    {
+      "no": "003",
+      "rel": "报告库/旧56项目/精编/七擒七纵就是高配磐阵 ，战磐体系迎来全面加强，七擒七纵强度不错。_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/七擒七纵就是高配磐阵 ，战磐体系迎来全面加强，七擒七纵强度不错。_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/七擒七纵就是高配磐阵 ，战磐体系迎来全面加强，七擒七纵强度不错。_精修学习报告.docx",
+      "content_sha256": "8bf9574687262fc4c19365438cf78cc1a3ef3143c1de6aef18f13bfac751fa52"
+    },
+    {
+      "no": "004",
+      "rel": "报告库/赛季/精编/盘点全网最强四星神队排名，从第八到第一，越往后越离谱，都有配置和战报！_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/赛季/精编/盘点全网最强四星神队排名，从第八到第一，越往后越离谱，都有配置和战报！_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/赛季/精编/盘点全网最强四星神队排名，从第八到第一，越往后越离谱，都有配置和战报！_精修学习报告.docx",
+      "content_sha256": "4f1541fd4b2eea02b7c9fea82c89019373ae1039763409250b49325c7a953542"
+    },
+    {
+      "no": "005",
+      "rel": "报告库/阵容新批/精编/video_来来来兄弟们，继续配将，免费粉丝..._top_0_3_精编学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/精编/video_来来来兄弟们，继续配将，免费粉丝..._top_0_3_精编学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/精编/video_来来来兄弟们，继续配将，免费粉丝..._top_0_3_精编学习报告.docx",
+      "content_sha256": "decc4b95adf20af32c46875995c2ad52a82f94da035efdda7e41474d92a7029c"
+    },
+    {
+      "no": "006",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/05_主力集中与工具队分层_重蒸馏学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/05_主力集中与工具队分层_重蒸馏学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/05_主力集中与工具队分层_重蒸馏学习报告.docx",
+      "content_sha256": "ea6a50ce43fcfd892b180389a6fa7b7ffa214b6fa9f1b45c70da3ee3326a1fb1"
+    },
+    {
+      "no": "007",
+      "rel": "报告库/阵容新批/精编/五队并三队，三队并两队，样样通样...（抖音标题被文件名截断）_精编学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/精编/五队并三队，三队并两队，样样通样...（抖音标题被文件名截断）_精编学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/精编/五队并三队，三队并两队，样样通样...（抖音标题被文件名截断）_精编学习报告.docx",
+      "content_sha256": "fc61d83272854b8005f9b687fa3db9467f663dc0ded221c6ea0c48b39a789e27"
+    },
+    {
+      "no": "008",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/12_从付费方案反推全局资源错误_重蒸馏学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/12_从付费方案反推全局资源错误_重蒸馏学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/12_从付费方案反推全局资源错误_重蒸馏学习报告.docx",
+      "content_sha256": "5fa5ff67cc71cd9b6a8b984ce636ec00801c435686249d6a1e04acbfda126867"
+    },
+    {
+      "no": "009",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/13_低投入账号如何评价三皇价值_重蒸馏学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/13_低投入账号如何评价三皇价值_重蒸馏学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/13_低投入账号如何评价三皇价值_重蒸馏学习报告.docx",
+      "content_sha256": "84b3e65bea86f734ad8129c3fc43ef8deb11b1e4928a277726abd2e112c723d4"
+    },
+    {
+      "no": "010",
+      "rel": "报告库/赛季/精编/萌新这些四星卡千万别拆了，s赛季有大用！_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/赛季/精编/萌新这些四星卡千万别拆了，s赛季有大用！_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/赛季/精编/萌新这些四星卡千万别拆了，s赛季有大用！_精修学习报告.docx",
+      "content_sha256": "eba96ae23a3e6f4c8c060094bf9e33a0577016ec4a7d9f3930fcbaae49c96149"
+    },
+    {
+      "no": "011",
+      "rel": "报告库/旧56项目/精编/低红大张鲁前期实战 ，队伍咋样，实战来看！_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/低红大张鲁前期实战 ，队伍咋样，实战来看！_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/低红大张鲁前期实战 ，队伍咋样，实战来看！_精修学习报告.docx",
+      "content_sha256": "96038119929a9c462b72393857e1397b788ff82e91faabf98dc3bbffae65b1b9"
+    },
+    {
+      "no": "012",
+      "rel": "报告库/旧56项目/精编/太后大加强，平民也有光! 太后大加强，平民也有光!_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/太后大加强，平民也有光! 太后大加强，平民也有光!_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/太后大加强，平民也有光! 太后大加强，平民也有光!_精修学习报告.docx",
+      "content_sha256": "e0d5fe417cc53207a9e8056cef7b190c82f0ee26c6f45e88c0dd1d82ecd8ac79"
+    },
+    {
+      "no": "013",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/11_先识别队伍核心再纠错_重蒸馏学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/11_先识别队伍核心再纠错_重蒸馏学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/11_先识别队伍核心再纠错_重蒸馏学习报告.docx",
+      "content_sha256": "9094b1602b831912ea3472f532066e508e43c12eeeab7b2091d98f295836e114"
+    },
+    {
+      "no": "014",
+      "rel": "报告库/旧56项目/精编/内政点到底咋分配？ 分配的艺术，一篇看懂。_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/内政点到底咋分配？ 分配的艺术，一篇看懂。_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/内政点到底咋分配？ 分配的艺术，一篇看懂。_精修学习报告.docx",
+      "content_sha256": "7e48b5a7abb0d576fa2d177a2bc6276c10c4768756fb239ec7275b4d5bdf7846"
+    },
+    {
+      "no": "015",
+      "rel": "报告库/旧56项目/精编/平民种地焚决来了 10天必过两万五势力，无限套娃开分法，全赛季稳定过势力值任务，丝滑过渡金币期，稳扎稳打步步为营。_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/平民种地焚决来了 10天必过两万五势力，无限套娃开分法，全赛季稳定过势力值任务，丝滑过渡金币期，稳扎稳打步步为营。_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/平民种地焚决来了 10天必过两万五势力，无限套娃开分法，全赛季稳定过势力值任务，丝滑过渡金币期，稳扎稳打步步为营。_精修学习报告.docx",
+      "content_sha256": "8e2f2a136a759a3f376790cbbf842feac4c0e4c83ba902bda6a3ed33faa27a9d"
+    },
+    {
+      "no": "016",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/02_同阵容不同账号为何会变质_重蒸馏学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/02_同阵容不同账号为何会变质_重蒸馏学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/02_同阵容不同账号为何会变质_重蒸馏学习报告.docx",
+      "content_sha256": "249efea0fff3fb694c7e4228501764a2816fc047aed3959356c5f8276c0a0d11"
+    },
+    {
+      "no": "017",
+      "rel": "报告库/阵容新批/精编/率土平民队伍之甘宁碰瓷队_精编学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/精编/率土平民队伍之甘宁碰瓷队_精编学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/精编/率土平民队伍之甘宁碰瓷队_精编学习报告.docx",
+      "content_sha256": "b6960993d316f8761d251f7bce76baf6763d44f82ca67aa0f924a3d5a9624361"
+    },
+    {
+      "no": "018",
+      "rel": "报告库/赛季/精编/最强四星0氪蜀之智，萌新玩家必看_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/赛季/精编/最强四星0氪蜀之智，萌新玩家必看_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/赛季/精编/最强四星0氪蜀之智，萌新玩家必看_精修学习报告.docx",
+      "content_sha256": "abb00c2855170097ec8a80dbedfe338d0d4b404c21a02fd9b36fdccea97c2ae2"
+    },
+    {
+      "no": "019",
+      "rel": "报告库/旧56项目/精编/空城 一夫 单骑 反计应该如何选择？ 一篇内容讲清楚，让你不再迷茫!_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/空城 一夫 单骑 反计应该如何选择？ 一篇内容讲清楚，让你不再迷茫!_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/空城 一夫 单骑 反计应该如何选择？ 一篇内容讲清楚，让你不再迷茫!_精修学习报告.docx",
+      "content_sha256": "e79e0878ca75767a116a3295149b96e05ccd5ebe3ac48e37b94ad34dfe5cd3b1"
+    },
+    {
+      "no": "020",
+      "rel": "报告库/旧56项目/精编/垒实体系克制关系，来了! 下期带来大量粉丝投稿解析，期待一下有没有你!_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/垒实体系克制关系，来了! 下期带来大量粉丝投稿解析，期待一下有没有你!_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/垒实体系克制关系，来了! 下期带来大量粉丝投稿解析，期待一下有没有你!_精修学习报告.docx",
+      "content_sha256": "7a1cf84c8b27d95012bb2d5c032bd097c2169775271014492ff5fd7608777077"
+    },
+    {
+      "no": "021",
+      "rel": "报告库/旧56项目/精编/率土最细最全攻略合集—垒实篇 评论抢点评! 把你们的垒实配队放在评论区哦!下期抽取点评别错过!_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/率土最细最全攻略合集—垒实篇 评论抢点评! 把你们的垒实配队放在评论区哦!下期抽取点评别错过!_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/率土最细最全攻略合集—垒实篇 评论抢点评! 把你们的垒实配队放在评论区哦!下期抽取点评别错过!_精修学习报告.docx",
+      "content_sha256": "6d652d26d32e31a6d27c4e28d0ed3f6c88aa4ba2c45aee3f5cba931237a75825"
+    },
+    {
+      "no": "022",
+      "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—垒实篇投稿讲解 来了!多多留言，后续会定期抽取评论解析队伍。_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/全率土最细最全攻略合集—垒实篇投稿讲解 来了!多多留言，后续会定期抽取评论解析队伍。_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/全率土最细最全攻略合集—垒实篇投稿讲解 来了!多多留言，后续会定期抽取评论解析队伍。_精修学习报告.docx",
+      "content_sha256": "37caf2e66f997fc684892ef57ef7a9cdcae7b2713f7bf9267e71d587a28fdcf8"
+    },
+    {
+      "no": "023",
+      "rel": "报告库/旧56项目/精编/孙权完全不适配张机 ，来看看有哪些常见误区_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/孙权完全不适配张机 ，来看看有哪些常见误区_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/孙权完全不适配张机 ，来看看有哪些常见误区_精修学习报告.docx",
+      "content_sha256": "e26a9939c3a12c2f677faedd7a35c02abdd8b679b633cf1cf5b536184b6ece62"
+    },
+    {
+      "no": "024",
+      "rel": "报告库/阵容新批/精编/率土之滨队伍推荐第16队——宁元刀（黑科技）（碰瓷）_精编学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/精编/率土之滨队伍推荐第16队——宁元刀（黑科技）（碰瓷）_精编学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/精编/率土之滨队伍推荐第16队——宁元刀（黑科技）（碰瓷）_精编学习报告.docx",
+      "content_sha256": "cc510d5428f1622b42da3eed1507010787a5844857bbe574033b65b8bb65162f"
+    },
+    {
+      "no": "025",
+      "rel": "报告库/旧56项目/精编/从零开始，宝物养成焚决，来了！ 刚进征服看见宝物系统，摸不着头脑？老是乱打一堆毫不适配的残品？别着急，北冥让你一篇看懂！_精编学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/从零开始，宝物养成焚决，来了！ 刚进征服看见宝物系统，摸不着头脑？老是乱打一堆毫不适配的残品？别着急，北冥让你一篇看懂！_精编学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/从零开始，宝物养成焚决，来了！ 刚进征服看见宝物系统，摸不着头脑？老是乱打一堆毫不适配的残品？别着急，北冥让你一篇看懂！_精编学习报告.docx",
+      "content_sha256": "6df07c00c01003195f7bb76d004236ca5ece769957af8040580b3b2950ad5a89"
+    },
+    {
+      "no": "026",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/09_平民账号只配三队的决策_重蒸馏学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/09_平民账号只配三队的决策_重蒸馏学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/09_平民账号只配三队的决策_重蒸馏学习报告.docx",
+      "content_sha256": "865c7eb21c2c5b48e023dc8a145d37cdd9dc48f9e971df582625e01a7606edc2"
+    },
+    {
+      "no": "027",
+      "rel": "报告库/开荒/精编/开荒专题（5视频合并）_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/开荒/精编/开荒专题（5视频合并）_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/开荒/精编/开荒专题（5视频合并）_精修学习报告.docx",
+      "content_sha256": "63c94bf2b48ab73cde604581bd51a6f4da886e7ce5be356d78c5926e95b1821a"
+    },
+    {
+      "no": "028",
+      "rel": "报告库/旧56项目/精编/装糖队到底糖不糖 一支拉满细节的队伍，非常值得推敲。  原创队伍。_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/装糖队到底糖不糖 一支拉满细节的队伍，非常值得推敲。  原创队伍。_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/装糖队到底糖不糖 一支拉满细节的队伍，非常值得推敲。  原创队伍。_精修学习报告.docx",
+      "content_sha256": "effe449bb0951a3f5ccf9f4801b3c9be908186e0eca0aaf5baca9eea55c4ee6f"
+    },
+    {
+      "no": "029",
+      "rel": "报告库/旧56项目/精编/张机如何显著降低败率？ 首先要理解张机这个武将最需要的是什么。_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/张机如何显著降低败率？ 首先要理解张机这个武将最需要的是什么。_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/张机如何显著降低败率？ 首先要理解张机这个武将最需要的是什么。_精修学习报告.docx",
+      "content_sha256": "05a513ab29ab5123c91fa95a77c7466635e199b7c2f3cb7b2249caa0a6dd49b7"
+    },
+    {
+      "no": "030",
+      "rel": "报告库/旧56项目/精编/徐庶能玩吗？ 当然可以，平民极佳的战磐选择，来了！_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/徐庶能玩吗？ 当然可以，平民极佳的战磐选择，来了！_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/徐庶能玩吗？ 当然可以，平民极佳的战磐选择，来了！_精修学习报告.docx",
+      "content_sha256": "294dfd6401886489fba43f4cffed8610585be3f31d18fe706f104d6819f53948"
+    },
+    {
+      "no": "031",
+      "rel": "报告库/战法阈值精简学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/战法阈值精简学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/战法阈值精简学习报告.docx",
+      "content_sha256": "8b191c243a16a0079e15424c12b3065eeb5470dc19981ddef1832457e228cff1"
+    },
+    {
+      "no": "032",
+      "rel": "报告库/旧56项目/精编/全率土最全攻略，战法篇! 重磅来袭!_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/全率土最全攻略，战法篇! 重磅来袭!_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/全率土最全攻略，战法篇! 重磅来袭!_精修学习报告.docx",
+      "content_sha256": "9009a5fb1b0e09f2572c2bd401e09c771e9d60495af52f1a3c1aed94d1543ef3"
+    },
+    {
+      "no": "033",
+      "rel": "报告库/旧56项目/精编/全率土最全攻略合集！体系篇 ——战磐体系 来了！_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/全率土最全攻略合集！体系篇 ——战磐体系 来了！_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/全率土最全攻略合集！体系篇 ——战磐体系 来了！_精修学习报告.docx",
+      "content_sha256": "141b9f51de3e26ad434ef5cbbc5092ecea84dfb367514716c6a978de646fd4d5"
+    },
+    {
+      "no": "034",
+      "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—战磐篇粉丝答疑 战磐篇粉丝答疑来了，看看有没有你的队伍？ 跟北冥多多互动，留言下期想看主五哪个体系？_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/全率土最细最全攻略合集—战磐篇粉丝答疑 战磐篇粉丝答疑来了，看看有没有你的队伍？ 跟北冥多多互动，留言下期想看主五哪个体系？_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/全率土最细最全攻略合集—战磐篇粉丝答疑 战磐篇粉丝答疑来了，看看有没有你的队伍？ 跟北冥多多互动，留言下期想看主五哪个体系？_精修学习报告.docx",
+      "content_sha256": "e3d2fd612ef06f99dfb5406764573ec6c949ed3b22523065c8422d1aa2d999b8"
+    },
+    {
+      "no": "035",
+      "rel": "报告库/标杆/攻其不备体系投稿解析与配队判断_当前标杆_20260907.docx",
+      "old_out": "D:/Desktop/shandou/报告库/标杆/攻其不备体系投稿解析与配队判断_当前标杆_20260907.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/标杆/攻其不备体系投稿解析与配队判断_当前标杆_20260907.docx",
+      "content_sha256": "5effc87882cb331c1b8d22485fce7bd684158e2afa37e6bd30e538fca027b471"
+    },
+    {
+      "no": "036",
+      "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—攻其篇 评论区投稿，下期点评队伍哦_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/全率土最细最全攻略合集—攻其篇 评论区投稿，下期点评队伍哦_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/全率土最细最全攻略合集—攻其篇 评论区投稿，下期点评队伍哦_精修学习报告.docx",
+      "content_sha256": "4275f18dd75cdc8b6c1f7fa571820e500626c432c874be04e8bd8f56d11c7e69"
+    },
+    {
+      "no": "037",
+      "rel": "报告库/旧56项目/精编/距离思路究极细节 ，普攻距离和战法距离，真的是越远越好吗？_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/距离思路究极细节 ，普攻距离和战法距离，真的是越远越好吗？_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/距离思路究极细节 ，普攻距离和战法距离，真的是越远越好吗？_精修学习报告.docx",
+      "content_sha256": "184ac31e06d689d364ed1ae293fd781dd19918a77581e31fb62d0af1549ee193"
+    },
+    {
+      "no": "038",
+      "rel": "报告库/旧56项目/精编/率土武将志—文鸯、程昱 文鸯程昱武将详解来了!_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/率土武将志—文鸯、程昱 文鸯程昱武将详解来了!_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/率土武将志—文鸯、程昱 文鸯程昱武将详解来了!_精修学习报告.docx",
+      "content_sha256": "94c301628c9ad4e5e6c6cf9275cb89a45aa77e640d9cc90b103666b7c24c57f3"
+    },
+    {
+      "no": "039",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/07_无孙权账号的替代开荒与四队分配_重蒸馏学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/07_无孙权账号的替代开荒与四队分配_重蒸馏学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/07_无孙权账号的替代开荒与四队分配_重蒸馏学习报告.docx",
+      "content_sha256": "609c15fc6ca424442b9535d61e12cae94dfbe1fc6194bbd7b11b17df0cbc3639"
+    },
+    {
+      "no": "040",
+      "rel": "报告库/旧56项目/精编/全率土最全入门攻略合集!  来了!_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/全率土最全入门攻略合集!  来了!_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/全率土最全入门攻略合集!  来了!_精修学习报告.docx",
+      "content_sha256": "ab9df29a1bac19c5fbf90b97be25088213e6a0ea97ac7134b06cf904f59a0f53"
+    },
+    {
+      "no": "041",
+      "rel": "报告库/阵容新批/精编/撸铁队详解_精编学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/精编/撸铁队详解_精编学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/精编/撸铁队详解_精编学习报告.docx",
+      "content_sha256": "8be126296a2dda4fd0985370eca3a6494d4b711f95fa2dc0adc6fb0f013768ef"
+    },
+    {
+      "no": "042",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/06_有战法但缺核心武将时如何止损_重蒸馏学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/06_有战法但缺核心武将时如何止损_重蒸馏学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/06_有战法但缺核心武将时如何止损_重蒸馏学习报告.docx",
+      "content_sha256": "69f4a8f04be7dba70c315214a277301101a4a14486cd84edfcb2a69e67c7dea0"
+    },
+    {
+      "no": "043",
+      "rel": "报告库/旧56项目/精编/杜预垒实队，战报来了！ 一起来看看实战表现如何吧！_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/杜预垒实队，战报来了！ 一起来看看实战表现如何吧！_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/杜预垒实队，战报来了！ 一起来看看实战表现如何吧！_精修学习报告.docx",
+      "content_sha256": "15b491dedf8ea92c16b89c142c966e0062960c60936a10ec4829f4be412278af"
+    },
+    {
+      "no": "044",
+      "rel": "报告库/旧56项目/精编/全新垒实体系震撼来袭！ 杜垒司见过没，杜预也能走垒实？_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/全新垒实体系震撼来袭！ 杜垒司见过没，杜预也能走垒实？_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/全新垒实体系震撼来袭！ 杜垒司见过没，杜预也能走垒实？_精修学习报告.docx",
+      "content_sha256": "fb140b7f433b91289fed19ade137f7678017c6c5c0dd54436f5977f9a1438dfe"
+    },
+    {
+      "no": "045",
+      "rel": "报告库/阵容新批/精编/video_免费粉丝配将第十一期，继续配将。..._top_0_2_精编学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/精编/video_免费粉丝配将第十一期，继续配将。..._top_0_2_精编学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/精编/video_免费粉丝配将第十一期，继续配将。..._top_0_2_精编学习报告.docx",
+      "content_sha256": "ae8488f29c84c4c0fa9db0ff86d614e1006b48010b6101977773f80f3d2b9d8a"
+    },
+    {
+      "no": "046",
+      "rel": "报告库/旧56项目/精编/武将咋加点？ 一篇看明白!_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/武将咋加点？ 一篇看明白!_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/武将咋加点？ 一篇看明白!_精修学习报告.docx",
+      "content_sha256": "e85fa98ce8a9bcdb8dd838a37965840ff04a5f91a4f79d8f407b6a53120945e4"
+    },
+    {
+      "no": "047",
+      "rel": "报告库/旧56项目/精编/这战法概率也太夸张了！ 也没人说甘宁带及锋概率能到80啊！_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/这战法概率也太夸张了！ 也没人说甘宁带及锋概率能到80啊！_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/这战法概率也太夸张了！ 也没人说甘宁带及锋概率能到80啊！_精修学习报告.docx",
+      "content_sha256": "57e51c7234a884de9f424357dceccc9791772150e8dd3d399ea7476505dd894c"
+    },
+    {
+      "no": "048",
+      "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—百战篇 来了!一篇带你看懂百战体系原理!_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/全率土最细最全攻略合集—百战篇 来了!一篇带你看懂百战体系原理!_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/全率土最细最全攻略合集—百战篇 来了!一篇带你看懂百战体系原理!_精修学习报告.docx",
+      "content_sha256": "edfd5e140b40b0897b2ae2c23fbf7941ec4a2820fd7f05e8a79b850613597293"
+    },
+    {
+      "no": "049",
+      "rel": "报告库/旧56项目/精编/粉丝赞不绝口的队伍来咯！ 感谢粉丝分享！_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/粉丝赞不绝口的队伍来咯！ 感谢粉丝分享！_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/粉丝赞不绝口的队伍来咯！ 感谢粉丝分享！_精修学习报告.docx",
+      "content_sha256": "03014cde384ace03a141d9c1cbbfe1a9fcbcacaa88a36393a4febfa9aa6a36e5"
+    },
+    {
+      "no": "050",
+      "rel": "报告库/旧56项目/精编/全率土最细最强攻略合集 神赏体系粉丝投稿解析，来了_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/全率土最细最强攻略合集 神赏体系粉丝投稿解析，来了_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/全率土最细最强攻略合集 神赏体系粉丝投稿解析，来了_精修学习报告.docx",
+      "content_sha256": "f3a7822d438e2556d31fa17cf07eabd112b88bc8f7859cf8caa8d0c6131df584"
+    },
+    {
+      "no": "051",
+      "rel": "报告库/旧56项目/精编/全率土最全攻略合集—神赏篇 来了! 评论投稿，下期解析哦!_精编学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/全率土最全攻略合集—神赏篇 来了! 评论投稿，下期解析哦!_精编学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/全率土最全攻略合集—神赏篇 来了! 评论投稿，下期解析哦!_精编学习报告.docx",
+      "content_sha256": "1d3b1607103e09cb04b62a4b77f598be97f29cb05308da5f425afa4e036318ac"
+    },
+    {
+      "no": "052",
+      "rel": "报告库/旧56项目/精编/程昱魏智最强搭配—所有细节一篇看懂 魏智的宝物你真的带对了吗？_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/程昱魏智最强搭配—所有细节一篇看懂 魏智的宝物你真的带对了吗？_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/程昱魏智最强搭配—所有细节一篇看懂 魏智的宝物你真的带对了吗？_精修学习报告.docx",
+      "content_sha256": "2e48c43b73beec758eef15f10f7b3524d6d7c0b1de9ab6eda5e0700ea3704a09"
+    },
+    {
+      "no": "053",
+      "rel": "报告库/阵容新批/精编/四星称号神队晋步，竹林七贤_精编学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/精编/四星称号神队晋步，竹林七贤_精编学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/精编/四星称号神队晋步，竹林七贤_精编学习报告.docx",
+      "content_sha256": "ab2ccf573afb5b441d22e1ddf2694a11ddf64d7d92190558ea897e29d9f5db26"
+    },
+    {
+      "no": "054",
+      "rel": "报告库/旧56项目/精编/纯刀居然还有上升空间？ 一个改动，拉高强度_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/纯刀居然还有上升空间？ 一个改动，拉高强度_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/纯刀居然还有上升空间？ 一个改动，拉高强度_精修学习报告.docx",
+      "content_sha256": "a603bd4582806b3115af60b6599224d952b8d83dbeee62a74dec1f26c3f71e3d"
+    },
+    {
+      "no": "055",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/03_缺将缺法账号的四队顺序分配_重蒸馏学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/03_缺将缺法账号的四队顺序分配_重蒸馏学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/03_缺将缺法账号的四队顺序分配_重蒸馏学习报告.docx",
+      "content_sha256": "87454276da110dd730bebabfe94be4f33bb3eb187bef8fc4451627fd0501712c"
+    },
+    {
+      "no": "056",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/08_缺核心后的功能位替代_重蒸馏学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/08_缺核心后的功能位替代_重蒸馏学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/08_缺核心后的功能位替代_重蒸馏学习报告.docx",
+      "content_sha256": "90fd7e53b35e9601c9e8cbd366f6365f27a71444d115ddc841ac2c6694ebe750"
+    },
+    {
+      "no": "057",
+      "rel": "报告库/旧56项目/精编/配将焚决来了 全体系队伍搭建思路最后一期，真焚决—宏观配将法，来了! 跟合集内容全部融会贯通，你也能成配将大手子!_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/配将焚决来了 全体系队伍搭建思路最后一期，真焚决—宏观配将法，来了! 跟合集内容全部融会贯通，你也能成配将大手子!_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/配将焚决来了 全体系队伍搭建思路最后一期，真焚决—宏观配将法，来了! 跟合集内容全部融会贯通，你也能成配将大手子!_精修学习报告.docx",
+      "content_sha256": "6fe02aeaf52b4b22a822e34b3ff25762cefb2520e4cbffd98e3058748efa6bcf"
+    },
+    {
+      "no": "058",
+      "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—全赛季发育思路 资源产量篇，来了，产量突破十五万不在困难，资源见底窘境不再出现，焚决速看!_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/全率土最细最全攻略合集—全赛季发育思路 资源产量篇，来了，产量突破十五万不在困难，资源见底窘境不再出现，焚决速看!_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/全率土最细最全攻略合集—全赛季发育思路 资源产量篇，来了，产量突破十五万不在困难，资源见底窘境不再出现，焚决速看!_精修学习报告.docx",
+      "content_sha256": "82a5f1e40c939c62be8adc7795b8255b6d961479c93fe0bc374410e32af5f256"
+    },
+    {
+      "no": "059",
+      "rel": "报告库/旧56项目/精编/平民怎么出法刀 北冥给你小妙招! 平民怎么出法刀 北冥给你小妙招!_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/平民怎么出法刀 北冥给你小妙招! 平民怎么出法刀 北冥给你小妙招!_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/平民怎么出法刀 北冥给你小妙招! 平民怎么出法刀 北冥给你小妙招!_精修学习报告.docx",
+      "content_sha256": "4b0d805c8e557e3bc09fe18441c1cf321b195aaff8db77ff4b6aa8c8f67d7313"
+    },
+    {
+      "no": "060",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/04_资源受限账号的三队分配方法_重蒸馏学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/04_资源受限账号的三队分配方法_重蒸馏学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/重蒸馏_2至13_20260911/04_资源受限账号的三队分配方法_重蒸馏学习报告.docx",
+      "content_sha256": "1bcdeabad67674f79a31e94ca370f335bde26361d1d3e4fa1580d05ddb5e33e3"
+    },
+    {
+      "no": "061",
+      "rel": "报告库/阵容新批/精编/配将点评_精编学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/阵容新批/精编/配将点评_精编学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/阵容新批/精编/配将点评_精编学习报告.docx",
+      "content_sha256": "c8e55f320aab7865b7bf8c0de10675a8f275eb1d40b56b7c23cfebc51b356bdd"
+    },
+    {
+      "no": "062",
+      "rel": "报告库/旧56项目/精编/率土最全攻略合集 全赛季发育思路，金币获取篇，来了！_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/率土最全攻略合集 全赛季发育思路，金币获取篇，来了！_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/率土最全攻略合集 全赛季发育思路，金币获取篇，来了！_精修学习报告.docx",
+      "content_sha256": "ea78be06abe4f62451611d86bf257871a30d2e9bdf411faf2627df3b942f9958"
+    },
+    {
+      "no": "063",
+      "rel": "报告库/旧56项目/精编/马超纯刀最强配置卷土来袭! 单次进攻两万五武勋!两个细节带飞马超!_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/马超纯刀最强配置卷土来袭! 单次进攻两万五武勋!两个细节带飞马超!_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/马超纯刀最强配置卷土来袭! 单次进攻两万五武勋!两个细节带飞马超!_精修学习报告.docx",
+      "content_sha256": "4963bb532613f8a042d948a58f75718fc1018f814e0a3699b0360f8344d7277f"
+    },
+    {
+      "no": "064",
+      "rel": "报告库/旧56项目/精编/高顺领衔群骑，来了！ 8回合高频解控，四重增伤，非常均衡的一队。_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/高顺领衔群骑，来了！ 8回合高频解控，四重增伤，非常均衡的一队。_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/高顺领衔群骑，来了！ 8回合高频解控，四重增伤，非常均衡的一队。_精修学习报告.docx",
+      "content_sha256": "c324b6165e039e975e6153210fd8b428e7d5cea04a0a608f79be481c5ce37b3b"
+    },
+    {
+      "no": "065",
+      "rel": "报告库/旧56项目/精编/率土武将志—贾诩 使用手册来了!一篇全看懂!_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/率土武将志—贾诩 使用手册来了!一篇全看懂!_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/率土武将志—贾诩 使用手册来了!一篇全看懂!_精修学习报告.docx",
+      "content_sha256": "69ba020a18a42bc173356fdbdf7e8e91d0faf5c9067945f2135311103ebad2cf"
+    },
+    {
+      "no": "066",
+      "rel": "报告库/旧56项目/精编/率土武将志—魏晋篇，来了 率土最全武将志，所有武将该拆改留，有什么价值，全部讲清楚_精修学习报告.docx",
+      "old_out": "D:/Desktop/shandou/报告库/旧56项目/精编/率土武将志—魏晋篇，来了 率土最全武将志，所有武将该拆改留，有什么价值，全部讲清楚_精修学习报告.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/旧56项目/精编/率土武将志—魏晋篇，来了 率土最全武将志，所有武将该拆改留，有什么价值，全部讲清楚_精修学习报告.docx",
+      "content_sha256": "d1bb48087d98fe2c098b4f9a849355bafef4189f2c7740ba75f39a28dd82e356"
+    },
+    {
+      "no": "067",
+      "rel": "报告库/武将攻略/马岱体系的成立条件与配队判断_精编学习报告_20260916.docx",
+      "old_out": "D:/Desktop/shandou/报告库/武将攻略/马岱体系的成立条件与配队判断_精编学习报告_20260916.docx",
+      "new_out": "G:/codex-work space/shandou/报告库/武将攻略/马岱体系的成立条件与配队判断_精编学习报告_20260916.docx",
+      "content_sha256": "9059b57d3781a35b2ab81f30b7ec4fb215acd1d6b3e98567d12d236f2f8dac8b"
+    }
+  ]
+}

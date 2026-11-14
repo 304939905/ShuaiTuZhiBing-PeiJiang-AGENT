@@ -1,0 +1,896 @@
+{
+  "total_reports": 51,
+  "reports": [
+    {
+      "file": "开荒专题（6 视频合并）_逐帧深度学习报告_1秒版.docx",
+      "text_len": 29299,
+      "star_flags": [
+        {
+          "hero": "关银屏",
+          "claimed": 4,
+          "real": 5,
+          "ctx": "v.4（3/4★），关银屏升至 Lv.15 但"
+        }
+      ],
+      "name_flags": [
+        {
+          "token": "血溅黄沙",
+          "likely": "血溅黄砂",
+          "conf": "high",
+          "ctx": 1879
+        },
+        {
+          "token": "盘阵",
+          "likely": "乱阵",
+          "conf": "mid",
+          "ctx": 2088
+        },
+        {
+          "token": "大营",
+          "likely": "大橹",
+          "conf": "high",
+          "ctx": 1025
+        },
+        {
+          "token": "鬼旅",
+          "likely": "鬼谋",
+          "conf": "high",
+          "ctx": 6285
+        },
+        {
+          "token": "募兵",
+          "likely": "疑兵",
+          "conf": "mid",
+          "ctx": 11674
+        },
+        {
+          "token": "严严",
+          "likely": "严氏",
+          "conf": "mid",
+          "ctx": 18976
+        },
+        {
+          "token": "王越",
+          "likely": "王衍",
+          "conf": "mid",
+          "ctx": 16236
+        },
+        {
+          "token": "张攀成",
+          "likely": "张曼成",
+          "conf": "mid",
+          "ctx": 16259
+        },
+        {
+          "token": "张夔成",
+          "likely": "张曼成",
+          "conf": "mid",
+          "ctx": 16366
+        },
+        {
+          "token": "曹彭",
+          "likely": "曹豹",
+          "conf": "mid",
+          "ctx": 16523
+        },
+        {
+          "token": "姜元绍",
+          "likely": "裴元绍",
+          "conf": "mid",
+          "ctx": 16560
+        }
+      ],
+      "threshold_opportunities": [
+        "桃园结义",
+        "洛水佳人",
+        "利兵谋胜"
+      ]
+    },
+    {
+      "file": "一分钟看懂心愿武将咋选 ，结合账号情况不再迷茫_逐帧深度学习报告_1秒版.docx",
+      "text_len": 6558,
+      "star_flags": [],
+      "name_flags": [],
+      "threshold_opportunities": [
+        "魏武之世",
+        "谋议宏图"
+      ]
+    },
+    {
+      "file": "两小一大保底说法是否属实？ 咱们一起长期进行记录验证。_逐帧深度学习报告_1秒版.docx",
+      "text_len": 5114,
+      "star_flags": [
+        {
+          "hero": "王烈",
+          "claimed": 4,
+          "real": 3,
+          "ctx": "第 9 天蜀汉卡包 王烈（四星白袍老人），「"
+        }
+      ],
+      "name_flags": [
+        {
+          "token": "假冲",
+          "likely": "假途",
+          "conf": "mid",
+          "ctx": 3721
+        }
+      ],
+      "threshold_opportunities": []
+    },
+    {
+      "file": "从零开始，宝物养成焚决，来了！ 刚进征服看见宝物系统，摸不着头脑？老是乱打一堆毫不适配的残品？别着急，北冥让你一篇看懂！_逐帧深度学习报告_1秒版.docx",
+      "text_len": 7242,
+      "star_flags": [
+        {
+          "hero": "文鸯",
+          "claimed": 4,
+          "real": 5,
+          "ctx": "展示晋阵营五星武将「文鸯」（4星白板）立绘，"
+        }
+      ],
+      "name_flags": [
+        {
+          "token": "制策",
+          "likely": "孙策",
+          "conf": "high",
+          "ctx": 2122
+        },
+        {
+          "token": "至策",
+          "likely": "孙策",
+          "conf": "high",
+          "ctx": 1375
+        }
+      ],
+      "threshold_opportunities": [
+        "洛水佳人"
+      ]
+    },
+    {
+      "file": "低红大张鲁前期实战 ，队伍咋样，实战来看！_逐帧深度学习报告_1秒版.docx",
+      "text_len": 8066,
+      "star_flags": [],
+      "name_flags": [],
+      "threshold_opportunities": [
+        "敛众定气",
+        "神兵天降",
+        "金匮要略",
+        "同仇敌忾",
+        "利兵谋胜"
+      ]
+    },
+    {
+      "file": "全新垒实体系震撼来袭！ 杜垒司见过没，杜预也能走垒实？_逐帧深度学习报告_1秒版.docx",
+      "text_len": 4496,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "长弓",
+          "likely": "马弓",
+          "conf": "mid",
+          "ctx": 1001
+        }
+      ],
+      "threshold_opportunities": [
+        "鼎足江东",
+        "谋议宏图",
+        "赏顺伐逆"
+      ]
+    },
+    {
+      "file": "全率土最全入门攻略合集!  来了!_逐帧深度学习报告_1秒版.docx",
+      "text_len": 4070,
+      "star_flags": [],
+      "name_flags": [],
+      "threshold_opportunities": [
+        "攻其不备",
+        "魏武之世",
+        "全军突击",
+        "奉令护蜀",
+        "无心恋战"
+      ]
+    },
+    {
+      "file": "全率土最全攻略合集—神赏篇 来了! 评论投稿，下期解析哦!_逐帧深度学习报告_1秒版.docx",
+      "text_len": 4416,
+      "star_flags": [],
+      "name_flags": [],
+      "threshold_opportunities": [
+        "大赏三军",
+        "神兵天降",
+        "单骑救主"
+      ]
+    },
+    {
+      "file": "全率土最全攻略合集！体系篇 ——战磐体系 来了！_逐帧深度学习报告_1秒版.docx",
+      "text_len": 4452,
+      "star_flags": [],
+      "name_flags": [],
+      "threshold_opportunities": [
+        "全军突击",
+        "伏波扬砂",
+        "奉令护蜀",
+        "心战为上",
+        "洛水佳人",
+        "审时定计"
+      ]
+    },
+    {
+      "file": "全率土最全攻略，战法篇! 重磅来袭!_逐帧深度学习报告_1秒版.docx",
+      "text_len": 5571,
+      "star_flags": [],
+      "name_flags": [],
+      "threshold_opportunities": [
+        "攻其不备",
+        "始计",
+        "三军之众",
+        "大赏三军",
+        "举贤决机",
+        "敛众定气",
+        "神兵天降",
+        "避其锋芒",
+        "黄天余音",
+        "洛水佳人",
+        "缓师徐持"
+      ]
+    },
+    {
+      "file": "全率土最细最全攻略合集—垒实篇投稿讲解 来了!多多留言，后续会定期抽取评论解析队伍。_逐帧深度学习报告_1秒版.docx",
+      "text_len": 5648,
+      "star_flags": [],
+      "name_flags": [],
+      "threshold_opportunities": [
+        "列营守险",
+        "皇裔流离",
+        "三军之众",
+        "当敌制决",
+        "金匮要略",
+        "谋议宏图",
+        "避其锋芒",
+        "同仇敌忾",
+        "洛水佳人",
+        "利兵谋胜"
+      ]
+    },
+    {
+      "file": "全率土最细最全攻略合集—战磐篇粉丝答疑 战磐篇粉丝答疑来了，看看有没有你的队伍？ 跟北冥多多互动，留言下期想看主五哪个体系？_逐帧深度学习报告_1秒版.docx",
+      "text_len": 4813,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "衡纪",
+          "likely": "衡轭",
+          "conf": "high",
+          "ctx": 913
+        }
+      ],
+      "threshold_opportunities": [
+        "始计",
+        "三军之众",
+        "全军突击",
+        "胜敌益强",
+        "鼎足江东",
+        "强势",
+        "洛水佳人",
+        "其徐如林",
+        "虎豹督军"
+      ]
+    },
+    {
+      "file": "全率土最细最全攻略合集—攻其篇 评论区投稿，下期点评队伍哦_逐帧深度学习报告_1秒版.docx",
+      "text_len": 4565,
+      "star_flags": [],
+      "name_flags": [],
+      "threshold_opportunities": [
+        "攻其不备",
+        "单骑救主",
+        "其疾如风",
+        "一夫当关",
+        "虎豹督军"
+      ]
+    },
+    {
+      "file": "全率土最细最全攻略合集—百战篇 来了!一篇带你看懂百战体系原理!_逐帧深度学习报告_1秒版.docx",
+      "text_len": 4430,
+      "star_flags": [],
+      "name_flags": [],
+      "threshold_opportunities": [
+        "攻其不备",
+        "无心恋战",
+        "避其锋芒"
+      ]
+    },
+    {
+      "file": "全率土最细最全攻略合集攻其篇—粉丝投稿解析 来了!看看粉丝们的奇思妙想吧_逐帧深度学习报告_1秒版.docx",
+      "text_len": 6375,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "长弓",
+          "likely": "马弓",
+          "conf": "mid",
+          "ctx": 1458
+        }
+      ],
+      "threshold_opportunities": [
+        "攻其不备",
+        "逆谋",
+        "一夫当关",
+        "虎豹督军"
+      ]
+    },
+    {
+      "file": "全率土最细最强攻略合集 神赏体系粉丝投稿解析，来了_逐帧深度学习报告_1秒版.docx",
+      "text_len": 4241,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "单计",
+          "likely": "始计",
+          "conf": "high",
+          "ctx": 763
+        }
+      ],
+      "threshold_opportunities": [
+        "魏武之世",
+        "大赏三军",
+        "久战熟谋",
+        "统军畏慎",
+        "强势",
+        "神兵天降",
+        "单骑救主",
+        "其徐如林",
+        "持节镇西",
+        "一夫当关"
+      ]
+    },
+    {
+      "file": "史上最混乱的剧本，来了！ 简直不敢想象有多好玩！_逐帧深度学习报告_1秒版.docx",
+      "text_len": 8592,
+      "star_flags": [],
+      "name_flags": [],
+      "threshold_opportunities": [
+        "奉令护蜀"
+      ]
+    },
+    {
+      "file": "垒实体系克制关系，来了! 下期带来大量粉丝投稿解析，期待一下有没有你!_逐帧深度学习报告_1秒版.docx",
+      "text_len": 4114,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "斩龙刀",
+          "likely": "斩马刀",
+          "conf": "mid",
+          "ctx": 455
+        }
+      ],
+      "threshold_opportunities": [
+        "密谋定蜀",
+        "大赏三军",
+        "敛众定气",
+        "神兵天降",
+        "避其锋芒"
+      ]
+    },
+    {
+      "file": "太后大加强，平民也有光! 太后大加强，平民也有光!_逐帧深度学习报告_1秒版.docx",
+      "text_len": 3384,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "血溅黄沙",
+          "likely": "血溅黄砂",
+          "conf": "high",
+          "ctx": 1460
+        }
+      ],
+      "threshold_opportunities": [
+        "攻其不备",
+        "三军之众",
+        "避其锋芒",
+        "洛水佳人",
+        "虎豹督军"
+      ]
+    },
+    {
+      "file": "孙权完全不适配张机 ，来看看有哪些常见误区_逐帧深度学习报告_1秒版.docx",
+      "text_len": 7117,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "張忌",
+          "likely": "猜忌",
+          "conf": "mid",
+          "ctx": 1333
+        },
+        {
+          "token": "英勇",
+          "likely": "骁勇",
+          "conf": "mid",
+          "ctx": 2118
+        },
+        {
+          "token": "薄朗",
+          "likely": "王朗",
+          "conf": "mid",
+          "ctx": 2697
+        }
+      ],
+      "threshold_opportunities": [
+        "始计",
+        "金匮要略",
+        "万箭齐发",
+        "洛水佳人",
+        "白楼独舞"
+      ]
+    },
+    {
+      "file": "孟获就是南蛮版张机！ 这个新体系缔造者，你看懂了吗？_逐帧深度学习报告_1秒版.docx",
+      "text_len": 7331,
+      "star_flags": [],
+      "name_flags": [],
+      "threshold_opportunities": [
+        "蛮王御众",
+        "一夫当关",
+        "恃强淬锋"
+      ]
+    },
+    {
+      "file": "平民怎么出法刀 北冥给你小妙招! 平民怎么出法刀 北冥给你小妙招!_逐帧深度学习报告_1秒版.docx",
+      "text_len": 3340,
+      "star_flags": [
+        {
+          "hero": "朱儁",
+          "claimed": 1,
+          "real": 5,
+          "ctx": "均为满红5星，而SP朱儁仅1星，用星级差异直"
+        }
+      ],
+      "name_flags": [
+        {
+          "token": "越英",
+          "likely": "越吉",
+          "conf": "mid",
+          "ctx": 3025
+        }
+      ],
+      "threshold_opportunities": [
+        "魏武之世",
+        "大赏三军",
+        "久战熟谋",
+        "神兵天降",
+        "单骑救主",
+        "持节镇西"
+      ]
+    },
+    {
+      "file": "平民种地焚决来了 10天必过两万五势力，无限套娃开分法，全赛季稳定过势力值任务，丝滑过渡金币期，稳扎稳打步步为营。_逐帧深度学习报告_1秒版.docx",
+      "text_len": 6127,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "民望",
+          "likely": "高望",
+          "conf": "mid",
+          "ctx": 4768
+        }
+      ],
+      "threshold_opportunities": []
+    },
+    {
+      "file": "张机如何显著降低败率？ 首先要理解张机这个武将最需要的是什么。_逐帧深度学习报告_1秒版.docx",
+      "text_len": 4604,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "司马沿",
+          "likely": "司马师",
+          "conf": "high",
+          "ctx": 3545
+        }
+      ],
+      "threshold_opportunities": [
+        "皇裔流离",
+        "三军之众",
+        "敛众定气",
+        "金匮要略",
+        "避其锋芒",
+        "同仇敌忾",
+        "利兵谋胜"
+      ]
+    },
+    {
+      "file": "徐庶能玩吗？ 当然可以，平民极佳的战磐选择，来了！_逐帧深度学习报告_1秒版.docx",
+      "text_len": 6329,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "运筹决算",
+          "likely": "运筹决胜",
+          "conf": "mid",
+          "ctx": 564
+        },
+        {
+          "token": "急战",
+          "likely": "连战",
+          "conf": "mid",
+          "ctx": 1050
+        }
+      ],
+      "threshold_opportunities": [
+        "全军突击"
+      ]
+    },
+    {
+      "file": "杜预垒实队，战报来了！ 一起来看看实战表现如何吧！_逐帧深度学习报告_1秒版.docx",
+      "text_len": 5154,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "激言龙凤",
+          "likely": "徽言龙凤",
+          "conf": "mid",
+          "ctx": 3511
+        }
+      ],
+      "threshold_opportunities": [
+        "攻其不备",
+        "魏武之世",
+        "全军突击",
+        "久战熟谋",
+        "鼎足江东",
+        "敛众定气",
+        "神兵天降",
+        "金匮要略",
+        "谋议宏图",
+        "赏顺伐逆",
+        "避其锋芒",
+        "同仇敌忾",
+        "利兵谋胜",
+        "其徐如林",
+        "一夫当关"
+      ]
+    },
+    {
+      "file": "武将咋加点？ 一篇看明白!_逐帧深度学习报告_1秒版.docx",
+      "text_len": 4428,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "谋律",
+          "likely": "谋主",
+          "conf": "mid",
+          "ctx": 864
+        }
+      ],
+      "threshold_opportunities": []
+    },
+    {
+      "file": "率土最细最全攻略合集—垒实篇 评论抢点评! 把你们的垒实配队放在评论区哦!下期抽取点评别错过!_逐帧深度学习报告_1秒版.docx",
+      "text_len": 4917,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "司马艺",
+          "likely": "司马师",
+          "conf": "high",
+          "ctx": 1573
+        },
+        {
+          "token": "回水",
+          "likely": "回马",
+          "conf": "high",
+          "ctx": 1665
+        },
+        {
+          "token": "张苞",
+          "likely": "张横",
+          "conf": "mid",
+          "ctx": 3276
+        }
+      ],
+      "threshold_opportunities": [
+        "密谋定蜀",
+        "皇裔流离",
+        "三军之众",
+        "敛众定气",
+        "无心恋战",
+        "神兵天降",
+        "金匮要略",
+        "避其锋芒",
+        "同仇敌忾",
+        "审时定计",
+        "利兵谋胜",
+        "其徐如林"
+      ]
+    },
+    {
+      "file": "率土武将志—文鸯、程昱 文鸯程昱武将详解来了!_逐帧深度学习报告_1秒版.docx",
+      "text_len": 5595,
+      "star_flags": [],
+      "name_flags": [],
+      "threshold_opportunities": [
+        "攻其不备",
+        "密谋定蜀",
+        "无心恋战",
+        "金匮要略",
+        "其疾如风",
+        "审时定计",
+        "一夫当关",
+        "虎豹督军"
+      ]
+    },
+    {
+      "file": "率土武将志—贾诩 使用手册来了!一篇全看懂!_逐帧深度学习报告_1秒版.docx",
+      "text_len": 5986,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "夹许",
+          "likely": "夹攻",
+          "conf": "mid",
+          "ctx": 607
+        },
+        {
+          "token": "天资",
+          "likely": "天禄",
+          "conf": "mid",
+          "ctx": 1696
+        },
+        {
+          "token": "成绿",
+          "likely": "成宜",
+          "conf": "mid",
+          "ctx": 1785
+        },
+        {
+          "token": "扰后",
+          "likely": "妒后",
+          "conf": "mid",
+          "ctx": 2788
+        }
+      ],
+      "threshold_opportunities": [
+        "久战熟谋",
+        "鼎足江东",
+        "审时定计"
+      ]
+    },
+    {
+      "file": "率土武将志—魏晋篇，来了 率土最全武将志，所有武将该拆改留，有什么价值，全部讲清楚_逐帧深度学习报告_1秒版.docx",
+      "text_len": 10088,
+      "star_flags": [],
+      "name_flags": [],
+      "threshold_opportunities": [
+        "密谋定蜀",
+        "魏武之世",
+        "皇裔流离",
+        "敛众定气",
+        "无心恋战",
+        "神兵天降",
+        "谋议宏图",
+        "避其锋芒",
+        "一夫当关"
+      ]
+    },
+    {
+      "file": "程昱魏智最强搭配—所有细节一篇看懂 魏智的宝物你真的带对了吗？_逐帧深度学习报告_1秒版.docx",
+      "text_len": 6397,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "归心",
+          "likely": "攻心",
+          "conf": "mid",
+          "ctx": 305
+        }
+      ],
+      "threshold_opportunities": [
+        "久战熟谋"
+      ]
+    },
+    {
+      "file": "空城 一夫 单骑 反计应该如何选择？ 一篇内容讲清楚，让你不再迷茫!_逐帧深度学习报告_1秒版.docx",
+      "text_len": 7979,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "护主",
+          "likely": "谋主",
+          "conf": "mid",
+          "ctx": 1434
+        }
+      ],
+      "threshold_opportunities": [
+        "攻其不备",
+        "魏武之世",
+        "大赏三军",
+        "神兵天降",
+        "黄天余音",
+        "单骑救主",
+        "其疾如风",
+        "一夫当关",
+        "白楼独舞"
+      ]
+    },
+    {
+      "file": "粉丝赞不绝口的队伍来咯！ 感谢粉丝分享！_逐帧深度学习报告_1秒版.docx",
+      "text_len": 5043,
+      "star_flags": [],
+      "name_flags": [],
+      "threshold_opportunities": [
+        "魏武之世",
+        "大赏三军",
+        "神兵天降"
+      ]
+    },
+    {
+      "file": "纯刀居然还有上升空间？ 一个改动，拉高强度_逐帧深度学习报告_1秒版.docx",
+      "text_len": 3796,
+      "star_flags": [],
+      "name_flags": [],
+      "threshold_opportunities": [
+        "攻其不备",
+        "单骑救主",
+        "其疾如风",
+        "虎豹督军"
+      ]
+    },
+    {
+      "file": "装糖队到底糖不糖 一支拉满细节的队伍，非常值得推敲。  原创队伍。_逐帧深度学习报告_1秒版.docx",
+      "text_len": 4615,
+      "star_flags": [],
+      "name_flags": [],
+      "threshold_opportunities": [
+        "始计",
+        "三军之众",
+        "强势",
+        "敛众定气"
+      ]
+    },
+    {
+      "file": "赛季奖励卡包咋选？ 个人评定奖励拿啥？一期看懂_逐帧深度学习报告_1秒版.docx",
+      "text_len": 4806,
+      "star_flags": [
+        {
+          "hero": "于禁",
+          "claimed": 4,
+          "real": 5,
+          "ctx": "2 | 第三抽：魏·于禁（4星）。\n01:4"
+        },
+        {
+          "hero": "刘表",
+          "claimed": 4,
+          "real": 5,
+          "ctx": "7 | 第一抽：汉·刘表（4星）。\n01:3"
+        }
+      ],
+      "name_flags": [],
+      "threshold_opportunities": []
+    },
+    {
+      "file": "距离思路究极细节 ，普攻距离和战法距离，真的是越远越好吗？_逐帧深度学习报告_1秒版.docx",
+      "text_len": 4564,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "斩龙刀",
+          "likely": "斩马刀",
+          "conf": "mid",
+          "ctx": 398
+        },
+        {
+          "token": "司马帝",
+          "likely": "司马师",
+          "conf": "high",
+          "ctx": 1032
+        },
+        {
+          "token": "法谋",
+          "likely": "重谋",
+          "conf": "high",
+          "ctx": 1088
+        }
+      ],
+      "threshold_opportunities": [
+        "神兵天降"
+      ]
+    },
+    {
+      "file": "这战法概率也太夸张了！ 也没人说甘宁带及锋概率能到80啊！_逐帧深度学习报告_1秒版.docx",
+      "text_len": 6511,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "列阵",
+          "likely": "乱阵",
+          "conf": "mid",
+          "ctx": 1344
+        },
+        {
+          "token": "司马盐",
+          "likely": "司马师",
+          "conf": "high",
+          "ctx": 1577
+        },
+        {
+          "token": "英勇",
+          "likely": "骁勇",
+          "conf": "mid",
+          "ctx": 5155
+        },
+        {
+          "token": "骁锐",
+          "likely": "骁勇",
+          "conf": "mid",
+          "ctx": 5182
+        },
+        {
+          "token": "天资",
+          "likely": "天禄",
+          "conf": "mid",
+          "ctx": 5186
+        },
+        {
+          "token": "折击",
+          "likely": "追击",
+          "conf": "high",
+          "ctx": 5777
+        },
+        {
+          "token": "雷石",
+          "likely": "炬石",
+          "conf": "mid",
+          "ctx": 5787
+        },
+        {
+          "token": "脸众",
+          "likely": "合众",
+          "conf": "mid",
+          "ctx": 5791
+        }
+      ],
+      "threshold_opportunities": [
+        "始计",
+        "三军之众",
+        "敛众定气",
+        "谋议宏图"
+      ]
+    },
+    {
+      "file": "这次调整受伤的只有周泰! 我们周泰是不美吗？_逐帧深度学习报告_1秒版.docx",
+      "text_len": 5357,
+      "star_flags": [],
+      "name_flags": [],
+      "threshold_opportunities": [
+        "皇裔流离",
+        "敛众定气",
+        "无心恋战"
+      ]
+    },
+    {
+      "file": "配将焚决来了 全体系队伍搭建思路最后一期，真焚决—宏观配将法，来了! 跟合集内容全部融会贯通，你也能成配将大手子!_逐帧深度学习报告_1秒版.docx",
+      "text_len": 5247,
+      "star_flags": [],
+      "name_flags": [
+        {
+          "token": "降配",
+          "likely": "审配",
+          "conf": "mid",
+          "ctx": 700
+        }
+      ],
+      "threshold_opportunities": []
+    },
+    {
+      "file": "高顺领衔群骑，来了！ 8回合高频解控，四重增伤，非常均衡的一队。_逐帧深度学习报告_1秒版.docx",
+      "text_len": 4336,
+      "star_flags": [],
+      "name_flags": [],
+      "threshold_opportunities": [
+        "全军突击"
+      ]
+    }
+  ]
+}

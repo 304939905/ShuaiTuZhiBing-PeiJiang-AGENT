@@ -1,0 +1,1139 @@
+{
+  "adjudicated_at": "2026-09-13",
+  "scope": 66,
+  "candidate_count": 70,
+  "resolved_count": 70,
+  "unresolved_count": 0,
+  "p0_pass_reports": 66,
+  "verdict_counts": {
+    "pass_boundary_statement": 6,
+    "pass_check_boundary": 7,
+    "pass_current_db_verified": 5,
+    "pass_local_mechanism_evidence": 1,
+    "pass_mechanism_verified": 27,
+    "pass_safety_gate": 8,
+    "pass_scope_labeled": 16
+  },
+  "edited_reports": [
+    "报告库/旧56项目/精编/孟获就是南蛮版张机！ 这个新体系缔造者，你看懂了吗？_精修学习报告.docx",
+    "报告库/旧56项目/精编/太后大加强，平民也有光! 太后大加强，平民也有光!_精修学习报告.docx",
+    "报告库/阵容新批/重蒸馏_2至13_20260911/11_先识别队伍核心再纠错_重蒸馏学习报告.docx",
+    "报告库/阵容新批/重蒸馏_2至13_20260911/09_平民账号只配三队的决策_重蒸馏学习报告.docx",
+    "报告库/阵容新批/重蒸馏_2至13_20260911/06_有战法但缺核心武将时如何止损_重蒸馏学习报告.docx"
+  ],
+  "source_retirement_ready": false,
+  "source_retirement_note": "P0通过不等于允许删除源材料；仍需完成跨报告一致性验收和最终抽检。",
+  "results": [
+    {
+      "no": "001",
+      "report_heading": "S赛季资源受限的四队分配",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/10_S赛季资源受限的四队分配_重蒸馏学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "002",
+      "report_heading": "XP孟获的南蛮承伤触发体系",
+      "rel": "报告库/旧56项目/精编/孟获就是南蛮版张机！ 这个新体系缔造者，你看懂了吗？_精修学习报告.docx",
+      "decisions": [
+        {
+          "code": "historical_numeric_claim_labeled",
+          "severity": "low",
+          "text": "因此，1440%适合用来解释多次触发的理论上限，不适合拿来与辕门射戟等单次战法直接比较。视频中的“每挨打5次”也不是叠到15层才一次结算，而是每达到一个五次门槛就触发。",
+          "detail": "辕门射戟：历史口径，报告数值 1440%, 5次 未直接出现在当前库",
+          "verdict": "pass_scope_labeled",
+          "reason": "数值已明确限定为视频历史画面、单场战报或旧参数，没有冒充当前通用参数。"
+        },
+        {
+          "code": "scarce_resource_decision",
+          "severity": "high",
+          "text": "恃强淬锋更适合攻击属性高、能频繁造成攻击伤害且需要一定策略抗性的物理武将。其策略减伤会随受策伤逐步降低，不能当成稳定不衰减的全程减伤；增伤成长也需要回合或攻击次数。视频给出“适配高红”和“建议别拆”，前者是属性收益判断，后者对首张XP孟获尤其合理。",
+          "detail": "涉及拆解、兑换或五星觉醒等不可轻易逆转决策",
+          "verdict": "pass_safety_gate",
+          "reason": "该句要求首张核心卡优先保留，或要求拆解/觉醒前完成账号级核算；没有无条件推动不可逆操作。"
+        },
+        {
+          "code": "historical_numeric_claim_labeled",
+          "severity": "low",
+          "text": "[表2行2] 减伤面板 | 一处战报显示蛮王御众59%+藤甲30%+藤甲兵对弓兵相克30%，列表合计119%，本次按90%生效 | 证明该局多来源减伤进入结算并受90%上限约束；不能反推所有同名或同类效果都能叠加",
+          "detail": "蛮王御众：历史口径，报告数值 119%, 30%, 59%, 90% 未直接出现在当前库",
+          "verdict": "pass_scope_labeled",
+          "reason": "数值已明确限定为视频历史画面、单场战报或旧参数，没有冒充当前通用参数。"
+        },
+        {
+          "code": "historical_numeric_claim_labeled",
+          "severity": "low",
+          "text": "[表2行5] 实战样本 | 大营木鹿大王（群骑五星，夔吼象踏版本）、中军兀突骨（群步五星，藤甲突击版本）、前锋孟获获胜；蛮王御众触发7次，造成7793杀伤 | 样本量仅1。可验证触发链和站位，不足以证明胜率、环境强度或最优战法",
+          "detail": "夔吼象踏、藤甲突击、蛮王御众、突击：历史口径，报告数值 7次 未直接出现在当前库",
+          "verdict": "pass_scope_labeled",
+          "reason": "数值已明确限定为视频历史画面、单场战报或旧参数，没有冒充当前通用参数。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "003",
+      "report_heading": "七擒七纵与磐阵善守的替换条件",
+      "rel": "报告库/旧56项目/精编/七擒七纵就是高配磐阵 ，战磐体系迎来全面加强，七擒七纵强度不错。_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "004",
+      "report_heading": "七组低星队伍案例的配置与适用条件",
+      "rel": "报告库/赛季/精编/盘点全网最强四星神队排名，从第八到第一，越往后越离谱，都有配置和战报！_精修学习报告.docx",
+      "decisions": [
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "3. 然后检查条件。形兵看实际兵系，计险远近看基础攻击距离，追击看能否普攻，枭雄看主动战法限制，神赏看前期覆盖。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "[表1行3] 六 | 四星小桃园 | 大营 汉步4刘备〔义勇军〕：援军秘策、增援 中军 蜀步4关羽〔迎险御侮〕：斩铁、破胆 前锋 蜀步4张飞〔锐矛贯体〕：青囊秘要、斩铁 | 恢复与控制要在大量失兵前生效。两份斩铁不会自动叠加控制。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "[表1行5] 四 | 蜀智 | 大营 蜀5诸葛亮〔诸葛锦囊〕：连环、形兵之极 中军 蜀步4庞统〔索命连环〕：焰焚箕轸、绝水遏敌 前锋 蜀骑4徐庶〔沙场破阵〕：先驱突击、始计 | 形兵按实际出战兵系核对。单体易伤不覆盖全部目标，且队伍怕物理普攻。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "005",
+      "report_heading": "三支主力的候选筛选与稀缺战法分配",
+      "rel": "报告库/阵容新批/精编/video_来来来兄弟们，继续配将，免费粉丝..._top_0_3_精编学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "006",
+      "report_heading": "主力集中与工具队分层",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/05_主力集中与工具队分层_重蒸馏学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "007",
+      "report_heading": "从三队缩减为两队的资源集中判断",
+      "rel": "报告库/阵容新批/精编/五队并三队，三队并两队，样样通样...（抖音标题被文件名截断）_精编学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "008",
+      "report_heading": "从付费方案反推全局资源错误",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/12_从付费方案反推全局资源错误_重蒸馏学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "009",
+      "report_heading": "低投入账号如何评价三皇价值",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/13_低投入账号如何评价三皇价值_重蒸馏学习报告.docx",
+      "decisions": [
+        {
+          "code": "scarce_resource_decision",
+          "severity": "high",
+          "text": "[表1行2] 曹操 | 可进入的常见队伍外壳较多 | 队友覆盖、低红可用性、距离与属性功能 | 当前账号一定优先觉醒或一定最强",
+          "detail": "涉及拆解、兑换或五星觉醒等不可轻易逆转决策",
+          "verdict": "pass_safety_gate",
+          "reason": "该句要求首张核心卡优先保留，或要求拆解/觉醒前完成账号级核算；没有无条件推动不可逆操作。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "010",
+      "report_heading": "低星武将留卡的用途与取舍",
+      "rel": "报告库/赛季/精编/萌新这些四星卡千万别拆了，s赛季有大用！_精修学习报告.docx",
+      "decisions": [
+        {
+          "code": "strength_or_battle_generalization",
+          "severity": "high",
+          "text": "碰瓷队的目标是以较低投入换取对方损耗，不应与满兵主力按胜率单一比较。没有配套战法时，保留成员只代表保留未来选择。",
+          "detail": "强度或胜率表述缺少同句样本边界",
+          "verdict": "pass_boundary_statement",
+          "reason": "该句是在禁止由少量样本外推胜率、克制或排名，属于可靠性边界，不是强度断言。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "011",
+      "report_heading": "低红大张鲁的前期承压与反打",
+      "rel": "报告库/旧56项目/精编/低红大张鲁前期实战 ，队伍咋样，实战来看！_精修学习报告.docx",
+      "decisions": [
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "张机的金匮要略负责前三回合全队减伤与受伤急救；大乔的避锐治气覆盖前四回合，通过受伤阈值触发恢复并逐步压低敌方单位造成的所有伤害。两者共同构成前期底盘。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        },
+        {
+          "code": "historical_numeric_claim_labeled",
+          "severity": "low",
+          "text": "对黄盖、吕蒙、刘徽的一场胜利：我方17485/19894，对方908/17882；鲁肃的利兵谋胜发动4次，画面统计杀伤5145、救援3699，说明该场鲁肃并非纯辅助。",
+          "detail": "利兵谋胜：历史口径，报告数值 4次 未直接出现在当前库",
+          "verdict": "pass_scope_labeled",
+          "reason": "数值已明确限定为视频历史画面、单场战报或旧参数，没有冒充当前通用参数。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "4. 用于真实账号前，全局核算避锐治气、三术奇谋、垒实迎击、正始之变、利兵谋胜等稀缺战法是否与前三主力冲突。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        },
+        {
+          "code": "unlabeled_numeric_claim",
+          "severity": "medium",
+          "text": "[表2行4] 正始窗口 | 达到15次伤害门槛后，下一回合提供犹豫与主动/追击再次发动机会 | 巧音唤蝶、三术奇谋、敛众定气、利兵谋胜中哪些实际成功发动并被再次发动",
+          "detail": "利兵谋胜、巧音唤蝶、三术奇谋、敛众定气、奇谋：数值 15次 未标明当前或历史口径",
+          "verdict": "pass_current_db_verified",
+          "reason": "正始之变当前本地满级文本为累计15次伤害后于下回合触发，报告口径一致。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "012",
+      "report_heading": "何太后的前四回合防护与两套队伍骨架",
+      "rel": "报告库/旧56项目/精编/太后大加强，平民也有光! 太后大加强，平民也有光!_精修学习报告.docx",
+      "decisions": [
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "1. 母仪浮梦提供的首次攻击规避属于规避状态。与垒实迎击等其他规避来源相遇时，规避状态本身不可重复叠加；不能把多个规避来源当成同时生效的多层免伤。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "2. 母仪浮梦与避其锋芒都服务于前期减伤，但触发对象、作用方向和覆盖人数不同。配将时不得直接把40%与30%相加，应依据同类效果冲突规则和实际战报查看每一层是否生效。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        },
+        {
+          "code": "historical_numeric_claim_labeled",
+          "severity": "low",
+          "text": "2. 母仪浮梦与避其锋芒都服务于前期减伤，但触发对象、作用方向和覆盖人数不同。配将时不得直接把40%与30%相加，应依据同类效果冲突规则和实际战报查看每一层是否生效。",
+          "detail": "避其锋芒、母仪浮梦：历史口径，报告数值 30%, 40% 未直接出现在当前库",
+          "verdict": "pass_scope_labeled",
+          "reason": "数值已明确限定为视频历史画面、单场战报或旧参数，没有冒充当前通用参数。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "视频没有实战战报、胜率、红度、加点、兵种与完整环境样本。Lv.40、cost、宝物与两套战法位是历史画面事实；60.0%和40.0%已由当前本地战法库复核。未来若客户端调整母仪浮梦、知己知彼等战法，应以新客户端与更新后的本地资料库覆盖本报告中的当前参数。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "[表3行4] 前锋职责 | 何太后用垒实迎击承伤、自净、恢复、规避和援护，以浑水摸鱼补控制 | 何太后用避其锋芒叠加早期防护窗口，以浑水摸鱼补控制",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "013",
+      "report_heading": "先识别队伍核心再纠错",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/11_先识别队伍核心再纠错_重蒸馏学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "014",
+      "report_heading": "内政点分配顺序与重置止损",
+      "rel": "报告库/旧56项目/精编/内政点到底咋分配？ 分配的艺术，一篇看懂。_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "015",
+      "report_heading": "分城开发循环与势力值转型",
+      "rel": "报告库/旧56项目/精编/平民种地焚决来了 10天必过两万五势力，无限套娃开分法，全赛季稳定过势力值任务，丝滑过渡金币期，稳扎稳打步步为营。_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "016",
+      "report_heading": "同阵容不同账号为何会变质",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/02_同阵容不同账号为何会变质_重蒸馏学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "017",
+      "report_heading": "四星甘宁碰瓷队的低成本爆发逻辑",
+      "rel": "报告库/阵容新批/精编/率土平民队伍之甘宁碰瓷队_精编学习报告.docx",
+      "decisions": [
+        {
+          "code": "strength_or_battle_generalization",
+          "severity": "high",
+          "text": "素材只有一胜一负，不能据此推导胜率、固定克制或夸张武勋承诺。",
+          "detail": "强度或胜率表述缺少同句样本边界",
+          "verdict": "pass_boundary_statement",
+          "reason": "该句是在禁止由少量样本外推胜率、克制或排名，属于可靠性边界，不是强度断言。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "018",
+      "report_heading": "四星蜀智案例的配置与取舍",
+      "rel": "报告库/赛季/精编/最强四星0氪蜀之智，萌新玩家必看_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "019",
+      "report_heading": "四类前期保护战法的选择框架",
+      "rel": "报告库/旧56项目/精编/空城 一夫 单骑 反计应该如何选择？ 一篇内容讲清楚，让你不再迷茫!_精修学习报告.docx",
+      "decisions": [
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "[表1行2] 反计之策 | 主动战法伤害压制；首回合犹豫 | 敌方主动伤害占比、目标覆盖与关键回合 | 同时封住普通攻击和追击",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "020",
+      "report_heading": "垒实体系的克制判断框架",
+      "rel": "报告库/旧56项目/精编/垒实体系克制关系，来了! 下期带来大量粉丝投稿解析，期待一下有没有你!_精修学习报告.docx",
+      "decisions": [
+        {
+          "code": "strength_or_battle_generalization",
+          "severity": "high",
+          "text": "禁疗、绕开携带者、减少无效普通攻击、稳定控制关键行动等，也可能改变对局。任何“天敌”结论都要回到具体战法与战报。",
+          "detail": "强度或胜率表述缺少同句样本边界",
+          "verdict": "pass_boundary_statement",
+          "reason": "该句是在禁止由少量样本外推胜率、克制或排名，属于可靠性边界，不是强度断言。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "021",
+      "report_heading": "垒实体系的长回合防守结构",
+      "rel": "报告库/旧56项目/精编/率土最细最全攻略合集—垒实篇 评论抢点评! 把你们的垒实配队放在评论区哦!下期抽取点评别错过!_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "022",
+      "report_heading": "垒实投稿的常见配队错误",
+      "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—垒实篇投稿讲解 来了!多多留言，后续会定期抽取评论解析队伍。_精修学习报告.docx",
+      "decisions": [
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "张机的金匮要略需要我军实际受到伤害才判定恢复；孙权的九锡黄龙提供规避。规避成功时没有这次受伤事件，因此会减少金匮的恢复判定入口。这是触发竞争，不是战法硬冲突。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "青丘媚祸是指挥战法，浑水摸鱼是主动战法，两者不存在“同类控制后释放必失效”的硬冲突。暴走与混乱可能在目标和回合上产生收益重叠，应称为配置冗余风险。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        },
+        {
+          "code": "strength_or_battle_generalization",
+          "severity": "high",
+          "text": "投稿没有实战胜率，部分判断属于作者经验。武将版本、战法文本、赛季可用性和稀缺战法占用必须在当前账号重新核验。",
+          "detail": "强度或胜率表述缺少同句样本边界",
+          "verdict": "pass_boundary_statement",
+          "reason": "该句是在禁止由少量样本外推胜率、克制或排名，属于可靠性边界，不是强度断言。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "023",
+      "report_heading": "孙权与张机同队的功能重叠判断",
+      "rel": "报告库/旧56项目/精编/孙权完全不适配张机 ，来看看有哪些常见误区_精修学习报告.docx",
+      "decisions": [
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "3. 检查规避来源。九锡黄龙、磐阵善守和其他规避状态不可叠加；同回合重复覆盖不等于保护次数相加。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "[表1行4] 磐阵善守 | 保护最低兵力目标并给随机单体规避 | 前期回合、目标与按次保护匹配 | 与九锡黄龙同为规避状态，重叠时不可叠加",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "024",
+      "report_heading": "宁元刀的先手追击链与资源门槛",
+      "rel": "报告库/阵容新批/精编/率土之滨队伍推荐第16队——宁元刀（黑科技）（碰瓷）_精编学习报告.docx",
+      "decisions": [
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "持节镇西在相关事件前叠加攻击、士气或防御；破阵强袭依赖普攻后的追击并在首次触发后积累策略伤害。疾战当前为主动战法，不能误写成被动稳定触发。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        },
+        {
+          "code": "strength_or_battle_generalization",
+          "severity": "high",
+          "text": "素材仅展示一平一胜，不能推出胜率。战法数量、陈寿敏学、赛季可用性与当前文本必须按账号复核。",
+          "detail": "强度或胜率表述缺少同句样本边界",
+          "verdict": "pass_boundary_statement",
+          "reason": "该句是在禁止由少量样本外推胜率、克制或排名，属于可靠性边界，不是强度断言。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "025",
+      "report_heading": "宝物养成的账号适配与锻造止损",
+      "rel": "报告库/旧56项目/精编/从零开始，宝物养成焚决，来了！ 刚进征服看见宝物系统，摸不着头脑？老是乱打一堆毫不适配的残品？别着急，北冥让你一篇看懂！_精编学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "026",
+      "report_heading": "平民账号只配三队的决策",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/09_平民账号只配三队的决策_重蒸馏学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "027",
+      "report_heading": "开荒专题：从配队到翻车补救的决策框架",
+      "rel": "报告库/开荒/精编/开荒专题（5视频合并）_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "028",
+      "report_heading": "张春华小乔乐进的控制链设计",
+      "rel": "报告库/旧56项目/精编/装糖队到底糖不糖 一支拉满细节的队伍，非常值得推敲。  原创队伍。_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "029",
+      "report_heading": "张机恢复稳定性与士气检查",
+      "rel": "报告库/旧56项目/精编/张机如何显著降低败率？ 首先要理解张机这个武将最需要的是什么。_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "030",
+      "report_heading": "徐庶曹植汉吕布的联动条件",
+      "rel": "报告库/旧56项目/精编/徐庶能玩吗？ 当然可以，平民极佳的战磐选择，来了！_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "031",
+      "report_heading": "战法属性阈值与参数速查",
+      "rel": "报告库/战法阈值精简学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "032",
+      "report_heading": "战法搭配的冲突、攻防与顺序",
+      "rel": "报告库/旧56项目/精编/全率土最全攻略，战法篇! 重磅来袭!_精修学习报告.docx",
+      "decisions": [
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "关键词：战法冲突、指挥、主动、被动、追击、数值替换、不可叠加、攻防板块、下限、上限、释放顺序",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_check_boundary",
+          "reason": "该句要求在实际配将时继续检查，并未把未核实关系写成既定冲突。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "神兵天降与攻其不备被用于说明同类增伤检查；不攻与大赏三军被用于说明不可叠加效果的先后。具体是否冲突，仍要以当前两张战法文本逐效果核对。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "[表1行2] 同类 相同持续效果 | 数值替换 | 保留高值预期，标出低值失效部分 | 动摇、恐慌、妖术、火攻、休整、持续性急救",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "033",
+      "report_heading": "战磐体系的建队与检验框架",
+      "rel": "报告库/旧56项目/精编/全率土最全攻略合集！体系篇 ——战磐体系 来了！_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "034",
+      "report_heading": "战磐投稿的克制与失败模式",
+      "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—战磐篇粉丝答疑 战磐篇粉丝答疑来了，看看有没有你的队伍？ 跟北冥多多互动，留言下期想看主五哪个体系？_精修学习报告.docx",
+      "decisions": [
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "九锡黄龙与磐阵善守都可提供规避。规避状态不可叠加，孙权队不能把两个来源的次数简单相加。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "[表1行4] 华雄 曹纯 木鹿 | 全军突击提供解控和输出支持 | 象兵野性使木鹿不受战必、磐阵等指挥效果，存在覆盖浪费 | 学习特殊兵种与队伍机制互斥",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_local_mechanism_evidence",
+          "reason": "本地逐帧证据明确显示巨象兵种的野性为不受指挥战法影响，战报日志也记录木鹿大王不受指挥战法影响；因此战必、磐阵对木鹿本人的覆盖会失效。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "035",
+      "report_heading": "攻其不备体系投稿解析与配队判断",
+      "rel": "报告库/标杆/攻其不备体系投稿解析与配队判断_当前标杆_20260907.docx",
+      "decisions": [
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "2. 再核对增伤。分别记录攻其不备、武将自带战法和学习战法的类型、对象与生效时段，按冲突规则排除同类同效果的无效叠加。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "投稿一最适合学习“段数、增伤、保护、距离”如何同时检查，但不能直接接受“三重增伤”结论。攻其不备、虎豹督军和文伐必须分别核对效果与冲突，确认实际留下多少有效增益。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_check_boundary",
+          "reason": "该句要求在实际配将时继续检查，并未把未核实关系写成既定冲突。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "[表1行2] 一 00:08 | 大营 普通群骑5祝融夫人〔火兽冲锋〕 中军 群骑5木鹿大王〔夔吼象踏〕 前锋 魏骑5曹纯〔虎豹督军〕 | 祝融：疾击其后、先驱突击 木鹿：攻其不备、文伐 曹纯：反计之策、空城 | 段数和增伤思路成立，反计加空城提供一定保护；作者认为稳定性仍有不足。建议钜黍补祝融距离，并以三军齐出替换疾击其后。 | 先核对三项增伤是否冲突，…",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_check_boundary",
+          "reason": "该句要求在实际配将时继续检查，并未把未核实关系写成既定冲突。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "036",
+      "report_heading": "攻其不备的叠层与出手窗口",
+      "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—攻其篇 评论区投稿，下期点评队伍哦_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "037",
+      "report_heading": "攻击距离与战法距离的落点控制",
+      "rel": "报告库/旧56项目/精编/距离思路究极细节 ，普攻距离和战法距离，真的是越远越好吗？_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "038",
+      "report_heading": "文鸯与程昱的武将价值和拆解取舍",
+      "rel": "报告库/旧56项目/精编/率土武将志—文鸯、程昱 文鸯程昱武将详解来了!_精修学习报告.docx",
+      "decisions": [
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "2. 程昱可提供乘间击隙。它要求携带者发动主动主战法来叠加攻击伤害，三层后对敌军群体攻击并清除增伤；适合有主动自带战法、能持续发动且具物理输出价值的携带者。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        },
+        {
+          "code": "scarce_resource_decision",
+          "severity": "high",
+          "text": "3. 拆卡前比较本体边际价值与拆解战法能否立刻补齐现有主队；首张核心卡默认保留。",
+          "detail": "涉及拆解、兑换或五星觉醒等不可轻易逆转决策",
+          "verdict": "pass_safety_gate",
+          "reason": "该句要求首张核心卡优先保留，或要求拆解/觉醒前完成账号级核算；没有无条件推动不可逆操作。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "[表2行2] 文鸯 | 普通攻击机会、追击可用性、有效增伤与目标覆盖 | 速度高等于输出稳定；历史无保护阵容等于永远不需要保护 | 检查怯战、规避、援护、追击冲突及士气环境",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "039",
+      "report_heading": "无孙权账号的替代开荒与四队分配",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/07_无孙权账号的替代开荒与四队分配_重蒸馏学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "040",
+      "report_heading": "普攻距离与战法距离的配将方法",
+      "rel": "报告库/旧56项目/精编/全率土最全入门攻略合集!  来了!_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "041",
+      "report_heading": "曹彰木鹿曹操队的触发链与适用边界",
+      "rel": "报告库/阵容新批/精编/撸铁队详解_精编学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "042",
+      "report_heading": "有战法但缺核心武将时如何止损",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/06_有战法但缺核心武将时如何止损_重蒸馏学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "043",
+      "report_heading": "杜预垒实战报的证据边界",
+      "rel": "报告库/旧56项目/精编/杜预垒实队，战报来了！ 一起来看看实战表现如何吧！_精修学习报告.docx",
+      "decisions": [
+        {
+          "code": "strength_or_battle_generalization",
+          "severity": "high",
+          "text": "视频挑选的是粉丝投稿战报，没有总对局数、败报比例、双方红度、宝物和速度对照，因此不能计算胜率，也不能建立环境排名。",
+          "detail": "强度或胜率表述缺少同句样本边界",
+          "verdict": "pass_boundary_statement",
+          "reason": "该句是在禁止由少量样本外推胜率、克制或排名，属于可靠性边界，不是强度断言。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "044",
+      "report_heading": "杜预贾充司马炎的触发链",
+      "rel": "报告库/旧56项目/精编/全新垒实体系震撼来袭！ 杜垒司见过没，杜预也能走垒实？_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "045",
+      "report_heading": "核心战法单份时的三队资源分配",
+      "rel": "报告库/阵容新批/精编/video_免费粉丝配将第十一期，继续配将。..._top_0_2_精编学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "046",
+      "report_heading": "武将加点与队内速度排序",
+      "rel": "报告库/旧56项目/精编/武将咋加点？ 一篇看明白!_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "047",
+      "report_heading": "甘宁及锋而试82发动率与配将路线",
+      "rel": "报告库/旧56项目/精编/这战法概率也太夸张了！ 也没人说甘宁带及锋概率能到80啊！_精修学习报告.docx",
+      "decisions": [
+        {
+          "code": "historical_numeric_claim_labeled",
+          "severity": "low",
+          "text": "视频能确认的结论是：在当时的甘宁、司马炎配置与高士气环境中，战斗日志显示及锋而试的当前发动率达到82%，汜水关达到74%。这两个数字是历史实战面板结果，不是可直接迁移到当前账号的固定公式；视频没有完整展示每一项加成如何相加。",
+          "detail": "及锋而试、汜水关：历史口径，报告数值 74%, 82% 未直接出现在当前库",
+          "verdict": "pass_scope_labeled",
+          "reason": "数值已明确限定为视频历史画面、单场战报或旧参数，没有冒充当前通用参数。"
+        },
+        {
+          "code": "historical_numeric_claim_labeled",
+          "severity": "low",
+          "text": "司马炎的谋议宏图每回合提高全队士气。视频战报显示甘宁士气达到198时，发动率与效果生效几率增幅为49%；这能解释为什么作者把司马炎视为高发动率支点，但不能据此反推出一条通用加法公式。",
+          "detail": "谋议宏图：历史口径，报告数值 49% 未直接出现在当前库",
+          "verdict": "pass_scope_labeled",
+          "reason": "数值已明确限定为视频历史画面、单场战报或旧参数，没有冒充当前通用参数。"
+        },
+        {
+          "code": "historical_numeric_claim_labeled",
+          "severity": "low",
+          "text": "视频中的82%是及锋而试在某一回合的最终当前发动率，74%是汜水关的最终当前发动率。两者基础概率不同，因此即使接受同一套士气和武将加成，最终值也不会相同。",
+          "detail": "及锋而试、汜水关：历史口径，报告数值 74%, 82% 未直接出现在当前库",
+          "verdict": "pass_scope_labeled",
+          "reason": "数值已明确限定为视频历史画面、单场战报或旧参数，没有冒充当前通用参数。"
+        },
+        {
+          "code": "historical_numeric_claim_labeled",
+          "severity": "low",
+          "text": "当前本地数据库显示侵掠如火满级已改为攻击类主动战法发动率提高20%，而视频画面显示的历史版本为10%提升至11.1%。旧视频的82%不能直接当作当前上限或当前配置结果。",
+          "detail": "侵掠如火：历史口径，报告数值 10%, 11.1%, 20%, 82% 未直接出现在当前库",
+          "verdict": "pass_scope_labeled",
+          "reason": "数值已明确限定为视频历史画面、单场战报或旧参数，没有冒充当前通用参数。"
+        },
+        {
+          "code": "historical_numeric_claim_labeled",
+          "severity": "low",
+          "text": "视频没有在同一画面给出82%的完整算式，也没有同条件对照组和足量对手分布。宝物词条并未被证明是82%的必要组成，本报告不补写未知贡献。侵掠如火等战法已经存在版本差异；具体数值、士气换算、赛季和战法数量以当前客户端与本地当前数据库为准。",
+          "detail": "侵掠如火：历史口径，报告数值 82% 未直接出现在当前库",
+          "verdict": "pass_scope_labeled",
+          "reason": "数值已明确限定为视频历史画面、单场战报或旧参数，没有冒充当前通用参数。"
+        },
+        {
+          "code": "historical_numeric_claim_labeled",
+          "severity": "low",
+          "text": "[表1行2] 甘宁行动日志 | 及锋而试82%，汜水关74% | 当时该回合的最终发动率确实达到该数值 | 当前任何甘宁都能固定达到82%",
+          "detail": "及锋而试、汜水关：历史口径，报告数值 74%, 82% 未直接出现在当前库",
+          "verdict": "pass_scope_labeled",
+          "reason": "数值已明确限定为视频历史画面、单场战报或旧参数，没有冒充当前通用参数。"
+        },
+        {
+          "code": "historical_numeric_claim_labeled",
+          "severity": "low",
+          "text": "[表1行3] 侵掠如火卡面 | 历史画面为10%提升至11.1% | 甘宁自带战法参与主动发动率提升 | 用当前20%文本倒算旧战报",
+          "detail": "侵掠如火：历史口径，报告数值 10%, 11.1%, 20% 未直接出现在当前库",
+          "verdict": "pass_scope_labeled",
+          "reason": "数值已明确限定为视频历史画面、单场战报或旧参数，没有冒充当前通用参数。"
+        },
+        {
+          "code": "historical_numeric_claim_labeled",
+          "severity": "low",
+          "text": "[表1行4] 谋议宏图日志 | 士气提升8至198，几率增幅49% | 司马炎通过逐回合士气提高改善概率环境 | 49个百分点直接加到每张主动战法",
+          "detail": "谋议宏图：历史口径，报告数值 49%, 49个 未直接出现在当前库",
+          "verdict": "pass_scope_labeled",
+          "reason": "数值已明确限定为视频历史画面、单场战报或旧参数，没有冒充当前通用参数。"
+        },
+        {
+          "code": "historical_numeric_claim_labeled",
+          "severity": "low",
+          "text": "[表1行5] 孙权日志 | 无机敏宝物时九锡黄龙当前发动率49% | 高士气同样能改善孙权主动战法的最终发动率 | 作者口述的50以上是固定值",
+          "detail": "九锡黄龙、机敏：历史口径，报告数值 49% 未直接出现在当前库",
+          "verdict": "pass_scope_labeled",
+          "reason": "数值已明确限定为视频历史画面、单场战报或旧参数，没有冒充当前通用参数。"
+        },
+        {
+          "code": "historical_numeric_claim_labeled",
+          "severity": "low",
+          "text": "[表1行6] 完整战报 | 及锋而试8次，杀伤19367；汜水关5次，杀伤7659 | 该场多次发动确实兑现为主要输出 | 单场次数等于长期均值或胜率",
+          "detail": "及锋而试、汜水关：历史口径，报告数值 5次, 8次 未直接出现在当前库",
+          "verdict": "pass_scope_labeled",
+          "reason": "数值已明确限定为视频历史画面、单场战报或旧参数，没有冒充当前通用参数。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "[表2行2] 垒实双减 | 大营甘宁：侵掠如火＋汜水关＋及锋而试 中军司马炎：谋议宏图＋正始之变＋三军之众或恢复控制 前锋何太后：母仪浮梦＋垒实迎击＋敛众定气或浑水摸鱼 | 何太后和垒实负责前锋承压，司马炎提高士气并提供减伤，甘宁在较长战斗中累积及锋伤害率 | 规避、减伤、恢复和援护必须逐项查冲突与触发；何太后高红画面数值不是所有账号共有",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_check_boundary",
+          "reason": "该句要求在实际配将时继续检查，并未把未核实关系写成既定冲突。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "048",
+      "report_heading": "百战无怯的层数循环与配将条件",
+      "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—百战篇 来了!一篇带你看懂百战体系原理!_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "049",
+      "report_heading": "祝融木鹿斩龙变体的取舍方法",
+      "rel": "报告库/旧56项目/精编/粉丝赞不绝口的队伍来咯！ 感谢粉丝分享！_精修学习报告.docx",
+      "decisions": [
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "衡轭、祝融输出和曹操体系已经提供多层功能时，是否再带大赏三军必须先做同类增益冲突检查。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "050",
+      "report_heading": "神赏投稿案例的配队排错方法",
+      "rel": "报告库/旧56项目/精编/全率土最细最强攻略合集 神赏体系粉丝投稿解析，来了_精修学习报告.docx",
+      "decisions": [
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "关键词：神兵天降、大赏三军、其徐如林、持节镇西、增伤冲突、王异、杜预、卫瓘、行动顺序、一夫当关、强势",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_check_boundary",
+          "reason": "该句要求在实际配将时继续检查，并未把未核实关系写成既定冲突。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "神兵天降提高敌军受到两类伤害的幅度，大赏三军提高我军造成两类伤害的幅度。两者作用方向不同，可共同进入体系；与其他指挥增伤仍要逐效果检查冲突。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_check_boundary",
+          "reason": "该句要求在实际配将时继续检查，并未把未核实关系写成既定冲突。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "051",
+      "report_heading": "神赏法刀的前期放大框架",
+      "rel": "报告库/旧56项目/精编/全率土最全攻略合集—神赏篇 来了! 评论投稿，下期解析哦!_精编学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "052",
+      "report_heading": "程昱魏智的触发链与资源门槛",
+      "rel": "报告库/旧56项目/精编/程昱魏智最强搭配—所有细节一篇看懂 魏智的宝物你真的带对了吗？_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "053",
+      "report_heading": "竹林七贤四星队的称号收益与低成本定位",
+      "rel": "报告库/阵容新批/精编/四星称号神队晋步，竹林七贤_精编学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "054",
+      "report_heading": "纯刀队的输出上限与保护取舍",
+      "rel": "报告库/旧56项目/精编/纯刀居然还有上升空间？ 一个改动，拉高强度_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "055",
+      "report_heading": "缺将缺法账号的四队顺序分配",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/03_缺将缺法账号的四队顺序分配_重蒸馏学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "056",
+      "report_heading": "缺核心后的功能位替代",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/08_缺核心后的功能位替代_重蒸馏学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "057",
+      "report_heading": "账号级配将的全局资源分配",
+      "rel": "报告库/旧56项目/精编/配将焚决来了 全体系队伍搭建思路最后一期，真焚决—宏观配将法，来了! 跟合集内容全部融会贯通，你也能成配将大手子!_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "058",
+      "report_heading": "资源产量的六维增长与阶段配比",
+      "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—全赛季发育思路 资源产量篇，来了，产量突破十五万不在困难，资源见底窘境不再出现，焚决速看!_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "059",
+      "report_heading": "资源受限时的法刀组建路线",
+      "rel": "报告库/旧56项目/精编/平民怎么出法刀 北冥给你小妙招! 平民怎么出法刀 北冥给你小妙招!_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "060",
+      "report_heading": "资源受限账号的三队分配方法",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/04_资源受限账号的三队分配方法_重蒸馏学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "061",
+      "report_heading": "配将点评中的冲突识别与资源诊断",
+      "rel": "报告库/阵容新批/精编/配将点评_精编学习报告.docx",
+      "decisions": [
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "关键词：王异、张辽、徐晃、荀彧、张春华、郭嘉、不攻、久战熟谋、始计、战法冲突、资源分配",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_check_boundary",
+          "reason": "该句要求在实际配将时继续检查，并未把未核实关系写成既定冲突。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "荀彧、张春华、郭嘉案例中，不攻与久战熟谋均为指挥战法且都包含策略攻击伤害提高；同类战法的相同增益不可叠加，后释放的相同效果会失效。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "062",
+      "report_heading": "金币获取的阶段切换与机会成本",
+      "rel": "报告库/旧56项目/精编/率土最全攻略合集 全赛季发育思路，金币获取篇，来了！_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "063",
+      "report_heading": "马超纯刀的距离与宝物收益核算",
+      "rel": "报告库/旧56项目/精编/马超纯刀最强配置卷土来袭! 单次进攻两万五武勋!两个细节带飞马超!_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "064",
+      "report_heading": "高顺群骑的解控链与四重增伤",
+      "rel": "报告库/旧56项目/精编/高顺领衔群骑，来了！ 8回合高频解控，四重增伤，非常均衡的一队。_精修学习报告.docx",
+      "decisions": [
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "视频给出的完整队伍是华雄、高顺、田丰群骑。真正值得学习的不是照抄九个战法，而是两条独立链路：高顺靠自身洞察提高全军突击的有效出手机会，为队友清除有害效果；华雄则在四种不同来源的伤害提高与两种无视防御帮助下承担收口。作者所说约150%是条件同时满足时的名义叠加，不是全程固定面板。",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        },
+        {
+          "code": "historical_numeric_claim_labeled",
+          "severity": "low",
+          "text": "视频给出的完整队伍是华雄、高顺、田丰群骑。真正值得学习的不是照抄九个战法，而是两条独立链路：高顺靠自身洞察提高全军突击的有效出手机会，为队友清除有害效果；华雄则在四种不同来源的伤害提高与两种无视防御帮助下承担收口。作者所说约150%是条件同时满足时的名义叠加，不是全程固定面板。",
+          "detail": "全军突击、突击：历史口径，报告数值 150% 未直接出现在当前库",
+          "verdict": "pass_scope_labeled",
+          "reason": "数值已明确限定为视频历史画面、单场战报或旧参数，没有冒充当前通用参数。"
+        },
+        {
+          "code": "unlabeled_numeric_claim",
+          "severity": "medium",
+          "text": "按现行满级文本把50%、40%、30%、28%直接相加是148个百分点，解释了作者口中的“150左右”。这只能表示四个名义数值的近似合计，不能直接等同最终伤害倍率：击势有概率、胜负先征要高士气、尽言直谏要选中战法、全军突击只管后续两次攻击。",
+          "detail": "全军突击、尽言直谏、胜负先征、击势、突击：数值 148个, 28%, 40%, 50% 未标明当前或历史口径",
+          "verdict": "pass_current_db_verified",
+          "reason": "当前本地满级文本复核：击势65%判定/50%攻击增伤、胜负先征40%、尽言直谏30%、全军突击28%且仅后续2次攻击；名义合计148个百分点，报告已明确不等于最终伤害倍率。"
+        },
+        {
+          "code": "unlabeled_numeric_claim",
+          "severity": "medium",
+          "text": "[表2行2] 击势 | 被动；65%独立获得攻击伤害提高50% | 与胜负先征虽同为被动，但一个提高攻击伤害，一个提高主动/追击战法伤害，不是同一效果 | 逐回合判定，未必获得增伤；另有独立破防判定",
+          "detail": "胜负先征、击势：数值 50%, 65% 未标明当前或历史口径",
+          "verdict": "pass_current_db_verified",
+          "reason": "当前本地满级文本复核：击势65%判定/50%攻击增伤、胜负先征40%、尽言直谏30%、全军突击28%且仅后续2次攻击；名义合计148个百分点，报告已明确不等于最终伤害倍率。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "[表2行3] 胜负先征 | 被动；士气高昂时主动、追击战法伤害提高40% | 具体效果对象不同于击势；可同时作用于主动攻击伤害 | 必须士气高昂，只覆盖主动/追击战法",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        },
+        {
+          "code": "unlabeled_numeric_claim",
+          "severity": "medium",
+          "text": "[表2行3] 胜负先征 | 被动；士气高昂时主动、追击战法伤害提高40% | 具体效果对象不同于击势；可同时作用于主动攻击伤害 | 必须士气高昂，只覆盖主动/追击战法",
+          "detail": "胜负先征、击势：数值 40% 未标明当前或历史口径",
+          "verdict": "pass_current_db_verified",
+          "reason": "当前本地满级文本复核：击势65%判定/50%攻击增伤、胜负先征40%、尽言直谏30%、全军突击28%且仅后续2次攻击；名义合计148个百分点，报告已明确不等于最终伤害倍率。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "[表2行5] 全军突击 | 主动；我军步骑接下来2次攻击伤害提高28% | 主动来源，和前三项不存在同类同效果覆盖 | 高顺先成功发动；只覆盖后续两次攻击",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        },
+        {
+          "code": "unlabeled_numeric_claim",
+          "severity": "medium",
+          "text": "[表2行5] 全军突击 | 主动；我军步骑接下来2次攻击伤害提高28% | 主动来源，和前三项不存在同类同效果覆盖 | 高顺先成功发动；只覆盖后续两次攻击",
+          "detail": "全军突击、突击：数值 28% 未标明当前或历史口径",
+          "verdict": "pass_current_db_verified",
+          "reason": "当前本地满级文本复核：击势65%判定/50%攻击增伤、胜负先征40%、尽言直谏30%、全军突击28%且仅后续2次攻击；名义合计148个百分点，报告已明确不等于最终伤害倍率。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "065",
+      "report_heading": "魏弓贾诩的主动触发体系",
+      "rel": "报告库/旧56项目/精编/率土武将志—贾诩 使用手册来了!一篇全看懂!_精修学习报告.docx",
+      "decisions": [],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    },
+    {
+      "no": "066",
+      "report_heading": "魏晋核心武将的保留与拆解框架",
+      "rel": "报告库/旧56项目/精编/率土武将志—魏晋篇，来了 率土最全武将志，所有武将该拆改留，有什么价值，全部讲清楚_精修学习报告.docx",
+      "decisions": [
+        {
+          "code": "scarce_resource_decision",
+          "severity": "high",
+          "text": "对配将智能体而言，最危险的错误是把“某武将能拆某战法”直接翻译成“建议拆”。拆解是不可逆资源决策，必须同时具备可牺牲副本、明确携带者、当前赛季可用和全局不抢法四个条件。",
+          "detail": "涉及拆解、兑换或五星觉醒等不可轻易逆转决策",
+          "verdict": "pass_safety_gate",
+          "reason": "该句要求首张核心卡优先保留，或要求拆解/觉醒前完成账号级核算；没有无条件推动不可逆操作。"
+        },
+        {
+          "code": "scarce_resource_decision",
+          "severity": "high",
+          "text": "本批五人中，张辽、曹操、XP司马懿、司马炎的首张保留优先级明显高；杜预也不是默认可拆，仍需先完成账号级队伍规划。",
+          "detail": "涉及拆解、兑换或五星觉醒等不可轻易逆转决策",
+          "verdict": "pass_safety_gate",
+          "reason": "该句要求首张核心卡优先保留，或要求拆解/觉醒前完成账号级核算；没有无条件推动不可逆操作。"
+        },
+        {
+          "code": "scarce_resource_decision",
+          "severity": "high",
+          "text": "[表1行2] 魏骑五星张辽 | 其疾如风 | 避其锋芒 | 普攻/连击体系核心，首张优先保留",
+          "detail": "涉及拆解、兑换或五星觉醒等不可轻易逆转决策",
+          "verdict": "pass_safety_gate",
+          "reason": "该句要求首张核心卡优先保留，或要求拆解/觉醒前完成账号级核算；没有无条件推动不可逆操作。"
+        },
+        {
+          "code": "scarce_resource_decision",
+          "severity": "high",
+          "text": "[表1行3] 魏骑五星曹操 | 魏武之世 | 远攻秘策 | 通用体系与距离节点，首张优先保留",
+          "detail": "涉及拆解、兑换或五星觉醒等不可轻易逆转决策",
+          "verdict": "pass_safety_gate",
+          "reason": "该句要求首张核心卡优先保留，或要求拆解/觉醒前完成账号级核算；没有无条件推动不可逆操作。"
+        },
+        {
+          "code": "scarce_resource_decision",
+          "severity": "high",
+          "text": "[表1行6] 晋步五星司马炎 | 谋议宏图 | 及锋而试 | 全队减伤与士气节点，首张优先保留",
+          "detail": "涉及拆解、兑换或五星觉醒等不可轻易逆转决策",
+          "verdict": "pass_safety_gate",
+          "reason": "该句要求首张核心卡优先保留，或要求拆解/觉醒前完成账号级核算；没有无条件推动不可逆操作。"
+        },
+        {
+          "code": "mechanism_conflict_claim",
+          "severity": "high",
+          "text": "[表2行4] 乘胜追击 | 普攻后追击，并按逐次下降概率继续攻击 | 普攻通道、追击冲突、目标保护与概率波动",
+          "detail": "涉及战法冲突或叠加，需要按机制库核对",
+          "verdict": "pass_mechanism_verified",
+          "reason": "已按本地当前战法文本与底层冲突规则复核；战法类型、作用对象、触发入口或不可叠加边界与报告表述一致。"
+        }
+      ],
+      "unresolved_count": 0,
+      "p0_status": "pass"
+    }
+  ]
+}

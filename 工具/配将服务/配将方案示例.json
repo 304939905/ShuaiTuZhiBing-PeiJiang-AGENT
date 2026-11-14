@@ -1,0 +1,16 @@
+{
+  "season": "S2",
+  "cost_limit": 10,
+  "teams": [
+    {
+      "name": "第一主力",
+      "priority": "主力",
+      "members": [
+        {"position": "大营", "hero_id": 100024, "learned_skills": [200108]},
+        {"position": "中军", "hero_id": 100017, "learned_skills": []},
+        {"position": "前锋", "hero_id": 100029, "learned_skills": []}
+      ],
+      "speed_order": []
+    }
+  ]
+}

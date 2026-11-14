@@ -1,0 +1,1139 @@
+{
+  "accepted_at": "2026-09-13",
+  "scope": 66,
+  "passed": 66,
+  "review": 0,
+  "overall_passed": true,
+  "checks": [
+    "DOCX包结构与活动索引唯一性",
+    "正式文件SHA-256与索引同步",
+    "P0裁决状态与未收口标记",
+    "配置语境武将版本候选",
+    "当前数值冲突候选",
+    "已知底层机制硬矛盾"
+  ],
+  "results": [
+    {
+      "no": "001",
+      "report_heading": "S赛季资源受限的四队分配",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/10_S赛季资源受限的四队分配_重蒸馏学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "002",
+      "report_heading": "XP孟获的南蛮承伤触发体系",
+      "rel": "报告库/旧56项目/精编/孟获就是南蛮版张机！ 这个新体系缔造者，你看懂了吗？_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "003",
+      "report_heading": "七擒七纵与磐阵善守的替换条件",
+      "rel": "报告库/旧56项目/精编/七擒七纵就是高配磐阵 ，战磐体系迎来全面加强，七擒七纵强度不错。_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "004",
+      "report_heading": "七组低星队伍案例的配置与适用条件",
+      "rel": "报告库/赛季/精编/盘点全网最强四星神队排名，从第八到第一，越往后越离谱，都有配置和战报！_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "005",
+      "report_heading": "三支主力的候选筛选与稀缺战法分配",
+      "rel": "报告库/阵容新批/精编/video_来来来兄弟们，继续配将，免费粉丝..._top_0_3_精编学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "006",
+      "report_heading": "主力集中与工具队分层",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/05_主力集中与工具队分层_重蒸馏学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "007",
+      "report_heading": "从三队缩减为两队的资源集中判断",
+      "rel": "报告库/阵容新批/精编/五队并三队，三队并两队，样样通样...（抖音标题被文件名截断）_精编学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "008",
+      "report_heading": "从付费方案反推全局资源错误",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/12_从付费方案反推全局资源错误_重蒸馏学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "009",
+      "report_heading": "低投入账号如何评价三皇价值",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/13_低投入账号如何评价三皇价值_重蒸馏学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "010",
+      "report_heading": "低星武将留卡的用途与取舍",
+      "rel": "报告库/赛季/精编/萌新这些四星卡千万别拆了，s赛季有大用！_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "011",
+      "report_heading": "低红大张鲁的前期承压与反打",
+      "rel": "报告库/旧56项目/精编/低红大张鲁前期实战 ，队伍咋样，实战来看！_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "012",
+      "report_heading": "何太后的前四回合防护与两套队伍骨架",
+      "rel": "报告库/旧56项目/精编/太后大加强，平民也有光! 太后大加强，平民也有光!_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "013",
+      "report_heading": "先识别队伍核心再纠错",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/11_先识别队伍核心再纠错_重蒸馏学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "014",
+      "report_heading": "内政点分配顺序与重置止损",
+      "rel": "报告库/旧56项目/精编/内政点到底咋分配？ 分配的艺术，一篇看懂。_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "015",
+      "report_heading": "分城开发循环与势力值转型",
+      "rel": "报告库/旧56项目/精编/平民种地焚决来了 10天必过两万五势力，无限套娃开分法，全赛季稳定过势力值任务，丝滑过渡金币期，稳扎稳打步步为营。_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "016",
+      "report_heading": "同阵容不同账号为何会变质",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/02_同阵容不同账号为何会变质_重蒸馏学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "017",
+      "report_heading": "四星甘宁碰瓷队的低成本爆发逻辑",
+      "rel": "报告库/阵容新批/精编/率土平民队伍之甘宁碰瓷队_精编学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "018",
+      "report_heading": "四星蜀智案例的配置与取舍",
+      "rel": "报告库/赛季/精编/最强四星0氪蜀之智，萌新玩家必看_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "019",
+      "report_heading": "四类前期保护战法的选择框架",
+      "rel": "报告库/旧56项目/精编/空城 一夫 单骑 反计应该如何选择？ 一篇内容讲清楚，让你不再迷茫!_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "020",
+      "report_heading": "垒实体系的克制判断框架",
+      "rel": "报告库/旧56项目/精编/垒实体系克制关系，来了! 下期带来大量粉丝投稿解析，期待一下有没有你!_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "021",
+      "report_heading": "垒实体系的长回合防守结构",
+      "rel": "报告库/旧56项目/精编/率土最细最全攻略合集—垒实篇 评论抢点评! 把你们的垒实配队放在评论区哦!下期抽取点评别错过!_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "022",
+      "report_heading": "垒实投稿的常见配队错误",
+      "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—垒实篇投稿讲解 来了!多多留言，后续会定期抽取评论解析队伍。_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "023",
+      "report_heading": "孙权与张机同队的功能重叠判断",
+      "rel": "报告库/旧56项目/精编/孙权完全不适配张机 ，来看看有哪些常见误区_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "024",
+      "report_heading": "宁元刀的先手追击链与资源门槛",
+      "rel": "报告库/阵容新批/精编/率土之滨队伍推荐第16队——宁元刀（黑科技）（碰瓷）_精编学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "025",
+      "report_heading": "宝物养成的账号适配与锻造止损",
+      "rel": "报告库/旧56项目/精编/从零开始，宝物养成焚决，来了！ 刚进征服看见宝物系统，摸不着头脑？老是乱打一堆毫不适配的残品？别着急，北冥让你一篇看懂！_精编学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "026",
+      "report_heading": "平民账号只配三队的决策",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/09_平民账号只配三队的决策_重蒸馏学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "027",
+      "report_heading": "开荒专题：从配队到翻车补救的决策框架",
+      "rel": "报告库/开荒/精编/开荒专题（5视频合并）_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "028",
+      "report_heading": "张春华小乔乐进的控制链设计",
+      "rel": "报告库/旧56项目/精编/装糖队到底糖不糖 一支拉满细节的队伍，非常值得推敲。  原创队伍。_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "029",
+      "report_heading": "张机恢复稳定性与士气检查",
+      "rel": "报告库/旧56项目/精编/张机如何显著降低败率？ 首先要理解张机这个武将最需要的是什么。_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "030",
+      "report_heading": "徐庶曹植汉吕布的联动条件",
+      "rel": "报告库/旧56项目/精编/徐庶能玩吗？ 当然可以，平民极佳的战磐选择，来了！_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "031",
+      "report_heading": "战法属性阈值与参数速查",
+      "rel": "报告库/战法阈值精简学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "032",
+      "report_heading": "战法搭配的冲突、攻防与顺序",
+      "rel": "报告库/旧56项目/精编/全率土最全攻略，战法篇! 重磅来袭!_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "033",
+      "report_heading": "战磐体系的建队与检验框架",
+      "rel": "报告库/旧56项目/精编/全率土最全攻略合集！体系篇 ——战磐体系 来了！_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "034",
+      "report_heading": "战磐投稿的克制与失败模式",
+      "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—战磐篇粉丝答疑 战磐篇粉丝答疑来了，看看有没有你的队伍？ 跟北冥多多互动，留言下期想看主五哪个体系？_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "035",
+      "report_heading": "攻其不备体系投稿解析与配队判断",
+      "rel": "报告库/标杆/攻其不备体系投稿解析与配队判断_当前标杆_20260907.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "036",
+      "report_heading": "攻其不备的叠层与出手窗口",
+      "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—攻其篇 评论区投稿，下期点评队伍哦_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "037",
+      "report_heading": "攻击距离与战法距离的落点控制",
+      "rel": "报告库/旧56项目/精编/距离思路究极细节 ，普攻距离和战法距离，真的是越远越好吗？_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "038",
+      "report_heading": "文鸯与程昱的武将价值和拆解取舍",
+      "rel": "报告库/旧56项目/精编/率土武将志—文鸯、程昱 文鸯程昱武将详解来了!_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "039",
+      "report_heading": "无孙权账号的替代开荒与四队分配",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/07_无孙权账号的替代开荒与四队分配_重蒸馏学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "040",
+      "report_heading": "普攻距离与战法距离的配将方法",
+      "rel": "报告库/旧56项目/精编/全率土最全入门攻略合集!  来了!_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "041",
+      "report_heading": "曹彰木鹿曹操队的触发链与适用边界",
+      "rel": "报告库/阵容新批/精编/撸铁队详解_精编学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "042",
+      "report_heading": "有战法但缺核心武将时如何止损",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/06_有战法但缺核心武将时如何止损_重蒸馏学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "043",
+      "report_heading": "杜预垒实战报的证据边界",
+      "rel": "报告库/旧56项目/精编/杜预垒实队，战报来了！ 一起来看看实战表现如何吧！_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "044",
+      "report_heading": "杜预贾充司马炎的触发链",
+      "rel": "报告库/旧56项目/精编/全新垒实体系震撼来袭！ 杜垒司见过没，杜预也能走垒实？_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "045",
+      "report_heading": "核心战法单份时的三队资源分配",
+      "rel": "报告库/阵容新批/精编/video_免费粉丝配将第十一期，继续配将。..._top_0_2_精编学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "046",
+      "report_heading": "武将加点与队内速度排序",
+      "rel": "报告库/旧56项目/精编/武将咋加点？ 一篇看明白!_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "047",
+      "report_heading": "甘宁及锋而试82发动率与配将路线",
+      "rel": "报告库/旧56项目/精编/这战法概率也太夸张了！ 也没人说甘宁带及锋概率能到80啊！_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "048",
+      "report_heading": "百战无怯的层数循环与配将条件",
+      "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—百战篇 来了!一篇带你看懂百战体系原理!_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "049",
+      "report_heading": "祝融木鹿斩龙变体的取舍方法",
+      "rel": "报告库/旧56项目/精编/粉丝赞不绝口的队伍来咯！ 感谢粉丝分享！_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "050",
+      "report_heading": "神赏投稿案例的配队排错方法",
+      "rel": "报告库/旧56项目/精编/全率土最细最强攻略合集 神赏体系粉丝投稿解析，来了_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "051",
+      "report_heading": "神赏法刀的前期放大框架",
+      "rel": "报告库/旧56项目/精编/全率土最全攻略合集—神赏篇 来了! 评论投稿，下期解析哦!_精编学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "052",
+      "report_heading": "程昱魏智的触发链与资源门槛",
+      "rel": "报告库/旧56项目/精编/程昱魏智最强搭配—所有细节一篇看懂 魏智的宝物你真的带对了吗？_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "053",
+      "report_heading": "竹林七贤四星队的称号收益与低成本定位",
+      "rel": "报告库/阵容新批/精编/四星称号神队晋步，竹林七贤_精编学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "054",
+      "report_heading": "纯刀队的输出上限与保护取舍",
+      "rel": "报告库/旧56项目/精编/纯刀居然还有上升空间？ 一个改动，拉高强度_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "055",
+      "report_heading": "缺将缺法账号的四队顺序分配",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/03_缺将缺法账号的四队顺序分配_重蒸馏学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "056",
+      "report_heading": "缺核心后的功能位替代",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/08_缺核心后的功能位替代_重蒸馏学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "057",
+      "report_heading": "账号级配将的全局资源分配",
+      "rel": "报告库/旧56项目/精编/配将焚决来了 全体系队伍搭建思路最后一期，真焚决—宏观配将法，来了! 跟合集内容全部融会贯通，你也能成配将大手子!_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "058",
+      "report_heading": "资源产量的六维增长与阶段配比",
+      "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—全赛季发育思路 资源产量篇，来了，产量突破十五万不在困难，资源见底窘境不再出现，焚决速看!_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "059",
+      "report_heading": "资源受限时的法刀组建路线",
+      "rel": "报告库/旧56项目/精编/平民怎么出法刀 北冥给你小妙招! 平民怎么出法刀 北冥给你小妙招!_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "060",
+      "report_heading": "资源受限账号的三队分配方法",
+      "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/04_资源受限账号的三队分配方法_重蒸馏学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "061",
+      "report_heading": "配将点评中的冲突识别与资源诊断",
+      "rel": "报告库/阵容新批/精编/配将点评_精编学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "062",
+      "report_heading": "金币获取的阶段切换与机会成本",
+      "rel": "报告库/旧56项目/精编/率土最全攻略合集 全赛季发育思路，金币获取篇，来了！_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "063",
+      "report_heading": "马超纯刀的距离与宝物收益核算",
+      "rel": "报告库/旧56项目/精编/马超纯刀最强配置卷土来袭! 单次进攻两万五武勋!两个细节带飞马超!_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "064",
+      "report_heading": "高顺群骑的解控链与四重增伤",
+      "rel": "报告库/旧56项目/精编/高顺领衔群骑，来了！ 8回合高频解控，四重增伤，非常均衡的一队。_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "065",
+      "report_heading": "魏弓贾诩的主动触发体系",
+      "rel": "报告库/旧56项目/精编/率土武将志—贾诩 使用手册来了!一篇全看懂!_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    },
+    {
+      "no": "066",
+      "report_heading": "魏晋核心武将的保留与拆解框架",
+      "rel": "报告库/旧56项目/精编/率土武将志—魏晋篇，来了 率土最全武将志，所有武将该拆改留，有什么价值，全部讲清楚_精修学习报告.docx",
+      "status": "pass",
+      "checks": {
+        "docx_package": "pass",
+        "hash_matches_index": true,
+        "unique_path": true,
+        "p0_adjudicated": true,
+        "no_unresolved_marker": true,
+        "no_version_candidate": true,
+        "no_current_numeric_mismatch": true,
+        "no_known_cross_report_contradiction": true
+      },
+      "issues": []
+    }
+  ]
+}

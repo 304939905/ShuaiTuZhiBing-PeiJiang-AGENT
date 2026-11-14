@@ -1,0 +1,1403 @@
+{
+  "checked_at": "2026-10-04T09:26:40.831681+08:00",
+  "workspace": "G:\\codex-work space\\shandou",
+  "client_audit_date": "2026-10-04",
+  "workspace_snapshot": {
+    "files": 763,
+    "bytes": 157191591,
+    "docx_in_report_library": 70
+  },
+  "schema": {
+    "hero.json": {
+      "type": "array",
+      "count": 946,
+      "top_fields": [
+        "base_hero_id",
+        "cost",
+        "country",
+        "hero_id",
+        "hero_type",
+        "hero_type_availible",
+        "hit_range",
+        "icon_hero_id",
+        "is_release",
+        "is_season_card",
+        "is_sp_card",
+        "name",
+        "quality",
+        "season",
+        "skill_init"
+      ],
+      "sha256": "d0c7362bd345da8f1a196ba4e4509002a5634ddeb5578113540aee947a4070c6",
+      "file_modified": "2026-08-09T12:06:41.622253+08:00"
+    },
+    "hero_extra.json": {
+      "type": "array",
+      "count": 393,
+      "top_fields": [
+        "attGrow",
+        "attack",
+        "base_hero_id",
+        "cost",
+        "country",
+        "def",
+        "defGrow",
+        "desc",
+        "distance",
+        "group",
+        "groupId",
+        "groupName",
+        "iconId",
+        "id",
+        "methodDesc",
+        "methodDesc1",
+        "methodDesc2",
+        "methodId",
+        "methodId1",
+        "methodId2",
+        "methodName",
+        "methodName1",
+        "methodName2",
+        "name",
+        "policyDesc",
+        "policyId",
+        "policyName",
+        "quality",
+        "ruse",
+        "ruseGrow",
+        "sex",
+        "share_desc",
+        "siege",
+        "siegeGrow",
+        "speed",
+        "speedGrow",
+        "type",
+        "type_availible",
+        "uniqueName"
+      ],
+      "sha256": "b69459592463198e03beaf18ccd13e5d90d176fa5ee88e9ecb95080097818fe2",
+      "file_modified": "2026-08-09T12:06:11.173001+08:00"
+    },
+    "skill.json": {
+      "type": "array",
+      "count": 755,
+      "top_fields": [
+        "allow_type",
+        "is_display",
+        "name",
+        "research_num",
+        "skill_id",
+        "skill_mark_type",
+        "skill_quality_level",
+        "skill_type",
+        "special"
+      ],
+      "sha256": "0060fac4e1bfa2c2e13eaa6fa15671df1aa81f42de99ff1e97fa2509b71f5731",
+      "file_modified": "2026-08-09T23:42:54.662966+08:00"
+    },
+    "skill_extra.json": {
+      "type": "array",
+      "count": 642,
+      "top_fields": [
+        "desc",
+        "desc(level1)",
+        "disassembleHero1",
+        "disassembleHero2",
+        "disassembleHero3",
+        "dismantling",
+        "distance",
+        "effect",
+        "id",
+        "isAppear",
+        "name",
+        "notice",
+        "probability",
+        "skillCount",
+        "soldierType",
+        "studyDesc",
+        "studyDesc2",
+        "studyStar",
+        "targetShow",
+        "targetType",
+        "type",
+        "zfQuality"
+      ],
+      "sha256": "99686796488ddc3e423e6789df9ae10463f3eda68790a21453d481e1523cda6e",
+      "file_modified": "2026-09-01T10:06:20.552471+08:00"
+    },
+    "jineng_list.json": {
+      "type": "array",
+      "count": 516,
+      "top_fields": [
+        "id",
+        "name",
+        "soldierType",
+        "targetShow",
+        "targetType",
+        "type"
+      ],
+      "sha256": "8552ce2dfd378c1ae47a93800e3719b7a6e0aceca544507fbcd885cb4786a9b9",
+      "file_modified": "2026-08-09T12:07:05.697484+08:00"
+    },
+    "gear_id.json": {
+      "type": "array",
+      "count": 114,
+      "top_fields": [
+        "condition",
+        "desc",
+        "featureGroup",
+        "id",
+        "ironAdvance",
+        "ironEnchant",
+        "ironForge",
+        "name",
+        "obtain",
+        "policyDesc",
+        "policyName",
+        "quality",
+        "skillDesc",
+        "skillName",
+        "type",
+        "woodAdvance",
+        "woodEnchant",
+        "woodForge"
+      ],
+      "sha256": "1046a121144e8f0d37b0a749f7da93e30896217c8d2bbfff6e15f9f95df41767",
+      "file_modified": "2026-08-09T12:06:42.463453+08:00"
+    },
+    "official_skill_db.json": {
+      "type": "object",
+      "count": 4,
+      "top_fields": [
+        "counts",
+        "gear",
+        "policy",
+        "skills"
+      ],
+      "sha256": "eb9a4e21e4c7e0fb612c801d82907cc04d81d0272371e2cb6a99ffa7a98a322b",
+      "file_modified": "2026-09-14T15:54:02.507730+08:00",
+      "collection_counts": {
+        "skills": 801,
+        "policy": 307,
+        "gear": 114,
+        "counts": 5
+      }
+    },
+    "official_merged_whitelist.json": {
+      "type": "object",
+      "count": 6,
+      "top_fields": [
+        "forge_traits",
+        "gears",
+        "heroes",
+        "meta",
+        "skills",
+        "unit_traits"
+      ],
+      "sha256": "52ea8d640b3e49f7be1c9f4b75647e6638bfef5dc56ca7e958c7dafc34a49c47",
+      "file_modified": "2026-08-21T19:45:12.908174+08:00",
+      "collection_counts": {
+        "meta": 5,
+        "skills": 1135,
+        "heroes": 428,
+        "gears": 115,
+        "forge_traits": 42,
+        "unit_traits": 24
+      }
+    },
+    "aa_rate_supplement.json": {
+      "type": "object",
+      "count": 5,
+      "top_fields": [
+        "coverage",
+        "heroes",
+        "meta",
+        "skills",
+        "states"
+      ],
+      "sha256": "d5c8b84794c2902266617effb47189695e0f35e72dbe5eead7c939511b9c5036",
+      "file_modified": "2026-09-14T01:03:17.439669+08:00",
+      "collection_counts": {
+        "meta": 7,
+        "heroes": 941,
+        "skills": 1666,
+        "states": 206,
+        "coverage": 11
+      }
+    }
+  },
+  "whitelist": {
+    "heroes": {
+      "count": 428,
+      "flat_string_array": true,
+      "unique_count": 428
+    },
+    "skills": {
+      "count": 1135,
+      "flat_string_array": true,
+      "unique_count": 1135
+    },
+    "gears": {
+      "count": 115,
+      "flat_string_array": true,
+      "unique_count": 115
+    },
+    "forge_traits": {
+      "count": 42,
+      "flat_string_array": true,
+      "unique_count": 42
+    },
+    "unit_traits": {
+      "count": 24,
+      "flat_string_array": true,
+      "unique_count": 24
+    }
+  },
+  "hero_quality_exact_id_and_method": {
+    "counts": {
+      "3-R => 4": 156,
+      "4-SR => 5": 169,
+      "2-UC => 3": 68
+    },
+    "unmatched": []
+  },
+  "hero_raw_quality_counts": {
+    "5": 458,
+    "4": 216,
+    "3": 145,
+    "2": 91,
+    "1": 31,
+    "6": 5
+  },
+  "skill_acquisition": {
+    "season_tags": {
+      "BASE": 654,
+      "S2": 26,
+      "XP": 108,
+      "S3": 13
+    },
+    "acquisition_stage_status": {
+      "missing": 689,
+      "confirmed": 78,
+      "provisional_default": 34
+    },
+    "provisional_by_obtain_method": {
+      "拆解指定武将": 19,
+      "兑换": 15
+    },
+    "missing_stage_count": 689,
+    "blank_desc_count": 165,
+    "blank_type_count": 165,
+    "full_records": 801,
+    "samples": {
+      "衡轭": {
+        "id": 200781,
+        "season_code": 4,
+        "season_tag": "XP",
+        "obtain_method": "拆解指定武将",
+        "acquisition_stage": "征服赛季",
+        "acquisition_stage_status": "confirmed"
+      },
+      "令无空悬": {
+        "id": 200280,
+        "season_code": 4,
+        "season_tag": "XP",
+        "obtain_method": "拆解指定武将",
+        "acquisition_stage": "征服赛季",
+        "acquisition_stage_status": "provisional_default"
+      },
+      "磐阵善守": {
+        "id": 200816,
+        "season_code": 40003,
+        "season_tag": "XP",
+        "obtain_method": "兑换",
+        "acquisition_stage": "S3",
+        "acquisition_stage_status": "confirmed"
+      },
+      "形兵之极": {
+        "id": 200813,
+        "season_code": 40003,
+        "season_tag": "XP",
+        "obtain_method": "兑换",
+        "acquisition_stage": "S3",
+        "acquisition_stage_status": "confirmed"
+      }
+    }
+  },
+  "aa_supplement": {
+    "meta": {
+      "source": "AA率土/率土之滨数据库.xlsx",
+      "source_sha256": "bb435bb0156034bcede777488d3707baabfce9fb6fed92a2376d4e3326cb4a75",
+      "source_workbook_created": "2026-08-28 08:48:20",
+      "source_workbook_modified": "2026-08-28 08:48:20",
+      "generated_at_utc": "2026-09-02T09:11:17+00:00",
+      "merge_policy": "仅收录与现有本地武将/战法库精确关联的条目；不把未分类原始配置当作可配将资源。",
+      "quality_mapping": "AA 武将 quality + 1 = 项目星级；quality=5 按项目规则归为5星。"
+    },
+    "coverage": {
+      "raw_hero_rows": 2109,
+      "raw_nonhero_book_rows_excluded": 932,
+      "hero_rows_linked_to_hero_json": 941,
+      "hero_json_rows_not_in_aa": [
+        100732,
+        100777,
+        100778,
+        100798,
+        100930
+      ],
+      "raw_hero_rows_not_merged": 1168,
+      "raw_skill_rows": 6592,
+      "skill_rows_linked_to_existing_library": 1666,
+      "raw_skill_rows_not_merged": 4926,
+      "effect_rows": 12721,
+      "states": 206,
+      "linked_skills_missing_effect_detail": [
+        202097,
+        202098,
+        202099
+      ]
+    },
+    "source_file_exists": false
+  },
+  "reports": {
+    "rows": 67,
+    "unique_rel": 67,
+    "current_rel_exists": 67,
+    "indexed_out_exists": 67,
+    "current_sha256_matches": 67,
+    "source_retirement_ready_counts": {
+      "True": 66,
+      "False": 1
+    },
+    "reliability_grade_counts": {
+      "A": 66,
+      "pending": 1
+    },
+    "nonindexed_docx": [
+      "报告库/账号诊断/S2赛季中期_主力队伍对比点评报告_2026-09-14.docx",
+      "报告库/账号诊断/S2赛季中期_账号配将分析报告_2026-09-14.docx",
+      "报告库/账号诊断/试师初期_金印_新账号配将分析报告_2026-08-27.docx"
+    ],
+    "records": [
+      {
+        "no": "001",
+        "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/10_S赛季资源受限的四队分配_重蒸馏学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "002",
+        "rel": "报告库/旧56项目/精编/孟获就是南蛮版张机！ 这个新体系缔造者，你看懂了吗？_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "003",
+        "rel": "报告库/旧56项目/精编/七擒七纵就是高配磐阵 ，战磐体系迎来全面加强，七擒七纵强度不错。_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "004",
+        "rel": "报告库/赛季/精编/盘点全网最强四星神队排名，从第八到第一，越往后越离谱，都有配置和战报！_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "005",
+        "rel": "报告库/阵容新批/精编/video_来来来兄弟们，继续配将，免费粉丝..._top_0_3_精编学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "006",
+        "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/05_主力集中与工具队分层_重蒸馏学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "007",
+        "rel": "报告库/阵容新批/精编/五队并三队，三队并两队，样样通样...（抖音标题被文件名截断）_精编学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "008",
+        "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/12_从付费方案反推全局资源错误_重蒸馏学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "009",
+        "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/13_低投入账号如何评价三皇价值_重蒸馏学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "010",
+        "rel": "报告库/赛季/精编/萌新这些四星卡千万别拆了，s赛季有大用！_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "011",
+        "rel": "报告库/旧56项目/精编/低红大张鲁前期实战 ，队伍咋样，实战来看！_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "012",
+        "rel": "报告库/旧56项目/精编/太后大加强，平民也有光! 太后大加强，平民也有光!_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "013",
+        "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/11_先识别队伍核心再纠错_重蒸馏学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "014",
+        "rel": "报告库/旧56项目/精编/内政点到底咋分配？ 分配的艺术，一篇看懂。_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "015",
+        "rel": "报告库/旧56项目/精编/平民种地焚决来了 10天必过两万五势力，无限套娃开分法，全赛季稳定过势力值任务，丝滑过渡金币期，稳扎稳打步步为营。_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "016",
+        "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/02_同阵容不同账号为何会变质_重蒸馏学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "017",
+        "rel": "报告库/阵容新批/精编/率土平民队伍之甘宁碰瓷队_精编学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "018",
+        "rel": "报告库/赛季/精编/最强四星0氪蜀之智，萌新玩家必看_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "019",
+        "rel": "报告库/旧56项目/精编/空城 一夫 单骑 反计应该如何选择？ 一篇内容讲清楚，让你不再迷茫!_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "020",
+        "rel": "报告库/旧56项目/精编/垒实体系克制关系，来了! 下期带来大量粉丝投稿解析，期待一下有没有你!_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "021",
+        "rel": "报告库/旧56项目/精编/率土最细最全攻略合集—垒实篇 评论抢点评! 把你们的垒实配队放在评论区哦!下期抽取点评别错过!_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "022",
+        "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—垒实篇投稿讲解 来了!多多留言，后续会定期抽取评论解析队伍。_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "023",
+        "rel": "报告库/旧56项目/精编/孙权完全不适配张机 ，来看看有哪些常见误区_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "024",
+        "rel": "报告库/阵容新批/精编/率土之滨队伍推荐第16队——宁元刀（黑科技）（碰瓷）_精编学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "025",
+        "rel": "报告库/旧56项目/精编/从零开始，宝物养成焚决，来了！ 刚进征服看见宝物系统，摸不着头脑？老是乱打一堆毫不适配的残品？别着急，北冥让你一篇看懂！_精编学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "026",
+        "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/09_平民账号只配三队的决策_重蒸馏学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "027",
+        "rel": "报告库/开荒/精编/开荒专题（5视频合并）_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "028",
+        "rel": "报告库/旧56项目/精编/装糖队到底糖不糖 一支拉满细节的队伍，非常值得推敲。  原创队伍。_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "029",
+        "rel": "报告库/旧56项目/精编/张机如何显著降低败率？ 首先要理解张机这个武将最需要的是什么。_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "030",
+        "rel": "报告库/旧56项目/精编/徐庶能玩吗？ 当然可以，平民极佳的战磐选择，来了！_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "031",
+        "rel": "报告库/战法阈值精简学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "032",
+        "rel": "报告库/旧56项目/精编/全率土最全攻略，战法篇! 重磅来袭!_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "033",
+        "rel": "报告库/旧56项目/精编/全率土最全攻略合集！体系篇 ——战磐体系 来了！_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "034",
+        "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—战磐篇粉丝答疑 战磐篇粉丝答疑来了，看看有没有你的队伍？ 跟北冥多多互动，留言下期想看主五哪个体系？_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "035",
+        "rel": "报告库/标杆/攻其不备体系投稿解析与配队判断_当前标杆_20260907.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "036",
+        "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—攻其篇 评论区投稿，下期点评队伍哦_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "037",
+        "rel": "报告库/旧56项目/精编/距离思路究极细节 ，普攻距离和战法距离，真的是越远越好吗？_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "038",
+        "rel": "报告库/旧56项目/精编/率土武将志—文鸯、程昱 文鸯程昱武将详解来了!_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "039",
+        "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/07_无孙权账号的替代开荒与四队分配_重蒸馏学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "040",
+        "rel": "报告库/旧56项目/精编/全率土最全入门攻略合集!  来了!_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "041",
+        "rel": "报告库/阵容新批/精编/撸铁队详解_精编学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "042",
+        "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/06_有战法但缺核心武将时如何止损_重蒸馏学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "043",
+        "rel": "报告库/旧56项目/精编/杜预垒实队，战报来了！ 一起来看看实战表现如何吧！_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "044",
+        "rel": "报告库/旧56项目/精编/全新垒实体系震撼来袭！ 杜垒司见过没，杜预也能走垒实？_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "045",
+        "rel": "报告库/阵容新批/精编/video_免费粉丝配将第十一期，继续配将。..._top_0_2_精编学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "046",
+        "rel": "报告库/旧56项目/精编/武将咋加点？ 一篇看明白!_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "047",
+        "rel": "报告库/旧56项目/精编/这战法概率也太夸张了！ 也没人说甘宁带及锋概率能到80啊！_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "048",
+        "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—百战篇 来了!一篇带你看懂百战体系原理!_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "049",
+        "rel": "报告库/旧56项目/精编/粉丝赞不绝口的队伍来咯！ 感谢粉丝分享！_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "050",
+        "rel": "报告库/旧56项目/精编/全率土最细最强攻略合集 神赏体系粉丝投稿解析，来了_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "051",
+        "rel": "报告库/旧56项目/精编/全率土最全攻略合集—神赏篇 来了! 评论投稿，下期解析哦!_精编学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "052",
+        "rel": "报告库/旧56项目/精编/程昱魏智最强搭配—所有细节一篇看懂 魏智的宝物你真的带对了吗？_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "053",
+        "rel": "报告库/阵容新批/精编/四星称号神队晋步，竹林七贤_精编学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "054",
+        "rel": "报告库/旧56项目/精编/纯刀居然还有上升空间？ 一个改动，拉高强度_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "055",
+        "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/03_缺将缺法账号的四队顺序分配_重蒸馏学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "056",
+        "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/08_缺核心后的功能位替代_重蒸馏学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "057",
+        "rel": "报告库/旧56项目/精编/配将焚决来了 全体系队伍搭建思路最后一期，真焚决—宏观配将法，来了! 跟合集内容全部融会贯通，你也能成配将大手子!_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "058",
+        "rel": "报告库/旧56项目/精编/全率土最细最全攻略合集—全赛季发育思路 资源产量篇，来了，产量突破十五万不在困难，资源见底窘境不再出现，焚决速看!_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "059",
+        "rel": "报告库/旧56项目/精编/平民怎么出法刀 北冥给你小妙招! 平民怎么出法刀 北冥给你小妙招!_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "060",
+        "rel": "报告库/阵容新批/重蒸馏_2至13_20260911/04_资源受限账号的三队分配方法_重蒸馏学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "061",
+        "rel": "报告库/阵容新批/精编/配将点评_精编学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "062",
+        "rel": "报告库/旧56项目/精编/率土最全攻略合集 全赛季发育思路，金币获取篇，来了！_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "063",
+        "rel": "报告库/旧56项目/精编/马超纯刀最强配置卷土来袭! 单次进攻两万五武勋!两个细节带飞马超!_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "064",
+        "rel": "报告库/旧56项目/精编/高顺领衔群骑，来了！ 8回合高频解控，四重增伤，非常均衡的一队。_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "065",
+        "rel": "报告库/旧56项目/精编/率土武将志—贾诩 使用手册来了!一篇全看懂!_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "066",
+        "rel": "报告库/旧56项目/精编/率土武将志—魏晋篇，来了 率土最全武将志，所有武将该拆改留，有什么价值，全部讲清楚_精修学习报告.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": true,
+        "reliability_grade": "A",
+        "p0_audit_status": "pass",
+        "cross_acceptance_status": "pass",
+        "light_audit_status": "pass"
+      },
+      {
+        "no": "067",
+        "rel": "报告库/武将攻略/马岱体系的成立条件与配队判断_精编学习报告_20260916.docx",
+        "indexed_out_exists": true,
+        "local_rel_exists": true,
+        "sha256_matches": true,
+        "source_retirement_ready": false,
+        "reliability_grade": "pending",
+        "p0_audit_status": "not_scanned",
+        "cross_acceptance_status": "not_checked",
+        "light_audit_status": "pass"
+      }
+    ]
+  },
+  "strategy_library": {
+    "directory_exists": true,
+    "file_count": 0
+  },
+  "evidence_chain": {
+    "stored_stats": {
+      "total_reports": 69,
+      "with_frames": 67,
+      "with_video": 67,
+      "with_transcript": 47,
+      "with_alt_version": 69
+    },
+    "current_path_counts": {
+      "report": {
+        "recorded": 69,
+        "old_absolute_exists": 0,
+        "rebased_local_exists": 51
+      },
+      "frames_dir": {
+        "recorded": 67,
+        "old_absolute_exists": 0,
+        "rebased_local_exists": 0
+      },
+      "video": {
+        "recorded": 67,
+        "old_absolute_exists": 0,
+        "rebased_local_exists": 0
+      },
+      "transcript": {
+        "recorded": 47,
+        "old_absolute_exists": 0,
+        "rebased_local_exists": 0
+      },
+      "contact_sheet_dir": {
+        "recorded": 47,
+        "old_absolute_exists": 0,
+        "rebased_local_exists": 0
+      },
+      "alt_reports": {
+        "recorded": 69,
+        "old_absolute_exists": 0,
+        "rebased_local_exists": 0
+      }
+    },
+    "role": "historical source index generated before source retirement; rebasing cannot restore retired assets"
+  },
+  "historical_audit_json_schema": {
+    "资料库/audit_work/20260913_p0_reliability_scan/CROSS_REPORT_ACCEPTANCE.json": {
+      "type": "object",
+      "count": 7,
+      "top_fields": [
+        "accepted_at",
+        "checks",
+        "overall_passed",
+        "passed",
+        "results",
+        "review",
+        "scope"
+      ]
+    },
+    "资料库/audit_work/20260913_p0_reliability_scan/FINAL_SPOTCHECK_RESULT.json": {
+      "type": "object",
+      "count": 11,
+      "top_fields": [
+        "accepted_at",
+        "library_scope",
+        "method",
+        "overall_passed",
+        "passed",
+        "rendered_pages_inspected",
+        "results",
+        "retirement_gate_meaning",
+        "review",
+        "sample_size",
+        "seed"
+      ]
+    },
+    "资料库/audit_work/20260913_p0_reliability_scan/P0_ADJUDICATION.json": {
+      "type": "object",
+      "count": 11,
+      "top_fields": [
+        "adjudicated_at",
+        "candidate_count",
+        "edited_reports",
+        "p0_pass_reports",
+        "resolved_count",
+        "results",
+        "scope",
+        "source_retirement_note",
+        "source_retirement_ready",
+        "unresolved_count",
+        "verdict_counts"
+      ]
+    },
+    "资料库/audit_work/20260913_source_retirement_manifest/DELETE_DRY_RUN_RESULT.json": {
+      "type": "object",
+      "count": 16,
+      "top_fields": [
+        "candidate_directory_roots",
+        "candidate_explicit_files",
+        "completed_at",
+        "deletion_performed",
+        "estimated_bytes",
+        "estimated_gib",
+        "mode",
+        "plan_sha256",
+        "protected_active_reports",
+        "protected_files",
+        "protected_roots",
+        "remaining_candidate_files",
+        "remaining_candidate_roots",
+        "started_at",
+        "validation_passed",
+        "workspace_root"
+      ]
+    },
+    "资料库/audit_work/20260913_source_retirement_manifest/DELETE_EXECUTION_RESULT.json": {
+      "type": "object",
+      "count": 16,
+      "top_fields": [
+        "candidate_directory_roots",
+        "candidate_explicit_files",
+        "completed_at",
+        "deletion_performed",
+        "estimated_bytes",
+        "estimated_gib",
+        "mode",
+        "plan_sha256",
+        "protected_active_reports",
+        "protected_files",
+        "protected_roots",
+        "remaining_candidate_files",
+        "remaining_candidate_roots",
+        "started_at",
+        "validation_passed",
+        "workspace_root"
+      ]
+    },
+    "资料库/audit_work/20260913_source_retirement_manifest/FINAL_CLEANUP_DRY_RUN.json": {
+      "type": "object",
+      "count": 7,
+      "top_fields": [
+        "deletion_performed",
+        "directory_roots",
+        "explicit_files",
+        "mode",
+        "protected",
+        "totals",
+        "validation"
+      ]
+    },
+    "资料库/audit_work/20260913_source_retirement_manifest/INACTIVE_REPORT_AND_HOLD_AUDIT.json": {
+      "type": "object",
+      "count": 6,
+      "top_fields": [
+        "deletion_performed",
+        "hold_split",
+        "inactive_report_decisions",
+        "inactive_report_summary",
+        "mode",
+        "unresolved_count"
+      ]
+    },
+    "资料库/audit_work/20260913_source_retirement_manifest/POST_AUDIT_CLEANUP_DRY-RUN.json": {
+      "type": "object",
+      "count": 12,
+      "top_fields": [
+        "bytes",
+        "completed_at",
+        "deletion_performed",
+        "high_confidence_files",
+        "items",
+        "mib",
+        "mode",
+        "old_output_files",
+        "protected_active_reports",
+        "remaining_targets",
+        "total_files",
+        "validation_passed"
+      ]
+    },
+    "资料库/audit_work/20260913_source_retirement_manifest/POST_AUDIT_CLEANUP_EXECUTE.json": {
+      "type": "object",
+      "count": 12,
+      "top_fields": [
+        "bytes",
+        "completed_at",
+        "deletion_performed",
+        "high_confidence_files",
+        "items",
+        "mib",
+        "mode",
+        "old_output_files",
+        "protected_active_reports",
+        "remaining_targets",
+        "total_files",
+        "validation_passed"
+      ]
+    },
+    "资料库/audit_work/20260913_source_retirement_manifest/SOURCE_RETIREMENT_MANIFEST.json": {
+      "type": "object",
+      "count": 9,
+      "top_fields": [
+        "active_report_candidate_overlap",
+        "active_reports",
+        "all_active_reports_pass_reliability_gate",
+        "deletion_performed",
+        "generated_at",
+        "groups",
+        "mode",
+        "must_keep",
+        "safety"
+      ]
+    }
+  }
+}
