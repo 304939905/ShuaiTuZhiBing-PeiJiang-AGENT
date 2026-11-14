@@ -1,76 +1,81 @@
-# Project Agent Guide
+# 项目代理接手说明
 
-This repository is an evidence-bounded agent workspace for the game `率土之滨`.
-It supports current-account account intake, lineup construction, resource
-validation, battle-report review, and retrieval from a curated strategy library.
+本仓库是《率土之滨》的证据有界配将 Agent 工作库，用于当前账号接手、阵容规划、
+资源校验、交付验收、战报复盘和攻略知识检索。
 
-## Read order
+## 接手阅读顺序
 
-1. `README.md` for the current entry points and runnable commands.
-2. `迁移知识与流程接手_20261012.md` for the adopted workflow and evidence boundaries.
-3. `.workbuddy/memory/RULES/` for the authoritative rules, read 01 through 05.
-4. `工具/配将服务/README.md` for the executable service contract.
-5. The mechanism and battle-report rules under `资料库/官方机制库/`.
-6. `PUBLISHING.md` before adding large files or publishing artifacts.
+1. `README.md`：项目定位、开发过程、功能、资料库和当前入口。
+2. `蒸馏视频表.md`：视频批次、历史产物、当前活动报告与淘汰关系。
+3. `迁移知识与流程接手_20261012.md`：已采用的成熟方法、证据边界和历史口径处理。
+4. `.workbuddy/memory/RULES/`：权威规则，完整阅读 01—05。
+5. `工具/配将服务/README.md`：可执行服务的输入、输出、验收状态和能力边界。
+6. `资料库/官方机制库/`：基础机制、战法冲突、战报反馈和玩家实测参考。
+7. `PUBLISHING.md`：新增附件或公开仓库前的体积、隐私和授权检查。
 
-Historical `HANDOFF_*.md` files are snapshots, not current-state proof. Later
-decisions in the rules and migration note take precedence over stale entries.
+`HANDOFF_*.md` 是历史快照，不是当前状态的直接证明。后续规则和最新接手说明优先于旧日志。
 
-## Non-negotiable evidence boundaries
+## 不可突破的证据边界
 
-- Use the current client, current account export, current skill text, and current
-  battle evidence before relying on old reports or historical lineups.
-- Never commit or print a raw 百家社 account export, login token, cookie, API key,
-  or other credential. Use read-only parsing; persist a sanitized profile only
-  when the user explicitly asks for an account archive.
-- Resolve heroes by exact IDs and matching built-in skills. Never infer a hero
-  version or star level from name order, `hero_extra.quality`, or a report alone.
-- Treat `lineup_ready` and `delivery_ready` as different states. A passing
-  structural validator is not proof of lineup strength or current meta rank.
-- Keep verified facts, structural judgments, and unresolved items separate.
-  Unknown season, skill parameters, research state, gear, or duplicate-card counts
-  must remain unknown.
-- Historical articles and refined reports are low-weight cases. The mechanism
-  rules and current evidence override them.
+- 先使用当前客户端、当前账号导出、当前战法文本和本次战报，再参考历史报告。
+- 不提交、打印或公开百家社原始账号导出、Token、Cookie、API Key 或其他凭据。
+- 原始账号只做只读解析；只有用户明确要求时才生成脱敏账号档案。
+- 武将版本必须由精确 ID、阵营、星级、SP/XP 标识和自带战法共同锁定，不能按姓名、库顺序或众数猜测。
+- `hero_extra.quality=4-SR` 不是四星；“极”按后续规则解释为觉醒，不是新增星级。
+- 战法份数按可分配总份数规划。导出只有空闲数时，补出的总份数必须注明来源。
+- XP 只是标签，不能直接等同征服赛季。已拥有可用和当前可新获取分开判断。
+- 未知赛季、研究进度、宝物、副卡数和战法参数必须保持未知，不补猜。
+- `lineup_ready` 和 `delivery_ready` 分开。程序通过不等于阵容强度、环境排名或胜率证明。
+- 历史攻略和精编报告是低权重案例；当前官方机制、当前客户端和本次事件战报优先。
 
-## Working defaults
+## 默认工作口径
 
-- A complete consultation first asks for season/script, purpose, team count,
-  COST, and explicitly preserved old teams.
-- Treat hero level as 30 by default for planning unless the user specifies another
-  value. This is a calculation default, not an account fact.
-- Inventory skills by total allocatable copies. Old teams can normally be
-  dismantled; explicitly preserved teams reserve their heroes and skills.
-- Prioritize the first three main teams before allocating later utility teams.
-- For random or strength findings, require at least five representative battle
-  reports per team; a fully evidenced deterministic hard error can be corrected
-  immediately.
+- 完整账号咨询先确认赛季或剧本、用途、队伍数、单队 COST、觉醒资源和明确保留的旧队。
+- 配将计算默认武将等级为 30 级；该默认值不代表账号实际等级。
+- 默认旧队可拆并回收资源；只有用户明确要求保留的旧队才继续占用武将和战法。
+- 先锁前三主力，再安排工具队、翻地队、拆迁队或其他任务队。
+- 比较候选时同时计算主队增益和失去的抗线、翻地、拆迁能力。
+- 概率或强度问题每队至少需要 5 份含事件证据的代表战报；完整事件链已确认的确定性硬错误可以立即修正。
+- 没有完整事件链时，不根据单场胜负、总伤害、武勋或摘要结果重做队伍。
 
-## Verification
+## 功能入口
 
-Use Python 3.10 or newer. From the repository root:
+- `工具/配将服务/parse_account.py`：只读解析当前账号导出。
+- `工具/配将服务/season_gate.py`：检查当前赛季能否新获取。
+- `工具/配将服务/validate_lineup.py`：检查阵容结构和全局资源。
+- `工具/配将服务/audit_consultation.py`：检查正式交付字段、警告和施政内容。
+- `工具/配将服务/analyze_battle_reports.py`：分析结构化战报和重复问题。
+- `资料库/reports_index.md`：检索当前 67 份活动报告。
+- `资料库/策略知识库/`：读取学习总览、学习卡和使用边界。
+- `资料库/evidence_chain.md`：查看历史报告与源材料映射。
+
+## 验证命令
+
+使用 Python 3.10 或更高版本。在仓库根目录执行：
 
 ```powershell
 $env:PYTHONDONTWRITEBYTECODE = '1'
 $env:PYTHONIOENCODING = 'utf-8'
+
 python -m unittest discover -s '.\工具\配将服务' -p 'test_*.py' -v
 python '.\资料库\test_aa_rate_supplement.py'
 python '.\资料库\test_hero_version_resolver.py'
 python '.\资料库\test_legacy_version_evidence.py'
 ```
 
-The local Windows verification baseline has also been run with:
+当前验证基线：
 
-```text
-C:\Users\30493\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe
-```
+- 配将服务 37 项测试通过；
+- AA 补充库校验通过，来源为退役模式；
+- 武将版本解析通过；
+- 旧版本证据兼容通过。
 
-That absolute interpreter path is machine-specific and must not be treated as a
-portable project dependency.
+本机曾使用的绝对解释器路径只属于特定 Windows 环境，不是项目的可移植依赖。
 
-## Repository hygiene
+## 仓库维护
 
-The main branch intentionally carries searchable text, source code, structured
-JSON, and DOCX reports. Portable tools, videos, screenshots, archives, and scratch
-renders belong outside the main tree. See `PUBLISHING.md`.
+主分支只保存可检索文本、源码、结构化 JSON 和最终 DOCX。便携工具、原视频、图片、
+PDF、压缩包和临时渲染稿放在仓库外，必要时另做 Release 附件。
 
+新增或发布文件前先读 `PUBLISHING.md`。历史文件、第三方资料和内部日志没有明确授权时，
+不把私有仓库直接改为公开。
