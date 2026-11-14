@@ -23,6 +23,17 @@
 
 ## 可选附件
 
+### 最新配将成果
+
+2026-10-14 的《S3 打架重配方案 v2（30级）Word 报告》单独发布在：
+
+- [下载 Word 报告](https://github.com/304939905/ShuaiTuZhiBing-PeiJiang-AGENT/releases/download/latest-report-v2-20261014/S3_PeiJiang_Report_v2_Level30_20261014.docx)
+- [查看成果发布页](https://github.com/304939905/ShuaiTuZhiBing-PeiJiang-AGENT/releases/tag/latest-report-v2-20261014)
+
+该报告是讨论稿，实际觉醒预算不足，`lineup_ready` 和 `delivery_ready` 均为 `false`。
+
+### 原始来源附件
+
 原始来源附件单独发布在：
 
 [`source-attachments-v1`](https://github.com/304939905/ShuaiTuZhiBing-PeiJiang-AGENT/releases/tag/source-attachments-v1)
@@ -55,7 +66,7 @@ GitHub 当前规则：
 
 ## 可见性与授权
 
-仓库初始为私有。内部包含开发日志、第三方攻略资料、图片和历史摘录，尚未完成公开再分发授权。
+仓库当前公开。内部包含开发日志、第三方攻略资料、图片和历史摘录，尚未完成公开再分发授权。
 
 改为公开前至少检查：
 
@@ -80,6 +91,6 @@ GitHub 当前规则：
 
 - 主仓库：约 18 MB；
 - 默认分支：`main`；
-- 可见性：私有；
+- 可见性：公开；
 - 可选来源附件：约 91.04 MiB；
 - 附件 SHA-256：`BDF71798ECBA21CFBF023BC27ED22673075425F3946E1AD5A5176D8907822B10`。

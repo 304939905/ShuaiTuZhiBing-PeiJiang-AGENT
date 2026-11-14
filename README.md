@@ -1,5 +1,18 @@
 # 率土之滨配将 Agent
 
+> [!IMPORTANT]
+> ## 最新配将成果
+>
+> **《S3 打架重配方案 v2（30级）》｜2026-10-14**
+>
+> 核心方案：控制三女、形兵追击优先成型；荀彧策略作为第三队发展候选，暂不凑第四队。
+>
+> **[下载 Word 报告](https://github.com/304939905/ShuaiTuZhiBing-PeiJiang-AGENT/releases/download/latest-report-v2-20261014/S3_PeiJiang_Report_v2_Level30_20261014.docx)**　｜　[查看成果发布页](https://github.com/304939905/ShuaiTuZhiBing-PeiJiang-AGENT/releases/tag/latest-report-v2-20261014)
+>
+> 报告 SHA-256：`0D58C0C1ED315CC078921B7FE15F45703BC6BE1BC297E17E5A92327ED147D331`
+>
+> **交付状态：讨论稿。** 全觉醒假设下结构无硬错误；实际需要新增 5 个五星觉醒，当前只声明 1 个，因此 `lineup_ready=false`、`delivery_ready=false`。最终速度、部分战法总份数和代表战报仍待核验。
+
 > 一个面向《率土之滨》的账号诊断、配将规划、资源校验、交付验收和战报复盘项目。
 > 项目重点不是生成“万能阵容答案”，而是把当前账号事实、官方资料边界、攻略案例、战法资源和实战证据串成可复核的决策链。
 
