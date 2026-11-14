@@ -9,7 +9,7 @@
 - [AGENTS.md](AGENTS.md)：代理接手顺序、证据边界、默认工作口径与验证命令。
 - [PUBLISHING.md](PUBLISHING.md)：仓库内容分层、附件策略、下载流量取舍与公开前检查。
 
-主仓库只保留可检索文本、源码、结构化 JSON 和最终 DOCX 报告。便携 LibreOffice、原始视频、网页快照、压缩包与临时渲染稿不进入普通克隆；原始素材另见 GitHub Release `source-attachments-v1`，按需下载。
+主仓库只保留可检索文本、源码、结构化 JSON 和最终 DOCX 报告。便携 LibreOffice、原始视频、网页快照、压缩包与临时渲染稿不进入普通克隆；原始素材另见 [GitHub Release `source-attachments-v1`](https://github.com/304939905/ShuaiTuZhiBing-PeiJiang-AGENT/releases/tag/source-attachments-v1)，按需下载。
 
 ## 接手阅读入口
 

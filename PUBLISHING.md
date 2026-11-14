@@ -23,9 +23,10 @@ reports. Large source media is optional and should not block ordinary use.
 - `_tmp_madai_review_*/`: temporary review output.
 - Raw account exports, tokens, cookies, keys, credentials, and local secrets.
 
-The source-media attachment pack is published separately on the GitHub Release
-named `source-attachments-v1`. It is optional and can be skipped by users who
-only need the agent and knowledge base.
+The source-media attachment pack is published separately on the
+[`source-attachments-v1` release](https://github.com/304939905/ShuaiTuZhiBing-PeiJiang-AGENT/releases/tag/source-attachments-v1).
+It is optional and can be skipped by users who only need the agent and knowledge
+base.
 
 ## Why not Git LFS for this project
 
